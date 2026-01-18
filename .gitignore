@@ -1,0 +1,9 @@
+# .gitignore
+
+.env
+__pycache__/
+data/raw/*
+data/processed/*
+data/indexes/*
+*.db
+*.index
