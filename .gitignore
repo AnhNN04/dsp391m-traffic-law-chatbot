@@ -7,3 +7,27 @@ data/processed/*
 data/indexes/*
 *.db
 *.index
+# Ignore virtual environment folders
+venv/
+env/
+.DS_Store
+.idea/
+.vscode/
+# Ignore Python bytecode files
+*.pyc
+# Ignore logs
+logs/*.log
+# Ignore coverage reports
+htmlcov/
+.coverage
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore pytest cache
+.pytest_cache/
+# Ignore mypy cache
+.mypy_cache/
+# Ignore SQLite database files
+*.sqlite3   
+
+# Ignore project setup script
+dsp391m-traffic-law-chatbot/chatbot/project-setup.sh
