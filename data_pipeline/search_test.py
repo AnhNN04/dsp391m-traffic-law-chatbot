@@ -8,7 +8,6 @@ from config import (
     TOP_K,
 )
 
-
 def load_data(path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -16,38 +15,40 @@ def load_data(path):
 
 def encode_query(model, query: str):
     return model.encode(
-        "query: " + query,
+        "query: " + query.strip(),
         normalize_embeddings=True
     )
 
-
-def search(query, data, model, top_k=5):
+def search(query, data, model, top_k=5, min_score=0.1):
     query_emb = encode_query(model, query)
 
     scores = []
     for item in data:
         emb = item.get("embedding")
-        if not emb:
+        if emb is None:
             continue
 
         score = float(np.dot(query_emb, np.array(emb)))
-        scores.append((score, item))
+        if score >= min_score:
+            scores.append((score, item))
 
     scores.sort(key=lambda x: x[0], reverse=True)
     return scores[:top_k]
-
 
 def print_results(query, results):
     print("=" * 80)
     print(f"Query: {query}")
     print("=" * 80)
 
+    if not results:
+        print("No relevant results found.")
+        return
+
     for score, item in results:
         print(f"Score: {score:.4f}")
-        print(item.get("article", ""))
-        print(item.get("content", "")[:300])
+        print(item.get("Điều", ""))
+        print(item.get("Nội-Dung", "")[:500])
         print("-" * 80)
-
 
 def main():
     print("Loading embedded data:", EMBED_OUTPUT)
