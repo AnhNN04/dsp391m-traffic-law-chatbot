@@ -13,6 +13,7 @@ env/
 .DS_Store
 .idea/
 .vscode/
+.venv/
 # Ignore Python bytecode files
 *.pyc
 # Ignore logs
