@@ -1,24 +1,84 @@
-# WARN[0000] /Users/anhnn/Documents/learning/fptu/semester8Sprint26/dsp/projects/dsp391m-traffic-law-chatbot/chatbot/docker-compose.yml: 
-# the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion 
-# version: '3.8'
 
 services:
-  db:
-    image: postgres:15-alpine
-    container_name: traffic_law_postgres
-    restart: always
-    environment:
-      - POSTGRES_USER=${POSTGRES_USER}
-      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
-      - POSTGRES_DB=${POSTGRES_DB}
+  # ==================== MongoDB Service ====================
+  # Used for chat history persistence (LangGraph Checkpointer)
+  mongodb:
+    image: mongo:7.0
+    container_name: traffic_law_mongodb
+    restart: unless-stopped
     ports:
-      - "${POSTGRES_PORT}:5432"
+      - "27017:27017"
+    environment:
+      # Root credentials (matches .env.example)
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: password123
+      # Create application database on init
+      MONGO_INITDB_DATABASE: traffic_law_db
     volumes:
-    # mount to ../postgres_data on host machine
-      - ../data/postgres_data:/var/lib/postgresql/data
+      # Persistent storage for MongoDB data
+      - mongodb_data:/data/db
+      # MongoDB configuration
+      - mongodb_config:/data/configdb
+      # Optional: Init scripts can be placed here
+      # - ./scripts/mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
     networks:
-      - traffic_net
+      - traffic_law_network
 
+  # ==================== ChromaDB Service ====================
+  # Used for vector similarity search (Legal documents embeddings)
+  chromadb:
+    image: chromadb/chroma:latest
+    container_name: traffic_law_chromadb
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      # ChromaDB settings
+      IS_PERSISTENT: "TRUE"
+      ANONYMIZED_TELEMETRY: "FALSE"
+      ALLOW_RESET: "TRUE"
+      # Authentication (optional - uncomment for production)
+      # CHROMA_SERVER_AUTH_CREDENTIALS: "admin:secure_password_here"
+      # CHROMA_SERVER_AUTH_PROVIDER: "chromadb.auth.basic.BasicAuthServerProvider"
+    volumes:
+      # Persistent storage for ChromaDB data
+      - chromadb_data:/chroma/chroma
+    networks:
+      - traffic_law_network
+
+  # ==================== Optional: Mongo Express (Web UI) ====================
+  # Uncomment this service if you want a web interface for MongoDB
+  # mongo-express:
+  #   image: mongo-express:latest
+  #   container_name: traffic_law_mongo_express
+  #   restart: unless-stopped
+  #   ports:
+  #     - "8081:8081"
+  #   environment:
+  #     ME_CONFIG_MONGODB_ADMINUSERNAME: username
+  #     ME_CONFIG_MONGODB_ADMINPASSWORD: password
+  #     ME_CONFIG_MONGODB_URL: mongodb://username:password@host:port/
+  #     ME_CONFIG_BASICAUTH_USERNAME: username
+  #     ME_CONFIG_BASICAUTH_PASSWORD: username
+  #   networks:
+  #     - traffic_law_network
+  #   depends_on:
+  #     - mongodb
+
+# ==================== Networks ====================
 networks:
-  traffic_net:
+  traffic_law_network:
     driver: bridge
+    name: traffic_law_network
+
+# ==================== Volumes ====================
+volumes:
+  mongodb_data:
+    driver: local
+    name: traffic_law_mongodb_data
+  mongodb_config:
+    driver: local
+    name: traffic_law_mongodb_config
+  chromadb_data:
+    driver: local
+    name: traffic_law_chromadb_data

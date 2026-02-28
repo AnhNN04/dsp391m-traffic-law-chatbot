@@ -1,46 +1,24 @@
-# --- Core API & Server ---
-fastapi>=0.109.0
-uvicorn[standard]>=0.27.0
-python-dotenv>=1.0.0
-httpx>=0.26.0
+# AI Frameworks & LLMs 
+langchain                # The core engine for everything
+langchain-openai         # Talking to GPT models
+langchain-groq           # Super fast inference with Groq
+langchain-community      # Extra tools from the community
+langchain-google-genai   # Using Google's Gemini models
 
-# --- Database & ORM ---
-sqlmodel>=0.0.14
-psycopg2-binary>=2.9.9
+# Agents & Workflow 
+langgraph                # Building smart agents with loops
+langgraph-checkpoint-mongodb  # Saving agent state to Mongo
+tavily-python            # Search engine made for AI agents
 
-# --- Authentication & Security ---
-python-jose[cryptography]>=3.3.0
-passlib[bcrypt]>=1.7.4
-python-multipart>=0.0.9
+# Databases & Storage 
+chromadb                 # Vector store for RAG / embeddings
+neo4j                    # Graph database for complex links
+pymongo                  # Driver for MongoDB stuff
 
-# --- AI & RAG Framework ---
-langchain>=0.1.0
-langchain-community>=0.0.10
-langchain-core>=0.1.0
-langgraph>=0.0.10
-
-# --- AI Providers ---
-langchain-openai>=0.0.5
-langchain-google-genai>=0.0.5
-
-# --- Knowledge Graph & Vector Store ---
-neo4j>=5.17.0
-
-# --- Data Ingestion (PDF Processing) ---
-pypdf>=4.0.0
-tiktoken>=0.5.2
-
-# --- Search Tools ---
-tavily-python>=0.3.0
-
-# --- Utilities ---
-pydantic>=2.5.1
-rich>=13.5.2
-pytest>=7.4.0
-pytest-asyncio>=0.22.0
-pydantic[email]
-
-# For testing purposes
-httpx>=0.26.0
-responses>=0.23.1
-requests>=2.31.0
+# Utils & Config
+pydantic                 # Data validation (staying organized)
+pydantic-settings        # Managing env vars easily
+python-dotenv            # Loading secrets from .env file
+loguru                   # Better & prettier logging
+pytest                   # Testing framework
+pytest-asyncio           # Testing async code with pytest
