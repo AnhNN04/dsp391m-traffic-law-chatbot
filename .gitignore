@@ -1,9 +1,47 @@
 # .gitignore
 
-.env
+# Python
 __pycache__/
-data/raw/*
-data/processed/*
-data/indexes/*
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Environments
+venv/
+env/
+.venv/
+ENV/
+
+# OS/IDEs
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Databases & Indexes
 *.db
+*.sqlite3
 *.index
+
+# Project specific data (raw, processed, indexes)
+data/raw/
+data/processed/
+data/indexes/
+chatbot/data/
+
+# Ignore project setup script
+dsp391m-traffic-law-chatbot/chatbot/project-setup.sh
