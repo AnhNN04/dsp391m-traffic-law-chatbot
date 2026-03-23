@@ -69,15 +69,15 @@ Người dùng thường dùng từ ngữ đời sống (colloquial) thay vì th
 - "đi ngược chiều" -> tương đương với "đi ngược chiều của đường đi một chiều"
 
 **QUY TẮC ĐÁNH GIÁ CHUNG:**
-- Nếu văn bản CÓ đề cập đến hành vi vi phạm tương đương với câu hỏi (sau khi đã suy luận từ ngữ học như trên) → `can_answer = true`
-- Nếu câu hỏi hỏi tổng quát về một luật, văn bản trong luật đó là ĐỦ ĐỂ TRẢ LỜI
-- Chỉ đặt `can_answer = false` khi văn bản HOÀN TOÀN không chứa bất kỳ hành vi tương đương nào. Ưu tiên giữ lại tài liệu để Generate Node xử lý thay vì reject.
+- Nếu văn bản CÓ đề cập đến hành vi vi phạm tương đương với câu hỏi (sau khi đã suy luận từ ngữ học như trên) → `can_answer = true`, `missing_info = ""`
+- Nếu văn bản đủ nhưng câu hỏi THIẾU thông tin quan trọng để tra ra mức phạt phân loại đúng (VD: hỏi chung chung không nêu loại xe, không đề cập hành vi cụ thể mà chỉ hỏi "bị xử phạt như thế nào", "phạt bao nhiêu" mà không nêu lỗi gì) → `can_answer = false`, `missing_info = "mô tả loại thông tin còn thiếu"` (VD: "loại phương tiện (xe máy hay ô tô)", "hành vi vi phạm cụ thể")
+- Chỉ đặt `can_answer = false` kèm `missing_info = ""` (để trống) khi văn bản HOÀN TOÀN không chứa bất kỳ hành vi tương đương nào.
 
 Trả về JSON:
 {{
     "can_answer": true hoặc false,
     "reason": "Lý do ngắn gọn (nếu true, hãy chỉ ra cụm từ luật pháp tương đương. Nếu false, giải thích tại sao không khớp)",
-    "missing_info": "" (nếu can_answer=false: thiếu gì),
+    "missing_info": "" (nếu can_answer=false và câu hỏi THIẾU thông tin: ghi rõ thông tin nào thiếu. Nếu câu hỏi đủ ý nhưng DB không có: để trống),
     "confidence": 0.9
 }}
 """
@@ -111,11 +111,11 @@ Trả về JSON:
             query = state["rewritten_query"]
             documents = state["documents"]
             
-            # Case 1: Documents rỗng -> Web search
+            # Case 1: Documents rỗng -> Generate fallback
             if not documents:
-                logger.info(f"[{self.node_name}] No documents found, routing to web_search")
+                logger.info(f"[{self.node_name}] No documents found, routing to generate")
                 result = {
-                    "next_action": "web_search",
+                    "next_action": "generate",
                     "grade_result": {
                         "can_answer": False,
                         "reason": "No documents retrieved"
@@ -194,7 +194,7 @@ Trả về JSON:
             # Fallback: Simple heuristic
             return self._heuristic_grade(query, documents)
     
-    def _format_documents(self, documents: list, max_chars: int = 2000) -> str:
+    def _format_documents(self, documents: list, max_chars: int = 8000) -> str:
         """Format documents với metadata đầy đủ để LLM biết nguồn luật."""
         formatted_lines = []
         total_chars = 0
@@ -215,8 +215,8 @@ Trả về JSON:
                 law_id     = meta.get("law_id", "")
                 clause     = meta.get("clause", "")
 
-            if len(content) > 500:
-                content = content[:500] + "..."
+            if len(content) > 2000:
+                content = content[:2000] + "..."
 
             # Header rõ ràng giúp LLM nhận ra luật nào
             header_parts = []
@@ -268,22 +268,35 @@ Trả về JSON:
         self, 
         grade_result: GradeResult,
         has_documents: bool = True
-    ) -> Literal["generate", "web_search", "ask_human"]:
+    ) -> Literal["generate", "ask_human"]:
         """
         Quyết định next action dựa trên đánh giá của LLM.
         
         Logic:
-        - Nếu LLM đánh giá văn bản CÓ THỂ trả lời (can_answer=True) -> generate
-        - Nếu LLM đánh giá văn bản KHÔNG THỂ trả lời (can_answer=False) -> web_search
-        - Nếu không có văn bản nào -> web_search
+        - can_answer = True                          -> generate
+        - can_answer = False + missing_info có nội dung -> ask_human (câu hỏi thiếu thông tin)
+        - can_answer = False + missing_info rỗng        -> generate (DB không có dữ liệu, fallback)
         """
-        # Không có docs → web search
+        # Không có docs → generate fallback
         if not has_documents:
-            return "web_search"
-            
-        # Nếu LLM đánh giá không thể trả lời bằng đống văn bản này -> fallback web_search
-        if not grade_result.can_answer:
-            logger.info(f"[{self.node_name}] Documents irrelevant/insufficient, routing to web_search. Reason: {grade_result.reason}")
-            return "web_search"
-            
+            logger.info(f"[{self.node_name}] No documents, routing to generate fallback")
+            return "generate"
+        
+        # Có thể trả lời → generate
+        if grade_result.can_answer:
+            return "generate"
+        
+        # Không thể trả lời được
+        missing = (grade_result.missing_info or "").strip()
+        if missing:
+            # Câu hỏi thiếu thông tin quan trọng → hỏi lại người dùng
+            logger.info(
+                f"[{self.node_name}] Query lacks info: '{missing}', routing to ask_human"
+            )
+            return "ask_human"
+        
+        # Database không có dữ liệu → generate sẽ thừa nhận không biết
+        logger.info(
+            f"[{self.node_name}] Documents insufficient/irrelevant, routing to generate fallback. Reason: {grade_result.reason}"
+        )
         return "generate"

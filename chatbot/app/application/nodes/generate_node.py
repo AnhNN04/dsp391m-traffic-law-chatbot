@@ -99,13 +99,18 @@ Hãy trả lời đầy đủ và chính xác câu hỏi dựa trên các văn b
             query = state["rewritten_query"]
             documents = state.get("documents", [])
             data_source = state.get("data_source", "unknown")
+            intent = state.get("intent", "legal")
             
-            # Case 1: Không có documents -> Trả lời chung chung
-            if not documents:
+            # Case 1: Chitchat (không có documents vì chưa qua Retrieval)
+            if not documents and intent not in ["legal", "procedure"]:
+                logger.info(f"[{self.node_name}] Chitchat detected, generating conversational response")
+                answer = self._generate_chitchat_response(query)
+            # Case 2: Không có documents nhưng là câu hỏi pháp lý -> Không tìm được gì
+            elif not documents:
                 logger.warning(f"[{self.node_name}] No documents, generating fallback answer")
                 answer = self._generate_fallback_answer(query)
             else:
-                # Case 2: Có documents -> Sinh câu trả lời từ context
+                # Case 3: Có documents -> Sinh câu trả lời từ context
                 answer = self._generate_from_documents(query, documents, data_source)
             
             logger.info(
@@ -341,13 +346,18 @@ Hãy trả lời đầy đủ và chính xác câu hỏi dựa trên các văn b
         
         if any(kw in query_lower for kw in ["tạm biệt", "bye"]):
             return (
-                "Tạm biệt anh/chị! Chúc anh/chị lái xe an toàn ạ. "
+                "Tạm biệt anh/chị! Hy vọng là em đã giúp ích được cho anh/chị. "
                 "Hẹn gặp lại! 👋"
+            )
+        else:
+            return (
+                "Câu hỏi của anh/chị không thuộc lĩnh vực luật giao thông mà em có thể hỗ trợ. "
+                "Anh/chị có muốn hỏi về các quy định, mức phạt hoặc thủ tục giao thông không ạ? 🚦"
             )
         
         # Default chitchat
-        return (
-            "Em là trợ lý tư vấn về luật giao thông Việt Nam. "
-            "Anh/chị có câu hỏi gì về các quy định, mức phạt, "
-            "hoặc thủ tục liên quan đến giao thông không ạ?"
-        )
+        # return (
+        #     "Em là trợ lý tư vấn về luật giao thông Việt Nam. "
+        #     "Anh/chị có câu hỏi gì về các quy định, mức phạt, "
+        #     "hoặc thủ tục liên quan đến giao thông không ạ?"
+        # )

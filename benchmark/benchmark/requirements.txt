@@ -1,0 +1,9 @@
+#For crawl and testing
+beautifulsoup4           # Web scraping for data collection
+requests                 # Making HTTP requests for crawling
+selenium
+pandas
+matplotlib
+seaborn
+wordcloud
+                 # Browser automation for dynamic content

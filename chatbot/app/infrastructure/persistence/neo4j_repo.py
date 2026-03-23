@@ -23,8 +23,8 @@ from app.infrastructure.config import get_logger, settings
 logger = get_logger(__name__)
 
 # Lazy-load embedding model để tránh import nặng khi khởi động
-# Model này tạo ra vector 768 chiều khớp với vector.dimensions trong push_to_neo4j.py
-_EMBED_MODEL_NAME = "paraphrase-multilingual-mpnet-base-v2"
+# Model này tạo ra vector 384 chiều khớp với settings.EMBEDDING_DIMENSIONS
+_EMBED_MODEL_NAME = settings.EMBEDDING_MODEL
 _embed_model = None
 
 
@@ -126,18 +126,14 @@ class Neo4jRepo(IGraphStore):
             phrase_docs = self._phrase_search(search_terms, limit=10)
             add_docs(phrase_docs)
 
-            # Strategy 2: Vector semantic search
-            vector_docs = self._vector_search(search_terms, limit=10)
-            add_docs(vector_docs)
-
-            # Strategy 3: Fulltext keyword search (bổ sung)
+            # Strategy 2: Fulltext keyword search (bổ sung)
             keyword_docs = self._fulltext_search(search_terms, limit=10)
             add_docs(keyword_docs)
 
             # Sắp xếp lại tổng hợp các tài liệu theo điểm score giảm dần để giữ lại những kết quả tốt nhất
             results.sort(key=lambda x: getattr(x, "score", 0.0) or 0.0, reverse=True)
 
-            logger.debug(f"Neo4j search complete: {len(results)} docs, returning top {limit}")
+            logger.debug(f"Neo4j textual search complete: {len(results)} docs (excluding vector), returning top {limit}")
             return results[:limit]
 
         except Exception as e:
@@ -232,85 +228,81 @@ class Neo4jRepo(IGraphStore):
             logger.warning(f"Law-specific search for '{law_num}' failed: {e}")
             return []
 
-
-    def _vector_search(self, query: str, limit: int = 5) -> List[LegalDocument]:
-        """Semantic search dùng vector index."""
+    def get_entity_subgraph_by_ids(self, doc_ids: List[str]) -> List[LegalDocument]:
+        """
+        [NEW - STRATEGY 4] Entity Graph Traversal.
+        Từ danh sách ID của các khoản/điều (doc_ids) đã được tìm thấy bởi quá trình Vector Search/Fulltext,
+        truy vấn vào Neo4j để lấy ra trọn bộ mạng lưới thực thể (Entities) và các móc xích quan hệ.
+        Kết quả trả về dưới dạng văn bản tổng hợp siêu giàu ngữ nghĩa.
+        """
+        if not doc_ids:
+            return []
+            
         try:
-            embedding = _embed_text(query)
-
             cypher = """
-            CALL db.index.vector.queryNodes('clause_embedding', $limit, $embedding)
-            YIELD node AS matched_node, score
+            UNWIND $doc_ids AS doc_id
+            MATCH (cl:Clause {id: doc_id})
+            // Tìm tất cả các quan hệ xuất phát từ Clause (quy định hành vi, thẩm quyền)
+            OPTIONAL MATCH (cl)-[r]->(e:KGEntity)
+            WITH cl, e, type(r) AS rel_type
+            WHERE e IS NOT NULL
             
-            // Dò ngược lên `Article` chứa node này
-            OPTIONAL MATCH (matched_node)<-[:HAS_CLAUSE]-(parent:Article)
-            WITH matched_node, score, coalesce(parent, matched_node) AS article
+            // Tìm các quan hệ cấp 2 từ Entity ra các Entity khác (Vi phạm -> Phạt tiền)
+            OPTIONAL MATCH (e)-[r2]->(e2:KGEntity)
+            WITH cl, e.name AS e1_name, e.type AS e1_type, rel_type, type(r2) AS rel_type2, e2.name AS e2_name, e2.type AS e2_type
             
-            // Leo lên đỉnh đồ thị để lấy thông tin Luật (Document) qua Chapter
-            OPTIONAL MATCH (article)<-[:HAS_ARTICLE]-(:Chapter)<-[:HAS_CHAPTER]-(doc:Document)
-            
-            // Tìm tất cả các Clause con của Article này để lấy ngữ cảnh trọn vẹn
-            OPTIONAL MATCH (article)-[:HAS_CLAUSE]->(cl:Clause)
-            WITH article, matched_node, score, doc,
-                 article.article + coalesce(" (" + article.section + ")", "") AS title,
-                 cl
-            ORDER BY toInteger(cl.clause) ASC
-            WITH article, matched_node, score, title, doc, collect(cl) AS all_clauses
-            
-            // Đưa Khoản khớp nhất lên đầu tiên để tránh bị truncate mất thông tin quan trọng
-            WITH article, matched_node, score, title, doc,
-                 [c IN all_clauses WHERE c = matched_node] + [c IN all_clauses WHERE c <> matched_node] AS clauses
-                 
-            WITH article.article_id AS article_id, 
-                 title, clauses, article, doc,
-                 max(score) AS max_score,
-                 head([c IN clauses WHERE c = matched_node]) AS matched_node
-                 
-            WITH article_id, title, clauses, article, max_score AS score, matched_node, doc,
-                 CASE WHEN size(clauses) > 0 
-                      THEN reduce(s = title + ":\n", c IN clauses | 
-                           s + "- Khoản " + coalesce(c.clause, "") + (CASE WHEN c = matched_node THEN " [KẾT QUẢ KHỚP NHẤT]" ELSE "" END) + ": " + coalesce(c.content, "") + "\n")
-                      ELSE title + ":\n" + coalesce(article.content, "") 
-                 END AS full_context
-                 
-            RETURN full_context AS content,
-                   coalesce(matched_node.embed_content, article.embed_content) AS embed_content,
-                   article.article_id AS article_id,
-                   matched_node.clause AS clause,
-                   coalesce(matched_node.law_name, article.law_name, doc.law_name) AS law_name,
-                   coalesce(matched_node.law_id, article.law_id, doc.law_id) AS law_id,
-                   score
-            ORDER BY score DESC
+            RETURN cl.id AS clause_id, cl.content AS original_content, 
+                   collect({
+                       e1: e1_name, t1: e1_type, rel1: rel_type,
+                       rel2: rel_type2, e2: e2_name, t2: e2_type
+                   }) AS entity_network
             """
-
+            
             with self.driver.session() as session:
-                records = list(session.run(cypher, {
-                    "embedding": embedding,
-                    "limit": limit
-                }))
-
+                records = list(session.run(cypher, {"doc_ids": doc_ids}))
+                
             docs = []
             for r in records:
-                doc = LegalDocument(
-                    content=r["content"] or "",
+                clause_id = r["clause_id"]
+                original = r["original_content"]
+                network = r["entity_network"]
+                
+                if not network or not network[0].get("e1"):
+                    continue # Không có entity nào
+                
+                # Biến mạng lưới Entity thành văn bản siêu ngữ nghĩa cho LLM đọc
+                synthesis = f"[GRAPH KNOWLEDGE cho {clause_id}]\nNội dung gốc: {original}\nPhân tích Mạng Lưới Kiến Thức:\n"
+                seen_relations = set()
+                
+                for rel in network:
+                    if not rel.get("e1"):
+                        continue
+                    
+                    # Relation mức 1: Clause -> Entity
+                    rel1_str = f"- Trích xuất {rel['t1']}: '{rel['e1']}' ({rel['rel1']})"
+                    if rel1_str not in seen_relations:
+                        synthesis += f"{rel1_str}\n"
+                        seen_relations.add(rel1_str)
+                    
+                    # Relation mức 2: Entity -> Entity (Quan trọng nhất)
+                    if rel.get("e2"):
+                        rel2_str = f"  L> {rel['e1']} --[{rel['rel2']}]--> {rel['e2']} ({rel['t2']})"
+                        if rel2_str not in seen_relations:
+                            synthesis += f"{rel2_str}\n"
+                            seen_relations.add(rel2_str)
+                            
+                docs.append(LegalDocument(
+                    content=synthesis,
                     source=DocumentSource.GRAPH_STORE,
-                    metadata={
-                        "search_type": "vector",
-                        "article_id": r["article_id"],
-                        "clause": r["clause"],
-                        "law_id": r["law_id"],
-                        "score": r["score"],
-                        "embed_content": r["embed_content"]
-                    },
-                    article_id=r["article_id"],
-                    law_name=r["law_name"],
-                    score=float(r["score"])
-                )
-                docs.append(doc)
-
+                    metadata={"search_type": "entity_graph", "clause_id": clause_id},
+                    score=1.0  # Điểm tối đa vì đây là Knowledge Graph chính xác
+                ))
+                
+            logger.debug(f"Entity Graph search found {len(docs)} subgraphs for {len(doc_ids)} IDs")
             return docs
+            
         except Exception as e:
-            logger.warning(f"Vector search failed: {e}")
+            logger.error(f"Failed to extract entity subgraph: {e}")
             return []
 
     def _phrase_search(self, keywords: str, limit: int = 5) -> List[LegalDocument]:

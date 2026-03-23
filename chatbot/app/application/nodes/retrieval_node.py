@@ -49,6 +49,7 @@ Câu truy vấn thuật ngữ pháp lý:"""
     def __init__(
         self, 
         graph_store: IGraphStore,
+        vector_store: Any,
         smart_llm: ILLMService
     ):
         """
@@ -56,10 +57,12 @@ Câu truy vấn thuật ngữ pháp lý:"""
         
         Args:
             graph_store: Graph database interface (Neo4j)
+            vector_store: Vector database interface (ChromaDB)
             smart_llm: LLM for query expansion
         """
         super().__init__(node_name="Retrieval")
         self.graph_store = graph_store
+        self.vector_store = vector_store
         self.llm = smart_llm
     
     def __call__(self, state: AgentState) -> Dict[str, Any]:
@@ -124,16 +127,52 @@ Câu truy vấn thuật ngữ pháp lý:"""
     
     def _search_graph(self, query: str) -> List[LegalDocument]:
         try:
-            if self.graph_store is None:
-                logger.debug(f"[{self.node_name}] Graph store not configured, skipping")
-                return []
-            logger.debug(f"[{self.node_name}] Graph search: '{query}'")
-            docs = self.graph_store.get_penalty_info(query)
-            logger.debug(f"[{self.node_name}] Graph found {len(docs)} docs")
-            return docs
+            combined_docs = []
+            
+            # --- 1. Vector Search (ChromaDB) ---
+            vector_docs = []
+            doc_ids = []
+            if getattr(self, "vector_store", None):
+                logger.debug(f"[{self.node_name}] Vector search: '{query}'")
+                vector_docs = self.vector_store.search(query, k=5)
+                logger.debug(f"[{self.node_name}] Vector store found {len(vector_docs)} docs")
+                
+                # Extract IDs for Graph Search
+                for doc in vector_docs:
+                    doc_id = doc.metadata.get("id") or doc.metadata.get("clause_id")
+                    if doc_id and doc_id not in doc_ids:
+                        doc_ids.append(doc_id)
+                
+                combined_docs.extend(vector_docs)
+            
+            # --- 2. Entity Graph Traversal (Neo4j) ---
+            if self.graph_store and doc_ids:
+                logger.debug(f"[{self.node_name}] Entity Graph traversal for {len(doc_ids)} IDs")
+                entity_docs = self.graph_store.get_entity_subgraph_by_ids(doc_ids)
+                logger.debug(f"[{self.node_name}] Entity Graph found {len(entity_docs)} subgraphs")
+                combined_docs.extend(entity_docs)
+                
+            # --- 3. Fallback/Sparse Search (Neo4j) ---
+            if self.graph_store:
+                logger.debug(f"[{self.node_name}] Fulltext/Phrase search fallback")
+                sparse_docs = self.graph_store.get_penalty_info(query)
+                combined_docs.extend(sparse_docs)
+                
+            # --- 4. Khử trùng lặp và Sắp xếp ---
+            unique_docs = []
+            seen_content = set()
+            for doc in combined_docs:
+                h = hashlib.md5(doc.content.encode('utf-8')).hexdigest()
+                if h not in seen_content:
+                    seen_content.add(h)
+                    unique_docs.append(doc)
+            
+            unique_docs.sort(key=lambda x: x.score, reverse=True)
+            return unique_docs
+            
         except Exception as e:
             logger.warning(
-                f"[{self.node_name}] Graph search failed: {e}"
+                f"[{self.node_name}] Hybrid search failed: {e}"
             )
             return []
     

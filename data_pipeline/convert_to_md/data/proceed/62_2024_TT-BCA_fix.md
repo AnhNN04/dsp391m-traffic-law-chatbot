@@ -1,0 +1,1644 @@
+**BỘ CÔNG AN**
+
+Số: 62/2024/TT-BCA _Hà Nội, ngày 12 tháng 11 năm 2024_
+
+**THÔNG TƯ**
+
+BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ “HỆ THỐNG GIÁM SÁT BẢO ĐẢM AN NINH, TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ”, QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ “THIẾT
+
+BỊ GIÁM SÁT HÀNH TRÌNH VÀ THIẾT BỊ GHI NHẬN HÌNH ẢNH NGƯỜI LÁI XE” VÀ QUY CHUẨN
+
+KỸ THUẬT QUỐC GIA VỀ “TRUNG TÂM CHỈ HUY GIAO THÔNG”
+
+_Căn cứ Luật Trật tự, an toàn giao thông đường bộ ngày 27 tháng 6 năm 2024;_
+
+_Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006; và Luật sửa đổi, bổ sung một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 20 tháng 11 năm 2018;_
+
+_Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật và Nghị định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật;_
+
+_Căn cứ Nghị định số 01/2018/NĐ-CP ngày 06 tháng 8 năm 2018 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công an;_
+
+_Theo đề nghị của Cục trưởng Cục Cảnh sát giao thông;_
+
+_Bộ trưởng Bộ Công an ban hành Thông tư_ _ban hành Quy chuẩn kỹ thuật quốc gia về “hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ”, Quy chuẩn kỹ thuật quốc gia về “thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe” và Quy chuẩn kỹ thuật quốc gia về “trung tâm chỉ huy giao thông”._
+
+**Điều 1.** Ban hành kèm theo Thông tư này:
+
+1. Quy chuẩn kỹ thuật quốc gia về “hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ”.
+
+2. Quy chuẩn kỹ thuật quốc gia về “thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe”.
+
+3. Quy chuẩn kỹ thuật quốc gia về “trung tâm chỉ huy giao thông”.
+
+**Điều 2. Hiệu lực thi hành**
+
+Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2025 và thay thế Thông tư số 75/2020/TT-BCA ngày 02 tháng 7 năm 2020 của Bộ trưởng Bộ Công an ban hành Tiêu chuẩn cơ sở trong lĩnh vực an ninh đối với Hệ thống giám sát, xử lý vi phạm trật, an toàn giao thông đường bộ yêu cầu kỹ thuật.
+
+**Điều 3. Trách nhiệm thi hành**
+
+1. Cục trưởng Cục Cảnh sát giao thông có trách nhiệm theo dõi, kiểm tra, đôn đốc việc thực hiện Thông tư này.
+
+2. Thủ trưởng các đơn vị thuộc cơ quan Bộ, Giám đốc Công an tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Trong quá trình thực hiện Thông tư, nếu có khó khăn, vướng mắc Công an các đơn vị, địa phương, tổ chức, cá nhân có liên quan báo cáo về Bộ Công an (qua Cục Cảnh sát giao thông) để kịp thời hướng dẫn./.
+
+**BỘ TRƯỞNG**
+
+**Đại tướng Lương Tam Quang**
+
+**QCVN 05:2024/BCA**
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ HỆ THỐNG GIÁM SÁT BẢO ĐẢM AN NINH, TRẬT TỰ, AN
+
+TOÀN GIAO THÔNG ĐƯỜNG BỘ
+
+_National technical regulation on road traffic security, order and safety monitoring system_
+
+**MỤC LỤC**
+
+Lời nói đầu
+
+1. Quy định chung
+
+1.1. Phạm vi điều chỉnh
+
+1.2. Đối tượng áp dụng
+
+1.3. Giải thích từ ngữ
+
+1.4. Các từ viết tắt
+
+2. Quy định về kỹ thuật
+
+2.1. Mô hình kết nối
+
+2.2. Thiết bị giám sát giao thông
+
+2.3. Hệ thống truyền dẫn
+
+2.4. Thiết bị hỗ trợ hệ thống giám sát giao thông
+
+2.5. Thiết bị tại trung tâm giám sát giao thông
+
+2.6. Phần mềm hệ thống giám sát giao thông
+
+3. Quy định về quản lý
+
+4. Tổ chức thực hiện
+
+**Lời nói đầu**
+
+QCVN 05:2024/BCA do Cục Cảnh sát giao thông biên soạn, Cục Khoa học, chiến lược và lịch sử Công an trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Công an ban hành theo Thông tư số 62/2024/TT-BCA ngày 12 tháng 11 năm 2024.
+
+**QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ HỆ THỐNG GIÁM SÁT BẢO ĐẢM AN NINH, TRẬT TỰ,**
+
+**AN TOÀN GIAO THÔNG ĐƯỜNG BỘ**
+
+_**National technical regulation on road traffic security, order and safety monitoring system**_
+
+**1. QUY ĐỊNH CHUNG**
+
+**1.1. Phạm vi điều chỉnh**
+
+Quy chuẩn này quy định về yêu cầu kỹ thuật đối với thiết bị, phần mềm của hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ.
+
+**1.2. Đối tượng áp dụng**
+
+Quy chuẩn này áp dụng đối với tổ chức, cá nhân liên quan đến đầu tư xây dựng, nâng cấp các thiết bị, phần mềm, cung cấp dịch vụ phục vụ hoạt động của hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ.
+
+**1.3. Giải thích từ ngữ**
+
+Trong Quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
+
+1.3.1. Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ (sau đây viết gọn là hệ thống giám sát giao thông)
+
+Là hệ thống thiết bị, phần mềm được lắp đặt tại trung tâm giám sát giao thông và các thiết bị lắp đặt tại các điểm trên tuyến đường có kết nối về trung tâm giám sát giao thông. Hệ thống giám sát giao thông gồm thiết bị giám sát giao thông, thiết bị hỗ trợ hệ thống giám sát giao thông, thiết bị đặt tại trung tâm giám sát giao thông và phần mềm hệ thống giám sát giao thông.
+
+1.3.2. Thiết bị giám sát giao thông
+
+Là thiết bị có khả năng ghi nhận dữ liệu, hình ảnh và các hành vi vi phạm trật tự, an toàn giao thông đường bộ, gồm: thiết bị đo tốc độ, thiết bị camera giao thông.
+
+1.3.3. Thiết bị hỗ trợ hệ thống giám sát giao thông
+
+Là thiết bị điện tử có khả năng tiếp nhận, xử lý dữ liệu, hình ảnh vi phạm từ trung tâm giám sát giao thông truyền đến, hỗ trợ lực lượng chức năng xử lý vi phạm.
+
+1.3.4. Trung tâm giám sát giao thông
+
+Là nơi quản lý, vận hành, khai thác dữ liệu hệ thống giám sát giao thông, thiết bị đặt tại trung tâm giám sát giao thông gồm: máy chủ hệ thống giám sát giao thông, bộ lưu trữ dữ liệu, máy tính trạm, thiết bị tường lửa, thiết bị chuyển mạch lõi của trung tâm giám sát giao thông, thiết bị lưu điện cho máy chủ và máy tính trạm, thiết bị chống sét đường điện nguồn tại trung tâm giám sát giao thông, màn hình hiển thị và các thiết bị phụ trợ khác.
+
+1.3.5. Phần mềm hệ thống giám sát giao thông
+
+Là các ứng dụng có chức năng quản lý thiết bị, hiển thị hình ảnh, khai thác, kết nối, chia sẻ dữ liệu hệ thống giám sát giao thông.
+
+1.3.6. Hệ thống truyền dẫn
+
+Là thiết bị truyền dẫn và đường truyền phục vụ cho việc gửi, nhận dữ liệu của hệ thống giám sát giao thông.
+
+**1.4. Các từ viết tắt**
+
+|Ký hiệu|Tên đầy đủ|Ý nghĩa| |---|---|---| |API|Application programming interface|Giao diện lập trình ứng dụng| |NAS|Network attached storage|Thiết bị lưu trữ dữ liệu thông qua<br>mạng IP| |PTZ|Pan tilt zoom|Chức năng quay quét, thu phóng<br>ống kính| |SAN|Storage area network|Thiết bị lưu trữ dữ liệu qua mạng<br>lưu trữ chuyên dụng riêng| |SATA|Serial advanced technology attachment|Loại chuẩn giao tiếp ổ cứng| |SAS|Serial attached SCSI|Loại chuẩn giao tiếp ổ cứng| |UPS|Uninterruptible power supply|Hệ thống nguồn cung cấp liên tục<br>hay bộ lưu trữ điện dự phòng|
+
+**2. QUY ĐỊNH VỀ KỸ THUẬT**
+
+**2.1. Mô hình kết nối**
+
+**Hình 1- Hệ thống giám sát giao thông**
+
+2.1.1. Hệ thống giám sát giao thông kết nối với trung tâm chỉ huy giao thông để chia sẻ dữ liệu; trung tâm chỉ huy giao thông là đầu mối kết nối để hệ thống giám sát giao thông tiếp nhận dữ liệu liên quan đến Cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ và các hệ thống cơ sở dữ liệu khác.
+
+2.1.2. Thiết bị giám sát giao thông kết nối với trung tâm giám sát giao thông để truyền dữ liệu và cài đặt thông số của thiết bị.
+
+2.1.3. Thiết bị hỗ trợ hệ thống giám sát giao thông kết nối với trung tâm giám sát giao thông để tiếp nhận, xử lý dữ liệu, hỗ trợ cơ quan chức năng trong công tác bảo đảm an ninh, trật tự, an toàn giao thông đường bộ.
+
+**2.2. Thiết bị giám sát giao thông**
+
+2.2.1. Thiết bị đo tốc độ tự động có ghi hình
+
+2.2.1.1. Thiết bị đo tốc độ tự động có ghi hình sử dụng công nghệ cảm biến laser
+
+2.2.1.1.1. Tính năng hoạt động: tự động ghi nhận hình ảnh và sử dụng cảm biến laser để ghi nhận tốc độ của các loại phương tiện. Dữ liệu truyền về trung tâm giám sát giao thông bao gồm: ảnh chụp phương tiện có biển số, dữ liệu về tốc độ, địa điểm, thời gian, dữ liệu nhận dạng biển số phương tiện;
+có khả năng lưu trữ dữ liệu tại biên, tự động truyền dữ liệu về trung tâm giám sát giao thông trong trường hợp mất kết nối và có kết nối trở lại.
+
+2.2.1.1.2. Tuân thủ các yêu cầu kỹ thuật trong Bảng 1.
+
+**Bảng 1 - Thiết bị đo tốc độ tự động có ghi hình sử dụng công nghệ cảm biến laser**
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Công nghệ xử lý hình ảnh|Tích hợp trên thiết bị hoặc sử dụng phần mềm xử lý<br>hình ảnh kèm theo| |2|Phạm vi đo tốc độ|Trong khoảng 8 km/h - 320 km/h| |3|Đơn vị đo|Hỗ trợ đơn vị đo Km/h| |4|Chế độ đo|Cố định, ngược chiều, xuôi chiều, cả ban ngày và ban<br>đêm| |5|Công nghệ đo|Laser| |6|Bước sóng|≥ 900 nm| |7|Độ an toàn cho mắt|Cấp I| |8|Nhận dạng biển số phương tiện|Khả năng nhận dạng biển số phương tiện chính xác ≥<br>93% vào ban ngày, ≥ 80% vào ban đêm| |9|Độ phân giải hình ảnh|≥ 4 Megapixel| |10|Chức năng hiệu chỉnh ánh sáng<br>(IRIS)|Có| |11|Chức năng kiểm soát độ lợi sáng<br>(Gain Control)|Có| |12|Chức năng tự động cân bằng<br>ánh sáng trắng (White Balance)|Có| |13|Chức năng bù ánh sáng ngược<br>(Backlight Compensation)|Có| |14|Đèn hồng ngoại|Tích hợp trên thiết bị hoặc sử dụng đèn hồng ngoại<br>lắp đặt riêng, tầm chiếu hồng ngoại ≥ 50 m| |15|Khả năng lưu trữ tại biên|≥ 32 GB| |16|Khả năng kết nối|Tương thích với các thiết bị truyền dẫn của hệ thống| |17|Dải nhiệt độ, độ ẩm hoạt động<br>của thiết bị|Đáp ứng:<br>- Nhiệt độ tối thiểu ≤ 0 °C<br>- Nhiệt độ tối đa ≥ 55 °C<br>- Độ ẩm tối đa ≥ 90%| |18|Chuẩn chống bụi và nước|IP66 hoặc cao hơn| |19|Chuẩn chống va đập|IK08 hoặc cao hơn| |20|Nguồn điện|Hỗ trợ nguồn điện 220 VAC 50/60 Hz hoặc nguồn điện<br>khác có thiết bị đổi nguồn kèm theo|
+
+2.2.1.2. Thiết bị đo tốc độ tự động có ghi hình sử dụng công nghệ cảm biến radar
+
+2.2.1.2.1. Tính năng hoạt động: tự động ghi nhận hình ảnh và sử dụng cảm biến radar để ghi nhận tốc độ của các loại phương tiện. Dữ liệu truyền về trung tâm giám sát giao thông bao gồm: ảnh chụp phương tiện có biển số, dữ liệu về tốc độ, địa điểm, thời gian, dữ liệu nhận dạng biển số phương tiện;
+có khả năng lưu trữ dữ liệu tại biên, tự động truyền dữ liệu về trung tâm giám sát giao thông trong trường hợp mất kết nối và có kết nối trở lại.
+
+2.2.1.2.2. Tuân thủ các yêu cầu kỹ thuật trong Bảng 2.
+
+**Bảng 2 - Thiết bị đo tốc độ tự động có ghi hình sử dụng công nghệ cảm biến radar**
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Công nghệ xử lý hình ảnh|Tích hợp trên thiết bị hoặc sử dụng phần mềm xử<br>lý hình ảnh kèm theo| |2|Phạm vi đo tốc độ|Trong khoảng 8 km/h - 320 km/h| |3|Đơn vị đo|Hỗ trợ đơn vị đo Km/h| |4|Chế độ đo|Cố định, ngược chiều, xuôi chiều, cả ban ngày và<br>ban đêm| |5|Công nghệ đo|Radar, có khả năng bám sát đa mục tiêu| |6|Khả năng giám sát|≥ 2 làn| |7|Nhận dạng biển số phương tiện|Khả năng nhận dạng biển số phương tiện chính<br>xác ≥ 93% vào ban ngày, ≥ 80% vào ban đêm| |8|Độ phân giải hình ảnh|≥ 4 Megapixel| |9|Chức năng hiệu chỉnh ánh sáng<br>(IRIS)|Có| |10|Chức năng kiểm soát độ lợi sáng<br>(Gain Control)|Có| |11|Chức năng tự động cân bằng ánh<br>sáng trắng (White Balance)|Có| |12|Chức năng bù ánh sáng ngược<br>(Backlight Compensation)|Có| |13|Đèn hồng ngoại|Tích hợp trên thiết bị hoặc sử dụng đèn hồng<br>ngoại lắp đặt riêng, tầm chiếu hồng ngoại ≥ 50 m| |14|Khả năng lưu trữ tại biên|≥ 32 GB| |15|Khả năng kết nối|Tương thích với các thiết bị truyền dẫn của hệ<br>thống| |16|Dải nhiệt độ, độ ẩm hoạt động của<br>thiết bị|Đáp ứng:<br>- Nhiệt độ tối thiểu ≤ 0 °C<br>- Nhiệt độ tối đa ≥ 55 °C<br>- Độ ẩm tối đa ≥ 90%| |17|Chuẩn chống bụi và nước|IP66 hoặc cao hơn| |18|Chuẩn chống va đập|IK08 hoặc cao hơn| |19|Nguồn điện|Hỗ trợ nguồn điện 220 VAC 50/60 Hz hoặc nguồn<br>điện khác có thiết bị đổi nguồn kèm theo|
+
+2.2.2. Thiết bị camera giao thông
+
+2.2.2.1. Camera quan sát giao thông
+
+2.2.2.1.1. Tính năng hoạt động: quan sát tình hình an ninh, trật tự, an toàn giao thông đường bộ; dữ liệu truyền về trung tâm giám sát giao thông là hình ảnh trực tuyến từ camera; có khả năng lưu trữ dữ liệu tại biên, tự động truyền dữ liệu về trung tâm giám sát giao thông trong trường hợp mất kết nối và có kết nối trở lại.
+
+2.2.2.1.2. Tuân thủ các yêu cầu kỹ thuật trong Bảng 3.
+# Bảng 3 - Camera quan sát giao thông
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Hình ảnh|- Độ phân giải ≥ 4 Megapixel<br>- Tốc độ khung hình ≥ 25 fps| |2|Khả năng thu phóng<br>(Đối với camera PTZ)|Phóng đại hình ảnh quang học ≥ 30 lần, tự động lấy<br>nét| |3|Chức năng hiệu chỉnh ánh sáng<br>(IRIS)|Có| |4|Chức năng kiểm soát độ lợi sáng<br>(Gain Control)|Có| |5|Chức năng cân bằng ánh sáng<br>trắng (White Balance)|Có| |6|Chức năng bù ánh sáng ngược<br>(Backlight Compensation)|Có| |7|Chế độ ghi hình|Chất lượng hình ảnh ≥ 1920x1080, tốc độ khung hình<br>≥ 25 fps, hỗ trợ các chuẩn nén: H.265, H.264 hoặc<br>cao hơn| |8|Đèn hồng ngoại|Tích hợp trên thiết bị hoặc sử dụng đèn hồng ngoại<br>lắp đặt riêng| |9|Khả năng lưu trữ tại biên|≥ 32 GB| |10|Khả năng kết nối|Tương thích với các thiết bị truyền dẫn của hệ thống;<br>hỗ trợ tiêu chuẩn giao tiếp ONVIF profile G, S, T| |11|Dải nhiệt độ, độ ẩm hoạt động của<br>thiết bị|Đáp ứng:<br>- Nhiệt độ tối thiểu ≤ 0°C<br>- Nhiệt độ tối đa ≥ 55°C<br>- Độ ẩm tối đa ≥ 90%| |12|Chuẩn chống bụi và nước|IP66 hoặc cao hơn| |13|Chuẩn chống va đập|IK08 hoặc cao hơn| |14|Nguồn điện|Hỗ trợ nguồn điện 220 VAC 50/60 Hz hoặc nguồn<br>điện khác có thiết bị đổi nguồn kèm theo|
+
+2.2.2.2. Camera giám sát giao thông
+
+2.2.2.2.1. Tính năng hoạt động: giám sát, phát hiện một hoặc nhiều hành vi vi phạm trật tự, an toàn giao thông đường bộ; dữ liệu truyền về trung tâm giám sát giao thông bao gồm: ảnh, video, địa điểm, thời gian, hành vi vi phạm, dữ liệu nhận dạng biển số phương tiện; video ghi nhận hành vi vi phạm đảm bảo xác định được thời điểm trước, trong và sau khi vi phạm xảy ra; có khả năng lưu trữ dữ liệu tại biên, tự động truyền dữ liệu về trung tâm giám sát giao thông trong trường hợp mất kết nối và có kết nối trở lại.
+
+2.2.2.2.2. Tuân thủ các yêu cầu kỹ thuật trong Bảng 4.
+# Bảng 4 - Camera giám sát giao thông
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Công nghệ xử lý hình ảnh|Tích hợp trên thiết bị hoặc sử dụng phần mềm<br>xử lý hình ảnh kèm theo| |2|Hình ảnh|- Độ phân giải ≥ 4 Megapixel<br>- Tốc độ khung hình ≥ 25 fps| |3|Tốc độ màn trập|≤ 1/1980 giây|
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |4|Nhận dạng biển số phương tiện|Khả năng nhận dạng biển số phương tiện chính<br>xác ≥ 93% vào ban ngày, ≥ 80% vào ban đêm| |5|Chức năng hiệu chỉnh ánh sáng (IRIS)|Có| |6|Chức năng kiểm soát độ lợi sáng (Gain<br>Control)|Có| |7|Chức năng cân bằng ánh sáng trắng<br>(White Balance)|Có| |8|Chức năng bù ánh sáng ngược<br>(Backlight Compensation)|Có| |9|Đèn hồng ngoại|Tích hợp trên thiết bị hoặc sử dụng đèn hồng<br>ngoại lắp đặt riêng, tầm chiếu hồng ngoại ≥ 50 m| |10|Chuẩn nén|Hỗ trợ các chuẩn: H.264, H.265 hoặc cao hơn| |11|Khả năng lưu trữ tại biên|≥ 32 GB| |12|Khả năng kết nối|Tương thích với các thiết bị truyền dẫn của hệ<br>thống; hỗ trợ tiêu chuẩn giao tiếp ONVIF profile<br>G, S, T| |13|Dải nhiệt độ, độ ẩm hoạt động của thiết<br>bị|Đáp ứng:<br>- Nhiệt độ tối thiểu ≤ 0 °C<br>- Nhiệt độ tối đa ≥ 55 °C<br>- Độ ẩm tối đa ≥ 90%| |14|Chuẩn chống bụi và nước|IP66 hoặc cao hơn| |15|Chuẩn chống va đập|IK08 hoặc cao hơn| |16|Nguồn điện|Hỗ trợ nguồn điện 220 VAC 50/60 Hz hoặc<br>nguồn điện khác có thiết bị đổi nguồn kèm theo|
+
+2.2.2.3. Camera nhận dạng biển số phương tiện
+
+2.2.2.3.1. Tính năng hoạt động: nhận dạng biển số kèm hình ảnh phương tiện phục vụ công tác phát hiện vi phạm, phòng chống tội phạm; có khả năng lưu trữ dữ liệu tại biên, tự động truyền dữ liệu về trung tâm giám sát giao thông trong trường hợp mất kết nối và có kết nối trở lại.
+
+2.2.2.3.2. Tuân thủ các yêu cầu kỹ thuật trong Bảng 5.
+# Bảng 5 - Camera nhận dạng biển số phương tiện
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Công nghệ xử lý hình ảnh|Tích hợp trên thiết bị hoặc sử dụng phần mềm xử lý<br>hình ảnh kèm theo| |2|Nhận dạng biển số phương tiện|Phạm vi giám sát ≥ 2 làn; khả năng nhận dạng biển số<br>phương tiện chính xác ≥ 93% vào ban ngày, ≥ 80% vào<br>ban đêm| |3|Hình ảnh|- Độ phân giải ≥ 4 Megapixel<br>- Tốc độ khung hình ≥ 25 fps| |4|Tốc độ màn trập|≤ 1/1980 giây| |5|Khả năng lưu trữ tại biên|≥ 32 GB| |6|Khả năng kết nối|Tương thích với các thiết bị truyền dẫn của hệ thống;<br>hỗ trợ tiêu chuẩn giao tiếp ONVIF profile G, S, T| |7|Đèn hồng ngoại|Tích hợp trên thiết bị hoặc sử dụng đèn hồng ngoại lắp<br>đặt riêng, tầm chiếu hồng ngoại ≥ 50 m| |8|Dải nhiệt độ, độ ẩm hoạt động của|Đáp ứng:|
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| ||thiết bị|- Nhiệt độ tối thiểu ≤ 0 °C<br>- Nhiệt độ tối đa ≥ 55 °C<br>- Độ ẩm tối đa ≥ 90%| |9|Chuẩn chống bụi và nước|IP66 hoặc cao hơn| |10|Chuẩn chống va đập|IK08 hoặc cao hơn| |11|Nguồn điện|Hỗ trợ nguồn điện 220 VAC 50/60 Hz hoặc nguồn điện<br>khác có thiết bị đổi nguồn kèm theo|
+
+2.2.2.4. Camera đo đếm lưu lượng phương tiện
+
+2.2.2.4.1. Tính năng hoạt động: đo đếm lưu lượng phương tiện phục vụ cho công tác tổ chức giao thông; có khả năng lưu trữ dữ liệu tại biên, tự động truyền dữ liệu về trung tâm giám sát giao thông trong trường hợp mất kết nối và có kết nối trở lại.
+
+2.2.2.4.2. Tuân thủ các yêu cầu kỹ thuật trong Bảng 6.
+# Bảng 6 - Camera đo đếm lưu lượng phương tiện
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Công nghệ xử lý hình ảnh|Tích hợp trên thiết bị hoặc sử dụng phần mềm xử lý<br>ảnh kèm theo| |2|Hình ảnh (Không áp dụng với camera<br>nhiệt)|- Độ phân giải ≥ 4 Megapixel<br>- Tốc độ khung hình ≥ 25 fps| |3|Số làn hỗ trợ|≥ 02 làn| |4|Khả năng lưu trữ tại biên|≥ 32 GB| |5|Khả năng kết nối|Tương thích với các thiết bị truyền dẫn của hệ<br>thống; hỗ trợ tiêu chuẩn giao tiếp ONVIF profile G,<br>S, T| |6|Đèn hồng ngoại (Không áp dụng với<br>camera nhiệt)|Tích hợp trên thiết bị hoặc sử dụng đèn hồng ngoại<br>lắp đặt riêng, tầm chiếu hồng ngoại ≥ 50 m| |7|Dải nhiệt độ, độ ẩm hoạt động của<br>thiết bị|Đáp ứng:<br>- Nhiệt độ tối thiểu ≤ 0 °C<br>- Nhiệt độ tối đa ≥ 55 °C<br>- Độ ẩm tối đa ≥ 90%| |8|Chuẩn chống bụi và nước|IP66 hoặc cao hơn| |9|Chuẩn chống va đập|IK08 hoặc cao hơn| |10|Nguồn điện|Hỗ trợ nguồn điện 220 VAC 50/60 Hz hoặc nguồn<br>điện khác có thiết bị đổi nguồn kèm theo|
+
+2.2.2.5. An toàn thông tin
+
+2.2.2.5.1. Tuân thủ yêu cầu về an toàn thông tin đối với camera sử dụng giao thức internet do Bộ Thông tin và Truyền thông quy định.
+
+2.2.2.5.2. Tuân thủ các quy định về an ninh mạng đối với hệ thống camera giám sát an ninh do Bộ Công an quy định.
+
+**2.3. Hệ thống truyền dẫn**
+
+2.3.1. Truyền dẫn hữu tuyến
+
+Ưu tiên sử dụng đường truyền cáp quang; tuân thủ các yêu cầu kỹ thuật trong Bảng 7.
+
+**Bảng 7 - Truyền dẫn hữu tuyến**
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Tốc độ truyền từ thiết bị giám sát giao thông đến trung tâm<br>giám sát giao thông|≥ 5 Mbps| |2|Tốc độ truyền giữa trung tâm giám sát giao thông và trung<br>tâm chỉ huy giao thông|≥ 100 Mbps| |3|Giao thức truyền dẫn|Hỗ trợ giao thức IP|
+
+2.3.2. Truyền dẫn vô tuyến
+
+2.3.2.1. Đối với thiết bị thu phát tín hiệu vô tuyến tầm xa phải tuân thủ các quy định về quy hoạch và quy định quản lý tần số và các yêu cầu kỹ thuật trong Bảng 8.
+
+2.3.2.2. Đối với đường truyền 3G, 4G, 5G sử dụng gói tốc độ phù hợp với yêu cầu truyền dữ liệu; tùy theo đặc điểm của từng địa phương có thể sử dụng gói kết nối và nhà mạng khác nhau; phải đảm bảo yêu cầu về bảo mật theo quy định.
+# Bảng 8 - T ruyền dẫn vô tuyến
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Dải tần số hoạt động|Phù hợp với các quy định về<br>quy hoạch phổ tần số vô tuyến<br>điện quốc gia| |2|Khoảng cách thu phát từ thiết bị trên tuyến đến trạm gốc|≥ 10 km| |3|Khoảng cách thu phát giữa 2 trạm gốc|≥ 30 km| |4|Tốc độ truyền từ thiết bị trên tuyến đến trạm gốc|≥ 5 Mbps| |5|Tốc độ truyền giữa 2 trạm gốc|≥ 100 Mbps| |6|Đèn hiển thị mức sóng thu phát|Có đèn LED hiển thị| |7|Khả năng kết nối|Tự động kết nối với trạm gốc| |8|Giao thức truyền dẫn|Hỗ trợ giao thức IP| |9|Nguồn điện|Hỗ trợ nguồn điện 220 VAC<br>50/60 Hz hoặc nguồn điện khác<br>có thiết bị đổi nguồn kèm theo|
+
+2.3.3. Thiết bị chống sét đường tín hiệu cho camera
+
+2.3.3.1. Tính năng hoạt động: đảm bảo an toàn đường tín hiệu cho thiết bị.
+
+2.3.3.2. Tuân thủ các yêu cầu kỹ thuật trong Bảng 9.
+# Bảng 9 - Thiết bị chống sét đường tín hiệu cho camera
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Cổng tín hiệu vào RJ45|≥ 1| |2|Cổng tín hiệu ra RJ45|≥ 1| |3|Dòng bảo vệ bình thường (tại 8/20µs)|≥ 100 A| |4|Dòng bảo vệ cực đại (tại 8/20µs)|≥ 2 kA| |5|Tốc độ truyền|≥ 100 Mbps|
+
+**2.4. Thiết bị hỗ trợ hệ thống giám sát giao thông**
+
+2.4.1. Tính năng hoạt động: tiếp nhận, xử lý dữ liệu hình ảnh vi phạm từ trung tâm giám sát giao thông truyền đến, hỗ trợ lực lượng chức năng xử lý vi phạm trên tuyến.
+
+2.4.2. Tuân thủ các yêu cầu kỹ thuật trong Bảng 10.
+# Bảng 10 - Thiết bị hỗ trợ hệ thống giám sát giao thông
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Khả năng kết nối|Hỗ trợ WIFI hoặc 3G/4G/5G hoặc Bluetooth hoặc các chuẩn<br>kết nối cao hơn| |2|Bảo mật|Thiết bị được cài đặt phần mềm hệ thống giám sát giao<br>thông, được quản lý bằng mã máy|
+
+**2.5. Thiết bị tại trung tâm giám sát giao thông**
+
+2.5.1. Máy chủ của hệ thống giám sát giao thông
+
+2.5.1.1. Tính năng hoạt động: cài đặt các phần mềm xử lý, quản trị, API phục vụ kết nối, chia sẻ của hệ thống giám sát giao thông.
+
+2.5.1.2. Tuân thủ các yêu cầu kỹ thuật trong Bảng 11.
+# Bảng 11 - Máy chủ của hệ thống giám sát giao thông
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Bộ vi xử lý|- Tối thiểu 16 core, 01 bộ xử lý 2.0 GHz hoặc cao hơn;<br>phù hợp với giải pháp phần mềm của hệ thống giám sát<br>giao thông| |2|Bộ nhớ RAM|≥ 64 GB| |3|Ổ cứng|Dung lượng ≥ 600 GB chuẩn SAS/SATA hoặc chuẩn<br>cao hơn| |4|Hỗ trợ RAID 1/5/6/10|Có| |5|Cổng mạng|≥ 02 cổng Ethernet 1 GbE hoặc cao hơn; có cổng quản<br>trị Out of band| |6|Hệ điều hành|Hệ điều hành có bản quyền hoặc tương đương| |7|Dải nhiệt độ, độ ẩm hoạt động<br>của thiết bị|Đáp ứng:<br>- Nhiệt độ tối thiểu ≤ 10 °C<br>- Nhiệt độ tối đa ≥ 35 °C<br>- Độ ẩm tối đa ≥ 80%| |8|Nguồn điện|- Số lượng bộ nguồn ≥ 02, hỗ trợ chế độ chạy dự phòng<br>và có thể tháo lắp trong quá trình vận hành<br>- Sử dụng nguồn điện: 220 VAC, 50/60 Hz|
+
+2.5.2. Bộ lưu trữ dữ liệu
+
+2.5.2.1. Tính năng hoạt động: lưu trữ dữ liệu của hệ thống giám sát giao thông.
+
+2.5.2.2. Tuân thủ các yêu cầu kỹ thuật trong Bảng 12.1, Bảng 12.2.
+# Bảng 12.1 - Thiết bị lưu trữ NAS
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Bộ nhớ RAM|≥ 8 GB| |2|Khả năng mở rộng dung<br>lượng lưu trữ|Có| |3|Hỗ trợ RAID 1/5/6/10|Có| |4|Cổng kết nối|≥ 02 cổng RJ45 1 GbE hoặc cao hơn| |5|Dải nhiệt độ, độ ẩm hoạt động<br>của thiết bị|Đáp ứng:<br>- Nhiệt độ tối thiểu ≤ 10 °C<br>- Nhiệt độ tối đa ≥ 35 °C<br>- Độ ẩm tối đa ≥ 80%| |6|Nguồn điện|- Số lượng bộ nguồn ≥ 02, hỗ trợ chế độ chạy dự phòng|
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |||và có thể tháo lắp trong quá trình vận hành<br>- Sử dụng nguồn điện: 220 VAC, 50/60 Hz|
+
+# Bảng 12.2 - T hiết bị lưu trữ SAN
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Bộ nhớ RAM|≥ 8 GB| |2|Khả năng mở rộng dung lượng<br>lưu trữ|Có| |3|Hỗ trợ RAID 1/5/6/10|Có| |4|Cổng kết nối|≥ 02 cổng FC 16 Gb hoặc cao hơn| |5|Dải nhiệt độ, độ ẩm hoạt động<br>của thiết bị|Đáp ứng:<br>- Nhiệt độ tối thiểu ≤ 10 °C<br>- Nhiệt độ tối đa ≥ 35 °C<br>- Độ ẩm tối đa ≥ 80%| |6|Nguồn điện|- Số lượng bộ nguồn ≥ 02, hỗ trợ chế độ chạy dự phòng<br>và có thể tháo lắp trong quá trình vận hành<br>- Sử dụng nguồn điện: 220 VAC, 50/60 Hz|
+
+2.5.3. Máy tính trạm
+
+2.5.3.1. Tính năng hoạt động: phân tích, xử lý, hiển thị và khai thác dữ liệu của hệ thống giám sát giao thông.
+
+2.5.3.2. Tuân thủ các yêu cầu kỹ thuật trong Bảng 13.
+# Bảng 13 - Máy tính trạm
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Bộ vi xử lý|Tối thiểu 6 Core, 01 bộ xử lý 2.0 GHz hoặc cao hơn; phù hợp<br>với giải pháp phần mềm của hệ thống giám sát giao thông| |2|Bộ nhớ RAM|≥ 8 GB| |3|Dung lượng ổ cứng|≥ 500 GB| |4|Giao tiếp mạng|Hỗ trợ cổng mạng tốc độ 10/100/1000 Mbps| |5|Card đồ họa|Có| |6|Hệ điều hành|Có bản quyền| |7|Các cổng giao tiếp|Hỗ trợ USB/VGA/HDMI| |8|Dải nhiệt độ, độ ẩm hoạt<br>động của thiết bị|Đáp ứng:<br>- Nhiệt độ tối thiểu ≤ 10 °C<br>- Nhiệt độ tối đa ≥ 35 °C<br>- Độ ẩm tối đa ≥ 80%| |9|Nguồn điện|220 VAC 50 Hz hoặc nguồn điện khác có thiết bị đổi nguồn<br>kèm theo|
+
+2.5.4. Thiết bị tường lửa
+
+2.5.4.1. Tính năng hoạt động: ngăn chặn các mối đe dọa từ mạng ngoại vi và bảo vệ dữ liệu, chống xâm nhập từ bên ngoài vào hệ thống.
+
+2.5.4.2. Tuân thủ các yêu cầu kỹ thuật trong Bảng 14.
+# Bảng 14 - Thiết bị tường lửa
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Cổng kết nối|≥ 4 cổng RJ45 1 GbE hoặc cao hơn ≥ 1 cổng quang 1 GbE<br>hoặc cao hơn| |2|Năng lực thiết bị|Thông lượng kiểm tra tường lửa ≥ 1 Gbps| |2|Năng lực thiết bị|Thông lượng IPS ≥ 500 Mbps| |2|Năng lực thiết bị|Thông lượng DPI/NGFW ≥ 300 Mbps| |2|Năng lực thiết bị|Thông lượng IPSec VPN ≥ 500 Mbps| |3|Tính năng|- Hỗ trợ ngăn chặn xâm nhập bất hợp pháp từ mạng ngoài<br>- Hỗ trợ IPS, IDS, Anti - Virus, VPN, cập nhật Signature| |4|Công nghệ quét trên<br>tường lửa|Sử dụng kiến trúc Multi - core| |5|Tính năng định tuyến|Hỗ trợ Static, RIP, OSPF| |6|Dải nhiệt độ, độ ẩm hoạt<br>động của thiết bị|Đáp ứng:<br>- Nhiệt độ tối thiểu ≤ 10 °C<br>- Nhiệt độ tối đa ≥ 35 °C<br>- Độ ẩm tối đa ≥ 80%| |7|Nguồn điện sử dụng|220 VAC 50/60 Hz hoặc nguồn điện khác có thiết bị đổi nguồn<br>kèm theo|
+
+2.5.5. Thiết bị lưu điện cho hệ thống máy chủ
+
+2.5.5.1. Tính năng hoạt động: cung cấp điện năng trong một khoảng thời gian tương ứng với công suất thiết kế nhằm duy trì hoạt động của hệ thống máy chủ không bị gián đoạn khi điện lưới gặp sự cố.
+
+2.5.5.2. Tuân thủ các yêu cầu kỹ thuật trong Bảng 15.
+
+**Bảng 15 - Thiết bị lưu điện cho hệ thống máy chủ**
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Công nghệ|Sử dụng UPS ONLINE| |2|Công suất|≥ 120% công suất thiết bị bảo vệ| |3|Điện áp đầu vào|200 - 240 VAC (1pha) hoặc 220 - 400 VAC (3 pha)<br>hoặc rộng hơn<br>Tần số 40 đến 60 Hz| |4|Điện áp đầu ra|Hỗ trợ 220 - 240 VAC 50/60 Hz| |5|Thời gian duy trì hoạt động hệ thống<br>khi mất điện|≥ 30 phút| |6|Chuẩn chống bụi và nước|IP20 hoặc cao hơn| |7|Dải nhiệt độ, độ ẩm hoạt động của<br>thiết bị|Đáp ứng:<br>- Nhiệt độ tối thiểu ≤ 10 °C<br>- Nhiệt độ tối đa ≥ 35 °C<br>- Độ ẩm tối đa ≥ 80%|
+
+2.5.6. Thiết bị lưu điện cho máy tính trạm
+
+2.5.6.1. Tính năng hoạt động: cung cấp điện năng trong một khoảng thời gian tương ứng với công suất thiết kế nhằm duy trì hoạt động của máy tính trạm không bị gián đoạn khi điện lưới gặp sự cố.
+
+2.5.6.2. Tuân thủ các yêu cầu kỹ thuật trong Bảng 16.
+# Bảng 16 - Thiết bị lưu điện cho máy tính trạm
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Công nghệ|Sử dụng UPS OFFLINE với công nghệ Line<br>interactive hoặc ONLINE| |2|Công suất|≥ 120% công suất thiết bị bảo vệ| |3|Điện áp đầu vào|160 - 240 VAC 40 đến 60 Hz| |4|Điện áp đầu ra|Hỗ trợ 220 - 240 VAC 50/60 Hz| |5|Cấp điện ngõ ra|≥ 3 ổ cắm chuẩn IEC| |6|Thời gian duy trì hoạt động hệ thống<br>khi mất điện|≥ 10 phút| |7|Dải nhiệt độ, độ ẩm hoạt động của<br>thiết bị|Đáp ứng:<br>- Nhiệt độ tối thiểu ≤ 10 °C<br>- Nhiệt độ tối đa ≥ 35 °C<br>- Độ ẩm tối đa ≥ 80%|
+
+2.5.7. Thiết bị chuyển mạch lõi tại trung tâm giám sát giao thông
+
+2.5.7.1. Tính năng hoạt động: đảm nhiệm chức năng chuyển mạch, định tuyến luồng dữ liệu giữa các vùng chức năng trong trung tâm giám sát giao thông.
+
+2.5.7.2. Tuân thủ các yêu cầu kỹ thuật trong Bảng 17.
+# Bảng 17 - Thiết bị chuyển mạch lõi tại trung tâm giám sát giao thông
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Cổng kết nối|≥ 24 x port 1 GbE hoặc cao hơn| |2|Băng thông chuyển mạch|≥ 160 Gbps| |3|Tốc độ chuyển gói|≥ 130 Mpps| |4|Chuyển mạch nâng cao|Layer 3| |5|Giao thức định tuyến|Hỗ trợ Static, RIP, OSPF| |6|Hỗ trợ tính năng|- QoS, Switching, Fabrics<br>- Tối thiểu: IPv4, IPv6, Spanning tree, LACP| |7|Giao thức quản lý|Hỗ trợ CLI, RMON, SNMP 1, SNMP 2c, SNMP<br>3, SSH, Telnet| |8|Dải nhiệt độ, độ ẩm hoạt động của thiết<br>bị|Đáp ứng:<br>- Nhiệt độ tối thiểu ≤ 10 °C<br>- Nhiệt độ tối đa ≥ 35 °C<br>- Độ ẩm tối đa ≥ 80%| |9|Nguồn điện sử dụng|220 VAC 50/60 Hz hoặc nguồn điện khác có<br>thiết bị đổi nguồn kèm theo|
+
+2.5.8. Thiết bị chống sét đường điện nguồn tại trung tâm giám sát giao thông
+
+2.5.8.1. Tính năng hoạt động: dùng để bảo vệ các thiết bị điện và hệ thống điện khỏi thiệt hại do sét.
+
+2.5.8.2. Tuân thủ các yêu cầu kỹ thuật trong Bảng 18.
+
+**Bảng 18 - Thiết bị chống sét đường điện nguồn tại trung tâm giám sát giao thông**
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Điện áp hoạt động danh định|220 - 240 VAC| |2|Dòng tải danh định|≥ 32 A| |3|Chế độ bảo vệ đường dây và bảo vệ|Có|
+
+|Col1|phụ tải|Col3| |---|---|---| |4|Thời gian đáp ứng|≤ 25 ns| |5|Dòng bảo vệ sơ cấp<br>Dòng bảo vệ thứ cấp|≥ 100 kA 8/20 µs<br>≥ 50 kA 8/20 µs| |6|Dải nhiệt độ, độ ẩm hoạt động của<br>thiết bị|Đáp ứng:<br>- Nhiệt độ tối thiểu ≤ 10°C<br>- Nhiệt độ tối đa ≥ 35°C<br>- Độ ẩm tối đa ≥ 80%|
+
+2.5.9. Màn hình hiển thị của trung tâm giám sát giao thông
+
+2.5.9.1. Tính năng hoạt động: hiển thị trực tuyến tình hình an ninh, trật tự, an toàn giao thông đường bộ trên tuyến do các camera quan sát giao thông truyền về trung tâm giám sát giao thông.
+
+2.5.9.2. Tuân thủ các yêu cầu kỹ thuật trong Bảng 19.
+# Bảng 19 - Màn hình hiển thị của trung tâm giám sát gi ao thông
+
+|TT|Chỉ tiêu kỹ thuật|Yêu cầu| |---|---|---| |1|Kích thước màn hình|Theo nhu cầu (phù hợp với diện tích trung tâm và<br>số lượng lắp đặt thiết bị giám sát giao thông)| |2|Công nghệ màn hình|LCD hoặc LED hoặc công nghệ cao hơn| |3|Tỉ lệ tương phản|≥ 1100:1| |4|Độ sáng|≥ 500 cd/m2| |5|Cổng kết nối|Hỗ trợ HDMI/RJ45/USB| |6|Dải nhiệt độ, độ ẩm hoạt động của<br>thiết bị|Đáp ứng:<br>- Nhiệt độ tối thiểu ≤ 10 °C<br>- Nhiệt độ tối đa ≥ 35 °C<br>- Độ ẩm tối đa ≥ 80%| |7|Nguồn cấp|220 VAC 50/60Hz hoặc nguồn điện khác có thiết bị<br>đổi nguồn kèm theo|
+
+**2.6. Phần mềm hệ thống giám sát giao thông**
+
+2.6.1. Giao diện, ngôn ngữ
+
+Phần mềm hệ thống giám sát giao thông sử dụng ngôn ngữ tiếng Việt hoặc tiếng Anh, các chức năng dễ thao tác, sử dụng cho người dùng.
+
+2.6.2. Chức năng phần mềm
+
+2.6.2.1. Hiển thị trực tuyến, trích xuất hình ảnh tình hình an ninh, trật tự, an toàn giao thông từ các camera quan sát giao thông trên tuyến truyền về.
+
+2.6.2.2. Hiển thị các thông tin vi phạm bao gồm: thời gian vi phạm, địa điểm vi phạm, loại phương tiện vi phạm, hình ảnh và video ghi nhận hành vi vi phạm, biển số phương tiện vi phạm (bao gồm màu biển), hành vi vi phạm, đơn vị phát hiện vi phạm, địa điểm xử lý vi phạm; phân loại phương tiện vi phạm xử lý trực tiếp và phương tiện vi phạm gửi thông báo.
+
+2.6.2.3. Tiếp nhận dữ liệu vi phạm từ các thiết bị giám sát giao thông trên tuyến truyền về.
+
+2.6.2.4. Tiếp nhận các dữ liệu, thông tin vi phạm từ người dân cung cấp.
+
+2.6.2.5. Tìm kiếm thông tin vi phạm theo nhiều tiêu chí (biển số phương tiện vi phạm, thời gian vi phạm, loại phương tiện vi phạm, địa điểm vi phạm, hành vi vi phạm).
+
+2.6.2.6. Phát hiện, cảnh báo phương tiện trong danh sách cần dừng để kiểm soát (không chấp hành thông báo vi phạm; không chấp hành quyết định xử phạt; phương tiện liên quan đến an ninh, trật tự, tai nạn giao thông; phương tiện trong danh sách cần dừng từ tuyến khác; phương tiện hết niên hạn sử dụng; phương tiện hết thời hạn đăng kiểm; phương tiện không có trong hệ thống Cơ sở dữ liệu về đăng ký, quản lý xe cớ giới, xe máy chuyên dùng).
+
+2.6.2.7. Bản ảnh phương tiện vi phạm đảm bảo có các thông tin tối thiểu yêu cầu trong Bảng 20.
+
+2.6.2.8. Tra cứu, theo dõi lịch sử vi phạm của phương tiện.
+
+2.6.2.9. Thiết lập từ xa cấu hình và các thông số hoạt động của thiết bị; điều khiển từ xa và thêm mới các thiết bị giám sát giao thông.
+
+2.6.2.10. Quản lý danh mục các hành vi vi phạm, vị trí lắp đặt camera, đơn vị sử dụng hệ thống giám sát giao thông, cán bộ, phân quyền người dùng.
+
+2.6.2.11. Quản lý lịch sử truy cập và thao tác của người sử dụng trên hệ thống.
+
+2.6.2.12. Báo cáo thống kê vi phạm theo yêu cầu người sử dụng.
+
+2.6.2.13. Hỗ trợ API Playback video; hỗ trợ chia sẻ, kết nối camera cho hệ thống khác qua chuẩn ONVIF profile G, S, T.
+
+2.6.2.14. Hỗ trợ kết nối các thiết bị lưu trữ ngoài.
+
+2.6.2.15. Tích hợp bản đồ số cho phép xác định vị trí lắp đặt thiết bị, truy vết đường đi của phương tiện.
+
+2.6.2.16. Tích hợp hệ thống cảnh báo tình trạng hoạt động của thiết bị.
+
+2.6.2.17. Có API đồng bộ dữ liệu vi phạm lên trung tâm chỉ huy giao thông với thông tin tối thiểu sau:
+thời gian vi phạm, địa điểm vi phạm, loại phương tiện vi phạm, hình ảnh và video ghi nhận hành vi vi phạm, biển số phương tiện vi phạm (bao gồm màu biển), hành vi vi phạm, đơn vị phát hiện vi phạm, địa điểm xử lý vi phạm, số điện thoại đơn vị xử lý vi phạm.
+
+2.6.2.18. Có API đồng bộ dữ liệu nhận dạng biển số phương tiện; danh sách biển số của phương tiện cần dừng để kiểm soát lên trung tâm chỉ huy giao thông phục vụ xử lý vi phạm liên tuyến.
+
+2.6.2.19. Tùy khả năng kết nối của trung tâm chỉ huy giao thông tại thời điểm triển khai, hệ thống giám sát giao thông có API tiếp nhận dữ liệu từ các cơ sở dữ liệu liên quan thông qua trung tâm chỉ huy giao thông để bổ sung, xác minh thêm thông tin cho dữ liệu của hệ thống giám sát giao thông.
+
+**Bảng 20 - Bản ảnh phương tiện vi phạm**
+
+|TT|Thuộc tính|Ghi chú| |---|---|---| |1|Thời gian vi phạm|Thời gian vi phạm: thể hiện ngày/tháng/năm<br>và giờ:phút:giây| |2|Địa điểm vi phạm|Km/quốc lộ, tỉnh, thành phố hoặc tọa độ địa<br>điểm vi phạm| |3|Thiết bị (người) phát hiện vi phạm|Tên thiết bị và người điều khiển thiết bị (nếu<br>có) phát hiện vi phạm| |4|Giá trị mức độ vi phạm|Giá trị đo được trong thực tế (ví dụ: tốc độ<br>thực tế của phương tiện)| |5|Biển số phương tiện vi phạm|Hình ảnh biển số phương tiện vi phạm| |6|Ảnh phương tiện vi phạm|Đáp ứng yêu cầu chứng minh hành vi vi<br>phạm|
+
+**3. QUY ĐỊNH VỀ QUẢN LÝ**
+
+**3.1.** Các thiết bị, phần mềm của hệ thống giám sát giao thông phải đáp ứng các yêu cầu kỹ thuật được quy định tại Quy chuẩn này.
+
+**3.2.** Việc kiểm định thiết bị giám sát giao thông được thực hiện theo quy định của pháp luật.
+
+**3.3.** Việc quản lý, vận hành hệ thống giám sát giao thông thực hiện theo quy định của Bộ trưởng Bộ Công an về xây dựng, quản lý, vận hành, khai thác và sử dụng hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ.
+
+**4. TỔ CHỨC THỰC HIỆN**
+
+**4.1.** Tổ chức, cá nhân liên quan đến đầu tư xây dựng, nâng cấp các thiết bị, phần mềm, cung cấp dịch vụ phục vụ hoạt động của hệ thống giám sát giao thông tuân thủ các quy định tại Quy chuẩn này.
+
+**4.2.** Đối với hệ thống giám sát giao thông đang áp dụng theo TCCS-AN 69:2020 ban hành kèm theo Thông tư số 75/2020/TT-BCA ngày 02/7/2020 của Bộ trưởng Bộ Công an thì tiếp tục được sử dụng;
+khi đầu tư nâng cấp hệ thống thì áp dụng theo Quy chuẩn này.
+
+**4.3.** Cục Khoa học, chiến lược và lịch sử Công an chịu trách nhiệm tổ chức phổ biến Quy chuẩn này cho tổ chức, cá nhân có liên quan.
+
+**4.4.** Cục Cảnh sát giao thông có trách nhiệm hướng dẫn, theo dõi việc áp dụng Quy chuẩn này./.
+
+**QCVN 06:2024/BCA**
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ THIẾT BỊ GIÁM SÁT HÀNH TRÌNH VÀ THIẾT BỊ GHI NHẬN
+
+HÌNH ẢNH NGƯỜI LÁI XE
+
+_National technical regulation on automobile tachographs and automobile driver image digital video_
+
+_recorders_
+
+**MỤC LỤC**
+
+Lời nói đầu
+
+1. Quy định chung
+
+1.1. Phạm vi điều chỉnh
+
+1.2. Đối tượng áp dụng
+
+1.3. Tài liệu viện dẫn
+
+1.4. Giải thích từ ngữ
+
+1.5. Các từ viết tắt
+
+2. Quy định về kỹ thuật
+
+2.1. Chức năng hoạt động
+
+2.2. Yêu cầu về phần cứng
+
+2.3. Yêu cầu về phần mềm quản lý, khai thác
+
+2.4. Tính an toàn của dữ liệu
+
+2.5. Nguồn điện sử dụng
+
+2.6. Quy định về lắp thiết bị giám sát hành trình, thiết bị ghi nhận hình ảnh người lái xe
+
+3. Phương pháp thử nghiệm và kiểm tra
+
+3.1.Điều kiện thử nghiệm
+
+3.2. Phương pháp thử nghiệm
+
+4. Quy định về quản lý
+
+4.1. Quản lý, chứng nhận sản phẩm
+
+4.2. Yêu cầu về sự phù hợp với đối với sản phẩm công nghệ thông tin
+
+4.3. Yêu cầu về ghi nhãn hàng hóa
+
+5. Tổ chức thực hiện
+
+Phụ lục A: Cấu trúc khung truyền dữ liệu từ thiết bị giám sát về máy tính thông qua phần mềm phân tích dữ liệu
+
+Phụ lục B: Biểu mẫu báo cáo thống kê dữ liệu thiết bị giám sát trên máy chủ
+
+Phụ lục C: Yêu cầu kỹ thuật đối với đầu đọc và thẻ nhận dạng lái xe
+
+**Lời nói đầu**
+
+QCVN 06:2024/BCA do Cục Cảnh sát giao thông biên soạn, Cục Khoa học, chiến lược và lịch sử Công an trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Công an ban hành theo Thông tư số 62/2024/TT-BCA ngày 12 tháng 11 năm 2024.
+
+**QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ THIẾT BỊ GIÁM SÁT HÀNHTRÌNH VÀ THIẾT BỊ GHI**
+
+**NHẬN HÌNH ẢNH NGƯỜI LÁI XE**
+
+_**National technical regulation on automobile tachographs and automobile driver image digital**_
+
+_**video recorders**_
+
+**1. QUY ĐỊNH CHUNG**
+
+**1.1. Phạm vi điều chỉnh**
+
+Quy chuẩn này quy định các yêu cầu kỹ thuật đối với thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe sử dụng trên các phương tiện phải lắp theo quy định của Luật Trật tự, an toàn giao thông đường bộ.
+
+**1.2. Đối tượng áp dụng**
+
+Quy chuẩn này áp dụng đối với tổ chức, cá nhân có liên quan đến sản xuất, lắp ráp, nhập khẩu, chứng nhận chất lượng, quản lý, sử dụng thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe.
+
+**1.3. Tài liệu viện dẫn**
+
+Tài liệu viện dẫn sau đây là cần thiết khi áp dụng Quy chuẩn này. Đối với các tài liệu viện dẫn thì áp dụng phiên bản mới nhất, bao gồm cả các văn bản sửa đổi (nếu có):
+
+1.3.1. TCVN 7699-2-75:2011 (IEC 60068-2-75:1997), thử nghiệm môi trường - Phần 2-75: Các thử nghiệm - Thử nghiệm Eh: Thử nghiệm búa.
+
+1.3.2. TCVN 6385:2009 (IEC 60065:2005) về thiết bị nghe, nhìn và thiết bị điện tử tương tự - Yêu cầu an toàn.
+
+1.3.3. QCVN 117:2023/BTTTT Quy chuẩn kỹ thuật quốc gia về thiết bị đầu cuối thông tin di động mặt đất GSM, W-CDMA, E-UTRA - phần truy nhập vô tuyến.
+
+1.3.4. QCVN 50:2020/BTTTT Quy chuẩn kỹ thuật quốc gia về thiết bị điện thoại VHF sử dụng trên phương tiện cứu sinh.
+
+1.3.5. QCVN 86:2019/BTTTT Quy chuẩn kỹ thuật quốc gia về tương thích điện từ cho thiết bị đầu cuối và phụ trợ trong hệ thống thông tin di động.
+
+1.3.6. Nghị định số 13/2022/NĐ-CP ngày 21 tháng 01 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008,
+
+Nghị định số 74/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ quy định chi tiết thi hành một số điều Luật Chất lượng sản phẩm, hàng hóa và Nghị định số 86/2012/NĐ-CP ngày 19 tháng 10 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều Luật Đo lường.
+
+1.3.7. Nghị định số 111/2021/NĐ-CP ngày 09 tháng 12 năm 2021 của Chính phủ sửa đổi, bổ sung một số điều Nghị định số 43/2017/NĐ-CP ngày 14 tháng 4 năm 2017 của Chính phủ về nhãn hàng hóa (sau đây viết gọn là Nghị định số 111/2021/NĐ-CP).
+
+1.3.8. Nghị định số 154/2018/NĐ-CP ngày 09 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung, bãi bỏ một số quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và một số quy định về kiểm tra chuyên ngành (sau đây viết gọn là Nghị định số 154/2018/NĐ-CP).
+
+1.3.9. Nghị định số 74/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chất lượng sản phẩm, hàng hoá (sau đây viết gọn là Nghị định số 74/2018/NĐ-CP).
+
+1.3.10. Nghị định số 43/2017/NĐ-CP ngày 14 tháng 4 năm 2017 của Chính phủ về nhãn hàng hóa (sau đây viết gọn là Nghị định số 43/2017/NĐ-CP).
+
+1.3.11. Nghị định số 67/2009/NĐ-CP ngày 03 tháng 8 năm 2009 của Chính phủ sửa đổi một số điều của Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật và Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chất lượng sản phẩm, hàng hoá.
+
+1.3.12. Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chất lượng sản phẩm, hàng hoá (sau đây viết gọn là Nghị định số 132/2008/NĐ-CP).
+
+1.3.13. Thông tư số 18/2022/TT-BKHCN ngày 30 tháng 12 năm 2022 của Bộ trưởng Bộ Khoa học và Công nghệ quy định chi tiết một số nội dung bắt buộc thể hiện trên nhãn hàng hóa của một số nhóm hàng hóa bằng phương thức điện tử (sau đây viết gọn là Thông tư số 18/2022/TT-BKHCN).
+
+1.3.14. Thông tư số 06/2020/TT-BKHCN ngày 10 tháng 12 năm 2020 của Bộ trưởng Bộ Khoa học và Công nghệ quy định chi tiết và biện pháp thi hành một số điều của Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008, Nghị định số 74/2018/NĐ-CP ngày 15 tháng 5 năm 2018, Nghị định số 154/2018/NĐ-CP ngày 09 tháng 11 năm 2018 và Nghị định số 119/2017/NĐ-CP ngày 01 tháng 11 năm 2017 của Chính phủ (sau đây viết gọn là Thông tư số 06/2020/TT-BKHCN).
+
+1.3.15. Thông tư số 02/2017/TT-BKHCN ngày 31 tháng 3 năm 2017 của Bộ trưởng Bộ Khoa học và Công nghệ sửa đổi, bổ sung một số điều của Thông tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về công bố hợp chuẩn, công bố hợp quy và
+
+phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật (sau đây viết gọn là Thông tư số 02/2017/TT-BKHCN).
+
+1.3.16. Thông tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật (sau đây viết gọn là Thông tư số 28/2012/TT-BKHCN).
+
+**1.4. Giải thích từ ngữ**
+
+Trong Quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
+
+1.4.1. Thiết bị giám sát hành trình
+
+Là thiết bị dùng để ghi, lưu trữ, truyền phát thông tin, dữ liệu về hành trình của phương tiện, được lắp trên các phương tiện phải lắp theo quy định của Luật Trật tự, an toàn giao thông đường bộ.
+
+1.4.2. Thiết bị ghi nhận hình ảnh người lái xe
+
+Là thiết bị dùng để ghi, lưu trữ, truyền phát thông tin, dữ liệu về hình ảnh người lái xe, được lắp trên các phương tiện phải lắp theo quy định của Luật Trật tự, an toàn giao thông đường bộ.
+
+1.4.3. Hành trình xe chạy
+
+Là hành trình được xác định bởi điểm đi, điểm đến, các tuyến đường bộ, các điểm dừng, đỗ trên tuyến đường (được xác định cụ thể về thời gian, tọa độ/địa điểm) mà phương tiện đi qua.
+
+1.4.4. Tốc độ giới hạn
+
+Là tốc độ cho phép lớn nhất đối với từng loại xe, trên từng tuyến đường.
+
+1.4.5. Tốc độ tức thời
+
+Là tốc độ xe chạy thực tế được đo và ghi lại trong thiết bị giám sát hành trình hoặc thiết bị ghi nhận hình ảnh người lái xe từng giây.
+
+**QCVN 06:2024/BCA**
+
+1.4.6. Quá tốc độ giới hạn
+
+Là khi xe chạy vượt quá tốc độ giới hạn cho phép và duy trì liên tục từ 20 giây trở lên.
+
+1.4.7. Thời gian lái xe liên tục
+
+Là thời gian người lái xe điều khiển phương tiện tham gia giao thông giữa lần đăng nhập và đăng xuất hệ thống liền nhau.
+
+1.4.8. Nhà cung cấp
+
+Là đơn vị sản xuất, lắp ráp hoặc nhập khẩu thiết bị giám sát hành trình, thiết bị ghi nhận hình ảnh người lái xe thuộc phạm vi áp dụng của Quy chuẩn này.
+
+1.4.9. Dữ liệu hình ảnh
+
+Là dữ liệu thu thập từ camera dưới dạng dữ liệu video hoặc ảnh tĩnh.
+
+1.4.10. Dữ liệu ảnh tĩnh
+
+Là dữ liệu thu thập từ camera lưu giữ hình ảnh tại một thời điểm (ảnh chụp).
+
+1.4.11. Dữ liệu video
+
+Là dữ liệu thu thập từ camera gồm những hình ảnh liên tiếp trong một khoảng thời gian.
+
+1.4.12. Camera
+
+Là thiết bị chứa cụm cảm biến hình ảnh (một thành phần của camera) có chức năng thu nhận hình ảnh/video từ môi trường chuyển đến đầu thu camera.
+
+1.4.13. Đầu thu camera
+
+Là thiết bị có chức năng thu nhận, xử lý và lưu trữ dữ liệu ảnh tĩnh/video từ camera truyền về.
+
+**1.5. Các từ viết tắt** # Bảng 1 - Danh mục các từ viết tắt
+
+|Tên viết tắt|Tên đầy đủ|Ý nghĩa| |---|---|---| |TBGSHT|Thiết bị giám sát hành trình|| |TBGNHANLX|Thiết bị ghi nhận hình ảnh người lái xe|| |DTE|Data Terminal Equipment|Thiết bị đầu cuối|
+
+|GPLX|Giấy phép lái xe|Col3| |---|---|---| |GPS|Global Positioning System|Hệ thống định vị toàn cầu| |GNSS|Global Navigation Satellite System|Hệ thống vệ tinh dẫn đường<br>toàn cầu| |GPRS|General Packet Radio Services|Dịch vụ chuyển gói dữ liệu| |GSM|Global System for Mobile Communications|Hệ thống thông tin di động<br>(bao gồm các hệ thống mạng<br>di động 3G/4G/5G,…)| |IMEI|International Mobile station Equipment<br>Identity|Mã số nhận dạng thiết bị di<br>động quốc tế| |KB|Kilobyte (1024 byte)||
+
+**2. QUY ĐỊNH VỀ KỸ THUẬT**
+
+**2.1. Chức năng hoạt động**
+
+TBGSHT, TBGNHANLX phải có các chức năng tối thiểu sau đây:
+
+2.1.1. Chức năng thông báo trạng thái hoạt động
+
+TBGSHT, TBGNHANLX phải có chức năng tự kiểm tra (khi khởi động ban đầu và trong suốt quá trình hoạt động) và có các tín hiệu thông báo trạng thái hoạt động, bao gồm: tình trạng có sóng, mất sóng GSM; tình trạng có kết nối, mất kết nối với máy chủ; tình trạng có tín hiệu, mất tín hiệu GPS/GNSS;
+tình trạng hoạt động của bộ nhớ lưu trữ dữ liệu hành trình, dữ liệu hình ảnh (đối với TBGNHANLX);
+trạng thái đăng nhập, đăng xuất hệ thống của lái xe; trạng thái kết nối với các camera (đối với TBGNHANLX). Tín hiệu thông báo các trạng thái hoạt động phải được hiển thị bằng đèn hoặc màn hình.
+
+2.1.2. Chức năng ghi nhận thay đổi lái xe
+
+TBGSHT, TBGNHANLX phải ghi lại được thời điểm, tọa độ đăng nhập, đăng xuất hệ thống của lái xe, đồng thời phải có báo hiệu để nhận biết sự thay đổi lái xe và phân biệt được trạng thái đăng nhập, đăng xuất hệ thống. Việc đăng nhập, đăng xuất hệ thống của lái xe chỉ thực hiện được khi xe dừng hoặc đỗ.
+
+Các thông tin về lái xe sau đăng nhập, đăng xuất hệ thống phải được lưu trữ tại TBGSHT, TBGNHANLX và truyền về máy chủ.
+
+Việc ghi nhận thay đổi lái xe thực hiện được thông qua quẹt thẻ nhận dạng lái xe hoặc nhận diện khuôn mặt lái xe qua camera (nếu có). Trường hợp nhận diện khuôn mặt thì TBGSHT, TBGNHANLX phải thông báo được thông tin lái xe và trạng thái ghi nhận thành công hay thất bại.
+
+2.1.3. Chức năng cảnh báo đối với lái xe
+
+TBGSHT, TBGNHANLX phải phát tín hiệu cảnh báo bằng âm thanh với âm lượng không nhỏ hơn 65 dB (A) khi đo ở khoảng cách 10 cm, tần suất từ 60 đến 120 lần trên phút, đảm bảo người lái xe có thể nghe được khi đang lái xe trong các trường hợp sau:
+
+- Lái xe không thực hiện đăng nhập hoặc đăng nhập hệ thống không thành công thẻ nhận dạng lái xe khi điều khiển xe;
+
+- Xe chạy quá tốc độ giới hạn cho phép, âm thanh cảnh báo phải được duy trì liên tục cho đến khi tốc độ xe nhỏ hơn hoặc bằng tốc độ giới hạn.
+
+Tốc độ giới hạn được cài đặt cho TBGSHT, TBGNHANLX trên cơ sở tốc độ tối đa cho phép đối với từng loại xe cơ giới tham gia giao thông trên đường đôi, đường một chiều có từ hai làn xe cơ giới trở lên ngoài khu vực đông dân cư (trừ đường cao tốc) hoặc tốc độ tối đa theo từng cung đường trên bản đồ số;
+
+- Tối thiểu 05 phút trước thời điểm 04 giờ lái xe liên tục, âm thanh cảnh báo phải được duy trì liên tục cho đến khi xe dừng hoặc lái xe thực hiện đăng xuất hệ thống.
+
+2.1.4. Chức năng ghi và lưu trữ dữ liệu trên TBGSHT, TBGNHANLX
+
+2.1.4.1. Dữ liệu hành trình
+
+Các dữ liệu được ghi và lưu trữ trong bộ nhớ TBGSHT ít nhất 30 ngày, không bị xóa, không bị thay đổi trong suốt thời gian lưu trữ đối với các thông tin sau:
+
+a) Hành trình xe chạy:
+
+Hành trình xe chạy (thời gian, tọa độ, tốc độ), tần suất ghi và lưu trữ không quá 30 giây trên một lần khi xe hoạt động và không quá 15 phút trên một lần khi xe dừng, đỗ.
+
+b) Tốc độ vận hành của xe:
+
+- Tốc độ tức thời trong suốt hành trình xe chạy, thông tin này phải trích xuất được thông qua cổng kết nối của TBGSHT với máy tính hoặc thông qua máy chủ tại các thời điểm bất kỳ trong suốt hành trình xe chạy;
+
+- Đơn vị đo tốc độ là km/h, dải đo tốc độ của TBGSHT từ 0 km/h đến tối thiểu 150 km/h và độ chia thang đo tốc độ (độ phân giải) của toàn thang đo nhỏ hơn hoặc bằng 1 km/h, sai số không lớn hơn ± 3 km/h.
+
+c) Thông tin về lái xe:
+
+Thời điểm, tọa độ bắt đầu và kết thúc làm việc của từng lái xe gắn với xe (họ tên lái xe, số GPLX, biển số xe); thời gian lái xe liên tục của từng lái xe.
+
+d) Thông tin về số lần và thời gian dừng, đỗ xe:
+
+Tọa độ, thời điểm, khoảng thời gian của mỗi lần dừng, đỗ xe trong suốt hành trình xe chạy.
+
+đ) Thông tin về thiết bị:
+
+Nhãn hiệu, kiểu loại, số imei hoặc số sê ri của thiết bị.
+
+2.1.4.2. Dữ liệu hình ảnh
+
+Áp dụng cho TBGNHANLX là các dữ liệu được ghi và lưu trữ vào bộ nhớ được tích hợp trong TBGSHT dưới dạng hình ảnh tối thiểu 72 giờ gần nhất, trong quá trình xe hoạt động, bao gồm các thông tin sau:
+
+a) Dữ liệu ảnh tĩnh: đảm bảo quan sát được hình ảnh làm việc của người lái xe, độ phân giải tối thiểu là 640 x 480 pixel, định dạng JPEG, dung lượng hình ảnh tối thiểu 30 KB. Tần suất lưu ảnh không quá 5 phút/lần;
+
+b) Dữ liệu video: có độ phân giải tối thiểu 720p, 10 khung hình/giây, định dạng MP4, phương thức mã hóa H.264 hoặc H.265;
+
+c) Dữ liệu được tích hợp trên hình ảnh gồm tối thiểu các dữ liệu sau: biển số xe, số GPLX, họ tên lái xe, tọa độ, vận tốc, thời gian được đồng bộ từ TBGSHT, TBGNHANLX;
+
+d) Dữ liệu video và ảnh tĩnh phải từ cùng một nguồn camera.
+
+2.1.5. Chức năng truyền dữ liệu về máy chủ
+
+- Dữ liệu hành trình theo quy định trong mục 2.1.4.1 phải được truyền về máy chủ với tần suất ít nhất không quá 30 giây trên một lần khi xe hoạt động và không quá 15 phút trên một lần khi xe không hoạt động để theo dõi, quản lý, lưu trữ theo quy định;
+
+- Dữ liệu ảnh tĩnh quy định trong mục 2.1.4.2 phải được truyền với tần suất truyền từ 12 lần/giờ đến 20 lần/giờ (tương đương từ 3 phút/lần đến 5 phút/lần truyền dữ liệu) về máy chủ khi xe hoạt động;
+
+- Trong trường hợp mất kết nối với máy chủ do gián đoạn đường truyền, TBGSHT, TBGNHANLX phải gửi lại đầy đủ dữ liệu đã ghi nhận được trước đó về máy chủ ngay sau khi đường truyền hoạt động trở lại, theo thứ tự thời gian từ trước đến sau (cho phép gửi song song dữ liệu cũ và dữ liệu hiện thời);
+
+- Dữ liệu truyền từ TBGSHT, TBGNHANLX đến máy chủ của nhà cung cấp và được chuyển tiếp đi phải tương thích với giao thức truyền dữ liệu được quy định bởi cơ quan quản lý nhà nước có thẩm quyền cho từng loại dữ liệu tương ứng;
+
+- TBGNHANLX phải có khả năng truyền video trực tiếp từ trên xe về máy chủ của nhà cung cấp và truyền từng đoạn dữ liệu video trong bộ nhớ về máy chủ. Mỗi đoạn video có thời gian tối thiểu là 01 phút;
+
+- Khả năng truyền dữ liệu về máy chủ là khả năng nội tại của TBGSHT, TBGNHANLX thông qua sóng di động, không phụ thuộc vào bộ truyền dẫn bên ngoài.
+
+2.1.6. Chức năng cài đặt tham số
+
+TBGSHT, TBGNHANLX phải có khả năng cài đặt được các tham số ban đầu như sau:
+
+- Biển số xe;
+
+- Hệ số xung/km (đối với thiết bị đo tốc độ theo phương pháp xung);
+
+- Phương pháp đo tốc độ;
+
+- Tốc độ giới hạn;
+
+- Ngày lắp, sửa đổi thiết bị;
+
+- Thời gian lái xe liên tục, thời gian làm việc của lái xe trong ngày;
+
+- Thời gian được tính là một lần dừng, đỗ xe (nếu có);
+
+Đơn vị sản xuất, lắp ráp và nhập khẩu TBGSHT, TBGNHANLX có trách nhiệm tự bảo mật chức năng cài đặt tham số cho thiết bị.
+
+2.1.7. Chức năng trích xuất dữ liệu qua cổng kết nối
+
+- TBGSHT có chức năng trích xuất trực tiếp dữ liệu quy định tại mục 2.1.4.1 bằng máy tính thông qua chuẩn RS232 theo quy định tại mục A.1 Phụ lục A của Quy chuẩn này;
+
+- TBGNHANLX có chức năng trích xuất trực tiếp dữ liệu quy định tại mục 2.1.4 thông qua kết nối không dây hoặc có dây khác, phải đảm bảo các yêu cầu sau:
+
++ Bộ phận kết nối phải là một bộ phận của TBGNHANLX, đảm bảo hoạt động ổn định trong quá trình sử dụng;
+
++ Không sử dụng máy chủ trung gian;
+
++ Việc trích xuất sử dụng các trình duyệt sẵn có trên máy tính/smartphone/máy tính bảng hoặc phần mềm dùng chung của cơ quan quản lý nhà nước có thẩm quyền cung cấp (nếu có).
+
+**2.2. Yêu cầu về phần cứng**
+
+2.2.1. Yêu cầu chung
+
+TBGSHT, TBGNHANLX có vỏ bọc cứng, đủ độ bền cơ, đảm bảo hoạt động bình thường trong môi trường làm việc của xe, đảm bảo không làm mất hay thay đổi dữ liệu đã được ghi, lưu trữ tại TBGSHT, TBGNHANLX. Kết cấu TBGSHT, TBGNHANLX phải có các bộ phận sau:
+
+- Bộ vi xử lý;
+
+- Bộ phận hiển thị và cảnh báo bằng đèn hoặc màn hình, còi hoặc loa;
+
+- Bộ phận nhận tín hiệu GPS/GNSS;
+
+- Bộ phận thu phát dữ liệu GSM (có công nghệ 4G trở lên);
+
+- Đồng hồ thời gian thực được đồng bộ thời gian vệ tinh (khi có tín hiệu vệ tinh) và hiệu chỉnh theo giờ Việt Nam;
+
+- Bộ nhớ đảm bảo dung lượng để lưu trữ các dữ liệu theo quy định tại mục 2.1.4.1.
+
+2.2.2. TBGSHT
+
+Kết cấu TBGSHT phải có thêm các bộ phận sau:
+
+- Bộ phận thu nhận thông tin lái xe (đầu đọc và thẻ nhận dạng lái xe) theo quy định tại Phụ lục C của Quy chuẩn này;
+
+- Có ít nhất một cổng kết nối theo chuẩn RS232 để trích xuất dữ liệu quy định tại mục 2.1.4.1 (được quy định cụ thể trong Phụ lục A của Quy chuẩn này).
+
+2.2.3. TBGNHANLX
+
+Kết cấu TBGNHANLX phải có thêm các bộ phận sau:
+
+- Đầu thu camera tích hợp trong TBGSHT có vỏ bọc bằng kim loại tản nhiệt tốt;
+
+- Tối thiểu có một camera hoặc một cổng kết nối tới camera để ghi nhận hình ảnh người lái xe;
+
+- Camera có vỏ bọc cứng, điều chỉnh được góc quay, ghi nhận hình ảnh người lái xe với dung lượng ảnh tối thiểu 30 KB trong mọi điều kiện ánh sáng của buồng lái (ban ngày và ban đêm);
+
+- Bộ nhớ đảm bảo dung lượng để lưu trữ các dữ liệu theo quy định tại mục 2.1.4.2;
+
+- Phải có trang bị để đảm bảo lưu trữ dữ liệu video khi mất nguồn đột ngột;
+
+- Có bộ phận kết nối không dây hoặc có dây khác theo quy định tại mục 2.1.7.
+
+**2.3. Yêu cầu về phần mềm quản lý, khai thác**
+
+Phần mềm quản lý, khai thác của đơn vị kinh doanh vận tải phải cài đặt được trên máy tính, các giao diện và kết quả hiển thị bằng tiếng Việt và có tối thiểu các tính năng sau:
+
+- Tính năng giám sát trực tuyến: hiển thị các thông tin vị trí xe trên bản đồ số, biển số xe, thông tin lái xe hiện tại (họ tên lái xe và số GPLX), tốc độ tức thời, tổng số lần quá tốc độ giới hạn, số lần và thời gian dừng đỗ, thời gian lái xe liên tục và tổng thời gian lái xe trong ngày của lái xe, ảnh tĩnh được truyền về từ xe (đối với TBGNHANLX);
+
+- Tính năng quản lý, khai thác dữ liệu: truy cập, tìm kiếm, lập bảng biểu, báo cáo, thống kê các dữ liệu theo quy định về cung cấp, quản lý và sử dụng dữ liệu từ TBGSHT, TBGNHANLX. Mẫu báo cáo thống kê dữ liệu quy định tại Phụ lục B của Quy chuẩn này;
+
+- Tính năng thông báo trạng thái hoạt động của thiết bị: phần mềm phải hiển thị được trạng thái của TBGSHT, TBGNHANLX tương ứng lắp trên xe hoạt động bình thường hoặc mất tín hiệu quá 30 phút.
+
+**2.4. Tính an toàn của dữ liệu**
+
+Các dữ liệu được ghi, lưu trữ trong TBGSHT, TBGNHANLX và máy chủ phải đảm bảo không bị xóa, không bị thay đổi trong suốt thời gian lưu trữ theo quy định.
+
+**2.5. Nguồn điện sử dụng**
+
+TBGSHT và TBGNHANLX sử dụng nguồn điện của xe. Mức điện áp sử dụng của TBGSHT, TBGNHANLX phải làm việc được trong dải điện áp từ - 32% đến + 20% điện áp danh định của xe và có khả năng chịu điện áp ngược với giá trị điện áp thử nghiệm cắm ngược cực theo quy định tại Bảng 2 của Quy chuẩn này.
+
+**Bảng 2 - Điện áp danh định và điện áp thử nghiệm của TBGSHT, TBGNHANLX**
+
+|Điện áp danh định (V)|Điện áp thử nghiệm cắm ngược cực (V)| |---|---| |12|14 ± 0,1| |24|28 ± 0,2| |36|42 ± 0,2|
+
+**2.6. Quy định về lắp TBGSHT và TBGNHANLX**
+
+- TBGSHT, TBGNHANLX phải lắp ở vị trí lái xe quan sát được đèn báo trạng thái hoạt động của thiết bị; phía trên mặt bảng điều khiển của lái xe phải có đầy đủ các bộ phận: cổng kết nối máy tính, bảng hướng dẫn sử dụng TBGSHT, TBGNHANLX, các tín hiệu thông báo trạng thái hoạt động theo quy định tại mục 2.1.1;
+
+Trường hợp lắp TBGSHT, TBGNHANLX ở vị trí khuất tầm nhìn của lái xe thì phải gắn cố định trên mặt bảng điều khiển các bộ phận sau: cổng kết nối máy tính, bảng hướng dẫn sử dụng TBGSHT, TBGNHANLX, các đèn báo hiệu lặp lại tín hiệu thông báo trạng thái hoạt động theo quy định tại mục
+2.1.1;
+
+- Camera của TBGNHANLX được lắp trực tiếp bên trong buồng lái xe, ở vị trí ghi nhận được hình ảnh người lái xe;
+
+- Bảng hướng dẫn sử dụng TBGSHT, TBGNHANLX phải thể hiện các thông tin sau:
+
++ Số điện thoại, địa chỉ liên hệ của nhà cung cấp dịch vụ TBGSHT, TBGNHANLX;
+
++ Thao tác đăng nhập, đăng xuất hệ thống;
+
++ Trạng thái hoạt động của TBGSHT, TBGNHANLX thông qua tín hiệu, báo hiệu;
+
++ Thao tác kết nối TBGSHT, TBGNHANLX để trích xuất dữ liệu.
+
+**3. PHƯƠNG PHÁP THỬ NGHIỆM VÀ KIỂM TRA**
+
+**3.1. Điều kiện thử nghiệm**
+
+3.1.1. Trang thiết bị thử nghiệm và kiểm tra
+
+Trang thiết bị sử dụng trong thử nghiệm và kiểm tra TBGSHT, TBGNHANLX được nêu trong Bảng 3.
+# Bảng 3 - Trang thiết bị thử nghiệm và kiểm tra TBGSHT, TBGNHANLX
+
+|TT|Trang thiết bị|Đặc tính kỹ thuật| |---|---|---| |1|Chuẩn tần số nguyên tử|Độ chính xác từ 10-12 Hz/Hz trở lên| |2|Máy phát tần số chuẩn|Dải tần: 0,01 Hz đến 60 MHz| |3|Máy đo độ ổn định thời gian thực<br>(Analyzer Q1)|Độ ổn định: 0,004 giây/ngày| |4|Thiết bị đo độ ồn|Dải đo từ 30 dB (A) đến 130 dB (A)| |5|Thiết bị đo tốc độ, quãng đường<br>chuẩn|Sai số đo tốc độ < ± 1 km/h, sai số đo quãng đường < 1 %| |6|Thiết bị mô phỏng tín hiệu<br>GPS/GNSS|Tín hiệu GPS L1-C/A & L2-C; Galileo E1-OS, GLONASS<br>L1-OF, Beidou B1-I, QZSS| |7|Máy đo tần và khoảng thời gian|Dải đo DC đến 3 GHz| |8|Máy thu GPS/GNSS định vị chuẩn|Độ chính xác vị trí ≤ 5 m| |9|Tủ môi trường|Nhiệt độ từ -10 °C đến 80 °C, sai số cho phép ± 0,5 °C; độ|
+
+|Col1|Col2|ẩm từ 0 % đến 100%, sai số cho phép ± 2,5 %| |---|---|---| |10|Máy thử rung|Dải tần làm việc từ 3 Hz đến 80 Hz; gia tốc cực đại 5 g;<br>biên độ rung cực đại 15 mm| |11|Thiết bị thử va đập|0,20 J đến 1,00 J| |12|Bộ nguồn chuẩn|Dải điện áp từ 0 VDC đến 100 VDC| |13|Tủ lạnh sâu|Nhiệt độ đến - 40 °C, sai số cho phép ± 0,5 °C| |14|Tủ nhiệt|Có nhiệt độ lớn nhất 200°C, sai số cho phép ± 1 °C|
+
+Có thể thay thế các chuẩn, trang thiết bị nêu trên bằng những chuẩn, trang thiết bị có độ chính xác tương đương trở lên và phải đảm bảo tính liên kết của chuẩn đến chuẩn đo lường quốc gia.
+
+3.1.2. Điều kiện môi trường thử nghiệm
+
+- Đối với thử nghiệm trong phòng:
+
++ Nhiệt độ: (25 ± 5) °C;
+
++ Độ ẩm: dưới 70 % RH.
+
+- Đối với thử nghiệm thực nghiệm hoặc phép đo xác định độ chính xác vị trí (ngoài trời): nhiệt độ và độ ẩm nằm trong giới hạn hoạt động của TBGSHT, TBGNHANLX.
+
+**3.2. Phương pháp thử nghiệm**
+
+3.2.1. Kết cấu phần cứng
+
+3.2.1.1. Yêu cầu chung
+
+- Kiểm tra sự phù hợp với các yêu cầu tại mục 2.2 bằng cách xem xét, ngoại trừ yêu cầu về độ chính xác vị trí và độ chính xác của đồng hồ thời gian thực;
+
+- Thông tin về kiểu loại, xuất xứ các bộ phận chính: chip vi xử lý, chip GPS/GNSS, sóng thông tin di động, bộ nhớ dữ liệu TBGSHT, TBGNHANLX phải được ghi lại trong báo cáo (giấy) chứng nhận kết quả đo, thử nghiệm.
+
+3.2.1.2. Độ chính xác vị trí
+
+Việc xác định độ chính xác định vị của TBGSHT và TBGNHANLX được tiến hành theo một trong hai cách sau:
+
+a) So sánh với máy thu GPS/GNSS định vị chuẩn:
+
+- Các mẫu TBGSHT, TBGNHANLX được đặt cùng vị trí với máy thu GPS/GNSS định vị chuẩn, đảm bảo điều kiện thu được tín hiệu vệ tinh bình thường;
+
+- So sánh vị trí xác định bởi máy thu GPS/GNSS định vị chuẩn với từng mẫu TBGSHT, TBGNHANLX, đảm bảo sai lệch vị trí nhỏ hơn hoặc bằng 10 m.
+
+b) Sử dụng thiết bị mô phỏng tín hiệu GPS/GNSS:
+
+- Thiết lập các mẫu TBGSHT, TBGNHANLX tại phòng thí nghiệm và đảm bảo nhận được tín hiệu vệ tinh giả lập tọa độ (vị trí) từ thiết bị mô phỏng tín hiệu GPS/GNSS;
+
+- So sánh vị trí xác định bởi từng mẫu TBGSHT, TBGNHANLX với vị trí tạo ra từ thiết bị mô phỏng tín hiệu GPS/GNSS, đảm bảo sai lệch vị trí nhỏ hơn hoặc bằng 10 m.
+
+3.2.1.3. Độ chính xác của đồng hồ thời gian thực
+
+Độ chính xác của đồng hồ thời gian thực của TBGSHT, TBGNHANLX được kiểm tra như sau:
+
+a) Trường hợp đồng bộ thời gian GPS/GNSS:
+
+- Quan sát trên phần mềm quản lý, đánh giá trực tiếp bằng phần mềm phân tích dữ liệu;
+
+- Khi TBGSHT, TBGNHANLX đang thu được tín hiệu GPS/GNSS, ngắt kết nối ăng ten GPS/GNSS trên TBGSHT, TBGNHANLX, sử dụng công cụ do đơn vị sản xuất, lắp ráp, nhập khẩu TBGSHT, TBGNHANLX cung cấp, cài đặt thời gian khác với thời điểm ngắt kết nối cho đồng hồ thời gian của TBGSHT, TBGNHANLX. Đảm bảo đồng hồ thời gian này vẫn hoạt động bình thường;
+
+- Nối lại ăng ten GPS/GNSS, đợi TBGSHT, TBGNHANLX thu được tín hiệu GPS/GNSS. Đảm bảo thời gian thực trên TBGSHT, TBGNHANLX phải đồng bộ theo thời gian GPS/GNSS và được hiệu chỉnh lại theo giờ Việt Nam;
+
+- Tiến hành đánh giá độ chính xác thời gian thực theo các bước như sau:
+
++ Đặt TBGSHT, TBGNHANLX trong môi trường phòng thử nghiệm, đảm bảo cho TBGSHT, TBGNHANLX thu được tín hiệu GPS/GNSS;
+
++ Khi TBGSHT, TBGNHANLX hoạt động, xác định độ chính xác thời gian bằng cách so sánh thời gian hiển thị của TBGSHT, TBGNHANLX qua phần mềm phân tích dữ liệu hoặc công cụ cài đặt thời gian do đơn vị sản xuất, lắp ráp, nhập khẩu TBGSHT, TBGNHANLX cung cấp (hoặc thông qua dữ liệu thời gian lấy từ bản tin GPRMC (chuẩn NMEA 0183) ở chế độ “fixed/ valid”) với thời gian chuẩn Việt Nam hoặc quốc tế;
+
+Sai lệch thời gian khi TBGSHT, TBGNHANLX được đồng bộ thời gian GPS/GNSS phải nhỏ hơn ± 01 giây tại mọi thời điểm kiểm tra.
+
+b) Trường hợp ngắt đồng bộ thời gian GPS/GNSS:
+
+Ngắt kết nối ăng ten GPS/GNSS, đảm bảo rằng TBGSHT, TBGNHANLX phải chuyển sang hoạt động bằng đồng hồ thời gian của TBGSHT, TBGNHANLX. Việc đánh giá độ chính xác về thời gian tiến hành như sau:
+
+- Trường hợp TBGSHT, TBGNHANLX sử dụng bộ dao động tần số gốc 32,768 kHz làm clock cho đồng hồ thời gian thực: đặt TBGSHT, TBGNHANLX lên thiết bị chuẩn kiểm tra độ chính xác đồng hồ thời gian thực (khuyến khích sử dụng thiết bị Analyzer Q1 hoặc tương đương); thiết bị chuẩn đặt ở chế độ đo tín hiệu Quartz; ghi lại giá trị sai lệch giữa TBGSHT, TBGNHANLX với chuẩn (sai lệch tính bằng giây/ngày);
+
+- Trường hợp TBGSHT, TBGNHANLX không sử dụng bộ dao động tần số gốc 32,768 kHz thì việc xác định sai số sẽ thực hiện như sau:
+
++ Đặt TBGSHT, TBGNHANLX trong môi trường phòng thử nghiệm;
+
++ Ấn định một thời điểm tiến hành đánh giá. Cho TBGSHT, TBGNHANLX hoạt động liên tục ở chế độ ngắt thu GPS/GNSS trong 01 ngày. So sánh thời gian hiển thị của TBGSHT, TBGNHANLX với thời gian chuẩn Việt Nam hoặc quốc tế (có thể so sánh với thời gian của một thiết bị sử dụng thời gian đồng bộ từ GPS/GNSS đã được kiểm tra tại mục 3.2.1.3).
+
+Ví dụ: thời gian xác định được lựa chọn có thể từ 8 giờ 30 phút 00 giây đến 8 giờ 30 phút 00 giây của ngày hôm sau. Sai số thời gian TBGSHT, TBGNHANLX khi ngắt đồng bộ thời gian GPS/GNSS phải nhỏ hơn 01 giây/ngày.
+
+3.2.2. Phần mềm
+
+Kiểm tra các yêu cầu về phần mềm quy định trong mục 2.3 bằng cách xem xét.
+
+3.2.3. Chức năng hoạt động
+
+3.2.3.1. Chức năng thông báo trạng thái hoạt động
+
+a) Đấu nối TBGSHT, TBGNHANLX theo hướng dẫn sử dụng, cấp nguồn để TBGSHT, TBGNHANLX làm việc. TBGSHT, TBGNHANLX phải tự động xác nhận và thông báo qua đèn hoặc màn hình hiển thị các trạng thái hoạt động cơ bản sau đây:
+
+- Tình trạng kết nối hoặc không kết nối được với máy chủ;
+
+- Tình trạng kết nối với camera (đối với TBGNHANLX);
+
+- Trạng thái đăng nhập, đăng xuất hệ thống khi thay đổi lái xe;
+
+- Tình trạng báo sóng GPS/GNSS;
+
+- Trạng thái bộ nhớ hoạt động bình thường hoặc bị lỗi.
+
+b) Đưa tín hiệu chuẩn theo đặc trưng kỹ thuật vào đầu vào TBGSHT, TBGNHANLX để kiểm tra khả năng đo, ghi nhận của thiết bị. Những thông tin cơ bản như: tốc độ tức thời, thời gian làm việc của lái xe phải được đo, ghi nhận lại;
+
+c) Tiến hành đăng nhập, đăng xuất hệ thống khi xe đang chạy, đảm bảo TBGSHT, TBGNHANLX phải phát ra tín hiệu cảnh báo lỗi đăng nhập, đăng xuất hệ thống (bằng đèn, màn hình hiển thị hoặc âm thanh).
+
+3.2.3.2. Chức năng ghi nhận thay đổi lái xe
+
+Thực hiện việc đăng nhập và/hoặc đăng xuất hệ thống của lái xe. TBGSHT, TBGNHANLX phải ghi lại được thời điểm, tọa độ đăng nhập, đăng xuất hệ thống của lái xe đồng thời phải có tín hiệu nhận biết sự thay đổi lái xe và phân biệt được trạng thái đăng nhập, đăng xuất hệ thống.
+
+3.2.3.3. Chức năng cảnh báo đối với lái xe
+
+a) Xác định độ chính xác đo tốc độ:
+
+- Xác định độ chính xác đo tốc độ của TBGSHT, TBGNHANLX theo xung chuẩn:
+
++ Xác định tần số vào tương ứng với tốc độ đo được trên TBGSHT và TBGNHANLX (theo đặc trưng kỹ thuật của TBGSHT, TBGNHANLX cho từng loại xe tương ứng);
+
++ Đưa xung với giá trị tần số tương ứng với tốc độ 150 km/h từ máy phát tần số vào đầu vào đo tốc độ của TBGSHT, TBGNHANLX, đảm bảo rằng TBGSHT, TBGNHANLX phải đo, ghi, lưu dữ liệu tốc độ vào TBGSHT, TBGNHANLX và truyền về máy chủ. Sai lệch tốc độ không quá ± 3 km/h;
+
++ Độ chia thang đo tốc độ (độ phân giải) phải nhỏ hơn hoặc bằng 1 km/h;
+
++ Đưa xung từ máy phát tần số vào đầu vào đo tốc độ của TBGSHT, TBGNHANLX với giá trị tần số tương ứng với tốc độ 60 km/h và duy trì trong thời gian ít nhất là 20 giây. Tốc độ đo được trên TBGSHT, TBGNHANLX phải đảm bảo được ghi lại liên tục từng giây trong suốt quá trình thử nghiệm và sai lệch tốc độ không quá ± 3 km/h.
+
+- Xác định độ chính xác đo tốc độ của TBGSHT, TBGNHANLX theo thực nghiệm:
+
++ Lắp các mẫu TBGSHT, TBGNHANLX thử nghiệm lên xe và đảm bảo TBGSHT, TBGNHANLX sẵn sàng hoạt động;
+
++ Lắp thiết bị đo tốc độ, quãng đường chuẩn (đã được hiệu chuẩn đạt yêu cầu về độ chính xác) lên xe và cài đặt để thiết bị chuẩn này đo chính xác tốc độ xe;
+
++ Cho xe chạy trên đường với tốc độ > 100 km/h (trên đường cho phép chạy với tốc độ này, đồng thời đảm bảo quy tắc an toàn giao thông theo quy định), các mẫu TBGSHT, TBGNHANLX phải đo, ghi, lưu được dữ liệu tốc độ và truyền về máy chủ. Sai lệch tốc độ không quá ± 3 km/h so với tốc độ thực của xe (tốc độ xe theo thiết bị đo tốc độ, quãng đường chuẩn). Độ chia thang đo tốc độ (độ phân giải) của TBGSHT, TBGNHANLX phải nhỏ hơn hoặc bằng 1 km/h;
+
++ Cho xe chạy trên đường với tốc độ ổn định 60 km/h và duy trì trong thời gian ít nhất là 20 giây.
+TBGSHT, TBGNHANLX phải đảm bảo ghi lại được tốc độ liên tục từng giây trong suốt quá trình thử nghiệm và sai lệch không quá ± 3 km/h so với tốc độ thực của xe (tốc độ xe theo thiết bị đo tốc độ, quãng đường chuẩn).
+
+- Xác định độ chính xác đo tốc độ của TBGSHT, TBGNHANLX theo mô phỏng tín hiệu GPS/GNSS:
+
++ Thiết lập các mẫu TBGSHT, TBGNHANLX tại phòng thí nghiệm và đảm bảo nhận được tín hiệu vệ tinh mô phỏng từ thiết bị mô phỏng tín hiệu GPS/GNSS. Thiết lập tốc độ mô phỏng chuẩn lớn hơn hoặc bằng 100 km/h, các mẫu TBGSHT, TBGNHANLX phải đo, ghi, lưu được dữ liệu tốc độ và truyền về máy
+
+chủ. Tốc độ đo được trên TBGSHT, TBGNHANLX phải đảm bảo được ghi lại liên tục từng giây trong suốt quá trình thử nghiệm và sai lệch không quá ± 3 km/h. Độ chia thang đo tốc độ (độ phân giải) của TBGSHT, TBGNHANLX phải nhỏ hơn hoặc bằng 1 km/h;
+
++ Thiết lập tín hiệu mô phỏng cho xe chạy với tốc độ ổn định 60 km/h và duy trì trong thời gian ít nhất là 20 giây. TBGSHT, TBGNHANLX phải đảm bảo ghi lại được tốc độ liên tục từng giây trong suốt quá trình thử nghiệm và sai lệch không quá ± 3 km/h so với tốc độ mô phỏng.
+
+b) Thử nghiệm chức năng cảnh báo quá tốc độ giới hạn cho phép:
+
+- Thử nghiệm chức năng cảnh báo quá tốc độ giới hạn theo xung chuẩn:
+
++ Đặt tốc độ giới hạn cho TBGSHT, TBGNHANLX; đưa xung với giá trị tần số tương ứng tốc độ giới hạn (ví dụ 80 km/h, 100 km/h) từ máy phát tần số vào đầu vào đo tốc độ của TBGSHT, TBGNHANLX.
+TBGSHT, TBGNHANLX phải phát hiện được tốc độ vượt quá giới hạn và đưa ra cảnh báo bằng âm thanh với âm lượng không nhỏ hơn 65 dB (A), tần suất từ 60 lần/phút đến 120 lần/phút (đo bằng thiết bị đo âm lượng ở khoảng cách 10 cm);
+
++ Sau mỗi lần có cảnh báo TBGSHT, TBGNHANLX phải ghi, lưu lại và truyền về máy chủ: tốc độ, tọa độ, thời gian quá tốc độ giới hạn. Sử dụng phần mềm phân tích dữ liệu do cơ quan quản lý nhà nước có thẩm quyền cung cấp và phần mềm quản lý để kiểm tra những thông tin này.
+
+- Thử nghiệm chức năng cảnh báo quá tốc độ theo thực nghiệm:
+
+Lắp các mẫu TBGSHT, TBGNHANLX thử nghiệm lên xe, đảm bảo tất cả các thiết bị sẵn sàng hoạt động. Tăng tốc độ xe, khi xe đạt đến tốc độ giới hạn đặt trước (ví dụ 80 km/h, 100 km/h), tất cả các mẫu TBGSHT, TBGNHANLX phải phát tín hiệu cảnh báo bằng âm thanh đủ lớn để lái xe nghe được, với tần suất từ 60 lần/phút đến 120 lần/phút. Sau mỗi lần có cảnh báo TBGSHT, TBGNHANLX phải ghi, lưu lại và truyền về máy chủ: tốc độ, tọa độ, thời gian quá tốc độ giới hạn. Sử dụng phần mềm phân tích dữ liệu do cơ quan quản lý nhà nước có thẩm quyền cung cấp và phần mềm quản lý để kiểm tra những thông tin này.
+
+- Thử nghiệm chức năng cảnh báo quá tốc độ theo mô phỏng tín hiệu GPS/GNSS:
+
++ Đặt tốc độ giới hạn cho TBGSHT, TBGNHANLX, cài đặt giá trị mô phỏng của thiết bị mô phỏng tín hiệu GPS/GNSS tương ứng với tốc độ giới hạn. TBGSHT, TBGNHANLX phải phát hiện được tốc độ vượt quá giới hạn và đưa ra cảnh báo bằng âm thanh với âm lượng không nhỏ hơn 65 dB (A), tần suất từ 60 lần/phút đến 120 lần/phút (đo bằng thiết bị đo âm lượng ở khoảng cách 10 cm);
+
++ Sau mỗi lần có cảnh báo TBGSHT, TBGNHANLX phải ghi, lưu lại và truyền về máy chủ: tốc độ, tọa độ, thời gian quá tốc độ giới hạn. Sử dụng phần mềm phân tích dữ liệu do cơ quan quản lý nhà nước có thẩm quyền cung cấp và phần mềm quản lý để kiểm tra những thông tin này.
+
+c) Xác định cảnh báo quá thời gian lái xe liên tục:
+
+- Xác định cảnh báo quá thời gian lái xe liên tục theo mô phỏng:
+
++ Thực hiện thao tác đăng nhập hệ thống; đưa xung với giá trị tần số tương ứng tốc độ cho phép từ máy phát tần số vào đầu vào đo tốc độ của TBGSHT, TBGNHANLX, đảm bảo rằng TBGSHT và TBGNHANLX ở chế độ xe đang chạy. Tối thiểu 05 phút trước thời điểm 04 giờ lái xe liên tục, TBGSHT, TBGNHANLX phải phát ra tín hiệu cảnh báo bằng âm thanh với âm lượng không nhỏ hơn 65 dB (A) với tần suất từ 60 lần/phút đến 120 lần/phút (đo bằng thiết bị đo âm lượng ở khoảng cách 10 cm); cho xe dừng, TBGSHT, TBGNHANLX phải dừng cảnh báo; tiếp tục mô phỏng cho xe chạy, TBGSHT, TBGNHANLX phải phát ra tín hiệu cảnh báo đồng thời phải ghi nhận một lần lái xe liên tục quá 04 giờ và truyền về máy chủ theo quy định. Sử dụng phần mềm phân tích dữ liệu và phần mềm quản lý để kiểm tra thông tin này.
+
++ Lặp lại thao tác trên, khi phát hiện cảnh báo thời gian lái xe liên tục; cho xe dừng, đăng xuất; tiếp tục đăng nhập bằng tài khoản lái xe mới, sau đó tiếp tục mô phỏng cho xe chạy, TBGSHT, TBGNHANLX phải xác lập lại thời gian lái xe liên tục mới cho lái xe đó.
+
+- Xác định cảnh báo quá thời gian lái xe liên tục theo thực nghiệm:
+
++ Lắp các mẫu TBGSHT, TBGNHANLX thử nghiệm lên xe, đảm bảo tất cả các thiết bị sẵn sàng hoạt động; đăng nhập hệ thống; cho xe di chuyển. Tối thiểu 05 phút trước thời điểm 04 giờ lái xe liên tục, TBGSHT, TBGNHANLX phải phát ra tín hiệu cảnh báo bằng âm thanh để lái xe nghe được; cho xe dừng, TBGSHT, TBGNHANLX phải dừng cảnh báo; tiếp tục cho xe chạy. TBGSHT, TBGNHANLX phải phát ra tín hiệu cảnh báo, đồng thời phải ghi nhận một lần lái xe liên tục quá 04 giờ và truyền về máy chủ theo quy định. Sử dụng phần mềm phân tích dữ liệu và phần mềm quản lý để kiểm tra thông tin này;
+
++ Lặp lại thao tác trên, khi phát hiện cảnh báo thời gian lái xe liên tục; cho xe dừng, đăng xuất; tiếp tục đăng nhập bằng tài khoản lái xe mới, sau đó tiếp tục mô phỏng cho xe chạy, TBGSHT, TBGNHANLX phải xác lập lại thời gian lái xe liên tục mới cho lái xe đó.
+
+- Thử nghiệm chức năng cảnh báo quá thời gian lái xe liên tục theo mô phỏng tín hiệu GPS/GNSS:
+
++ Thực hiện thao tác đăng nhập hệ thống; phát giá trị mô phỏng tín hiệu GPS/GNSS tương ứng với tốc độ cho phép đảm bảo rằng TBGSHT, TBGNHANLX ở chế độ xe đang chạy. Tối thiểu 05 phút trước thời điểm 04 giờ lái xe liên tục, TBGSHT, TBGNHANLX phải phát ra tín hiệu cảnh báo bằng âm thanh với âm lượng không nhỏ hơn 65 dB (A) với tần suất từ 60 lần/phút đến 120 lần/phút (đo bằng phương tiện đo độ ồn ở khoảng cách 10 cm); cho xe dừng, TBGSHT, TBGNHANLX phải dừng cảnh báo; tiếp tục mô phỏng cho xe chạy, TBGSHT, TBGNHANLX phải phát ra tín hiệu cảnh báo đồng thời phải ghi nhận một lần lái xe liên tục quá 04 giờ và truyền về máy chủ theo quy định. Sử dụng phần mềm phân tích dữ liệu và phần mềm quản lý để kiểm tra thông tin này;
+
++ Lặp lại thao tác trên, khi phát hiện cảnh báo thời gian lái xe liên tục; cho xe dừng, đăng xuất; tiếp tục đăng nhập bằng tài khoản lái xe mới, sau đó tiếp tục mô phỏng cho xe chạy, TBGSHT, TBGNHANLX phải xác lập lại thời gian lái xe liên tục mới cho lái xe đó.
+
+- Đánh giá sai số thời gian:
+
+So sánh thời gian lái xe liên tục được ghi nhận trên từng mẫu TBGSHT và TBGNHANLX (tính theo thời điểm đăng nhập hệ thống thành công, đăng xuất hệ thống thành công của lái xe cho từng mẫu và kết thúc thử nghiệm tại cùng một thời điểm), đảm bảo sai lệch giữa các mẫu thử nghiệm không quá 01 phút (trong 01 ngày thử nghiệm).
+
+3.2.3.4. Chức năng ghi và lưu trữ dữ liệu trên TBGSHT, TBGNHANLX
+
+Đơn vị sản xuất, lắp ráp, nhập khẩu TBGSHT, TBGNHANLX phải cam kết bằng văn bản và có trách nhiệm chứng minh dung lượng bộ nhớ của TBGSHT, TBGNHANLX; đảm bảo lưu trữ dữ liệu theo như công bố.
+
+3.2.3.5. Chức năng truyền dữ liệu về máy chủ và phần mềm quản lý
+
+Kết nối máy tính với mạng Internet, sử dụng các trình duyệt như Google, Chrome, Firefox,... mở phần mềm quản lý, khai thác TBGSHT, TBGNHANLX. Tiến hành kiểm tra chức năng truyền phát thông tin qua mạng Internet đối với TBGSHT, TBGNHANLX như sau:
+
+a) Phần giám sát trực tuyến:
+
+Phần mềm phải hiển thị được biển số xe, họ tên lái xe và số GPLX đang được lưu trữ trong TBGSHT, TBGNHANLX. Thực hiện các bước thử nghiệm như sau:
+
+- Tiến hành đăng nhập, đăng xuất hệ thống trên TBGSHT, TBGNHANLX, phần mềm phải hiển thị đúng họ tên lái xe, số GPLX sau khi thay đổi;
+
+- Phần mềm phải hiển thị được thông tin về thời gian cập nhật dữ liệu tọa độ GPS/GNSS, tốc độ của xe và quãng đường (số km) của xe đã chạy trong ngày;
+
+- Phần mềm phải hiển thị được số lần, thời điểm, thời gian và tọa độ tương ứng dừng đỗ xe;
+
+- Phần mềm phải vẽ lại được đoạn đường xe đã đi qua (hành trình xe);
+
+- Phần mềm phải hiển thị được số lần xe chạy quá tốc độ giới hạn, ghi nhận thời điểm, thời gian, tọa độ khu vực xe chạy quá tốc độ giới hạn;
+
+- Phần mềm phải hiển thị được thông tin về thời gian lái xe liên tục của từng lái xe;
+
+- Đối với TBGNHANLX cần phải thử nghiệm thêm:
+
++ Phần mềm phải hiển thị được hình ảnh gửi về từ TBGNHANLX;
+
++ Phần mềm phải cho phép tải được ngẫu nhiên (trong 72 giờ gần nhất và phải trong thời gian xe hoạt động/mô phỏng xe hoạt động) một đoạn dữ liệu video tối thiểu 01 phút về máy chủ, sau đó so sánh trùng khớp với việc truy xuất trực tiếp tại TBGNHANLX cùng khoảng thời gian truy xuất.
+
+b) Phần quản lý:
+
+- Truy cập, tìm kiếm được các thông tin quy định;
+
+- Xuất ra được bảng biểu các báo cáo theo quy định tại Phụ lục B của Quy chuẩn này;
+
+- Kiểm tra việc lưu trữ dữ liệu trên máy chủ bằng chức năng tìm kiếm, đảm bảo phần mềm quản lý phải lưu trữ dữ liệu hành trình từng xe (từng mẫu TBGSHT, TBGNHANLX thử nghiệm).
+
+c) Trường hợp mất kết nối với máy chủ:
+
+Ngắt kết nối TBGSHT, TBGNHANLX với máy chủ (mô phỏng gián đoạn đường truyền dữ liệu về máy chủ), đèn hoặc màn hình báo trạng thái kết nối với máy chủ thông báo đúng trạng thái hoạt động, đảm bảo TBGSHT, TBGNHANLX vẫn ghi, lưu trữ các thông tin hành trình, hình ảnh vào bộ nhớ trong ít nhất 30 phút. Thực hiện kết nối đường truyền dữ liệu với máy chủ trở lại (quan sát đèn hoặc màn hình báo trạng thái), dữ liệu ghi nhận được trong khoảng thời gian gián đoạn đường truyền này phải được truyền đầy đủ về máy chủ (kiểm tra bằng phần mềm quản lý).
+
+3.2.3.6. Chức năng cài đặt tham số
+
+Đơn vị sản xuất, lắp ráp, nhập khẩu TBGSHT và TBGNHANLX cài đặt các tham số sau đây theo yêu cầu của tổ chức thử nghiệm:
+
+- Biển số xe;
+
+- Hệ số xung/km (đối với thiết bị đo tốc độ theo phương pháp xung);
+
+- Thời gian được tính là một lần dừng, đỗ xe (nếu có);
+
+- Phương pháp đo tốc độ;
+
+- Tốc độ giới hạn;
+
+- Ngày lắp, sửa đổi TBGSHT, TBGNHANLX.
+
+TBGSHT, TBGNHANLX phải đảm bảo thực hiện được đúng chức năng này.
+
+3.2.3.7. Chức năng trích xuất dữ liệu tại TBGSHT, TBGNHANLX
+
+a) Kết nối máy tính/smartphone/máy tính bảng với TBGSHT, TBGNHANLX; thực hiện thao tác để lấy dữ liệu một ngày bất kỳ (trong thời gian thực hiện thử nghiệm mẫu chứng nhận hợp quy). Nội dung dữ liệu cần lấy gồm:
+
+- Mẫu biểu báo cáo tóm tắt hành trình trong ngày với các thông số:
+
++ Biển số xe;
+
++ Họ tên lái xe và số GPLX;
+
++ Thời gian, tọa độ khởi hành đầu ngày;
+
++ Thời gian, tọa độ kết thúc cuối ngày;
+
++ Số lần quá tốc độ giới hạn trong ngày;
+
++ Số lần và tọa độ dừng, đỗ xe trong ngày;
+
++ Thời gian lái xe liên tục của từng lái xe trong ngày;
+
++ Chi tiết hành trình xe, đảm bảo được ghi nhận không quá 30 giây trên một lần khi xe hoạt động và không quá 15 phút trên một lần khi xe dừng;
+
++ Tốc độ từng giây trong hành trình.
+
+- Dữ liệu hình ảnh theo quy định tại mục 2.1.4.2.
+
+b) Tất cả dữ liệu được tải lên liên quan đến cấu hình thiết bị, thông tin mặc định ban đầu khi kiểm tra, đối chiếu phải đảm bảo chính xác như cài đặt;
+
+c) Dữ liệu hành trình phải đảm bảo chính xác như thực nghiệm hoặc mô phỏng;
+
+d) Thông tin về lái xe: họ tên, số GPLX phải đúng như dữ liệu ghi trên thẻ dùng để đăng nhập hệ thống và phù hợp với các lần đăng nhập, đăng xuất hệ thống;
+
+đ) Dữ liệu truy xuất thông qua phần mềm phân tích dữ liệu phải xuất ra được tập tin log tọa độ GPS theo định dạng KML để vẽ (xem) lại hành trình. Tập tin hành trình xe phải thể hiện được đoạn đường xe đã đi qua và các vị trí dừng, đỗ, vị trí xe quá tốc độ giới hạn, vị trí thời gian lái xe liên tục quá 04 giờ.
+
+3.2.3.8. Xác định thời gian, thời điểm, vị trí dừng, đỗ xe
+
+Việc xác định thời gian, thời điểm, vị trí dừng, đỗ xe tiến hành theo một trong hai cách sau:
+
+a) Xác định độ chính xác thời gian dừng, đỗ xe theo mô phỏng:
+
+- Đưa tín hiệu chuẩn giả định trạng thái xe chạy vào đầu vào TBGSHT, TBGNHANLX;
+
+- Đảm bảo rằng chức năng xác nhận vị trí, tọa độ xe của TBGSHT, TBGNHANLX đang hoạt động;
+
+- Ngắt tín hiệu chuẩn giả định xe chạy;
+
+- Lặp lại thao tác này 03 lần.
+
+Khoảng thời gian mỗi lần dừng, đỗ được xác định từ khi ngắt tín hiệu chuẩn giả định đến khi cấp lại tín hiệu giả định chuẩn để tiếp tục giả lập xe chạy.
+
+TBGSHT, TBGNHANLX phải ghi nhận lại được và truyền về máy chủ thời điểm, khoảng thời gian, vị trí của 03 lần dừng, đỗ xe.
+
+Phần mềm phải hiển thị được trạng thái hoạt động tương ứng và xác nhận được số lần dừng, đỗ xe (03 lần) và ghi nhận được thời điểm, khoảng thời gian, tọa độ dừng xe. Sử dụng phần mềm phân tích dữ liệu và phần mềm quản lý để kiểm tra những thông tin này.
+
+b) Xác định độ chính xác thời gian dừng, đỗ xe theo thực nghiệm:
+
+Lắp các TBGSHT, TBGNHANLX thử nghiệm lên xe, đảm bảo tất cả các thiết bị sẵn sàng hoạt động;
+cho xe di chuyển tối thiểu 01 km, sau đó dừng lại ít nhất 05 phút. Phần mềm phải hiển thị trạng thái xe dừng. Sau đó cho xe di chuyển tiếp 01 km rồi dừng lại. Các mẫu TBGSHT, TBGNHANLX phải xác nhận được 02 lần dừng xe và ghi nhận được thời điểm, khoảng thời gian, tọa độ dừng xe, đồng thời phải truyền về máy chủ những thông tin này. Sử dụng phần mềm phân tích dữ liệu và phần mềm quản lý để kiểm tra những thông tin này.
+
+3.2.4. Nguồn điện sử dụng (cung cấp cho TBGSHT, TBGNHANLX)
+
+- Cấp nguồn 12 V, 24 V, 36 V một chiều tương ứng cho TBGSHT, TBGNHANLX, đảm bảo TBGSHT, TBGNHANLX hoạt động bình thường khi được cấp nguồn;
+
+- Thay đổi nguồn điện áp từ - 32 % đến 20 % giá trị danh định cấp cho TBGSHT, TBGNHANLX, sau đó đưa về giá trị điện áp danh định và cấp cho TBGSHT, TBGNHANLX, đảm bảo rằng TBGSHT, TBGNHANLX vẫn hoạt động bình thường;
+
+- Kiểm tra khả năng chịu điện áp ngược cực của TBGSHT, TBGNHANLX theo Bảng 2 trong thời gian 01 phút, cơ cấu tự động ngắt nguồn điện phải tự ngắt nguồn điện và sau đó TBGSHT, TBGNHANLX phải làm việc bình thường (các chức năng tự động kiểm tra, ghi, lưu trữ và truyền phát dữ liệu đều phải hoạt động bình thường sau khi thử).
+
+3.2.5. Khả năng chịu các điều kiện làm việc bình thường
+
+3.2.5.1. Thử nghiệm độ bền cơ
+
+TBGSHT, TBGNHANLX hoàn chỉnh phải có đủ độ bền cơ, phải có kết cấu sao cho chịu được tác động có thể xảy ra trong quá trình sử dụng bình thường. Kiểm tra sự phù hợp bằng các thử nghiệm dưới đây:
+
+a) Thử nghiệm rơi (tham khảo điểm 12.1.1 của TCVN 6385:2009 (IEC 60065:2005)):
+
+Đặt TBGSHT và TBGNHANLX trên một giá gỗ nằm ngang và cho rơi 50 lần từ độ cao 5 cm xuống mặt bàn bằng gỗ.
+
+b) Thử nghiệm rung (tham khảo điểm 12.1.2 của TCVN 6385:2009 (IEC 60065:2005)):
+
+**QCVN 06:2024/BCA**
+
+- Đặt TBGSHT, TBGNHANLX lên bàn rung và thử nghiệm rung theo phương thẳng đứng;
+
+- Thời gian rung: 30 phút;
+
+- Biên độ rung: 0,42 mm - 0,8 mm;
+
+- Tần số rung: 10 Hz - 55 Hz;
+
+- Tốc độ quét: khoảng 1 octa trong 01 phút.
+
+c) Thử nghiệm va đập (tham khảo 12.1.3 của TCVN 6385:2009 (IEC 60065:2005)):
+
+TBGSHT, TBGNHANLX phải chịu 3 va đập trên mỗi điểm xung yếu của TBGSHT, TBGNHANLX với năng lượng va đập bằng 0,5 J ± 0,05 J sử dụng búa lò xo như mô tả trong Hình E.1 của TCVN 76992-75:2011 (IEC 60068-2-75:1997).
+
+Sau các thử nghiệm này, TBGSHT, TBGNHANLX không bị nứt vỡ, hư hỏng và phải hoạt động bình thường theo yêu cầu của Quy chuẩn này. Các giắc nối và/hoặc đấu nối của TBGSHT, TBGNHANLX không được lỏng ra đến mức ảnh hưởng đến chức năng hoạt động của TBGSHT, TBGNHANLX.
+
+3.2.5.2. Thử nghiệm khả năng chịu nhiệt (tham khảo điểm 2.4.6.2.1 của QCVN 50:2020/BTTTT)
+
+- Đặt TBGSHT, TBGNHANLX trong tủ thử có nhiệt độ và độ ẩm môi trường phòng thử nghiệm, sau đó nâng nhiệt độ lên và duy trì tại 70°C ± 3 °C trong khoảng thời gian tối thiểu là 10 giờ. Sau khoảng thời gian này, bật thiết bị khống chế nhiệt và giảm nhiệt độ trong tủ thử xuống còn đến 55°C ± 3°C. Việc giảm nhiệt độ tủ thử được hoàn thành trong thời gian không nhỏ hơn 30 phút. TBGSHT, TBGNHANLX được cấp nguồn ở chế độ làm việc trong thời gian 02 giờ ở 55°C ± 3°C;
+
+- Khi kết thúc thử khả năng chịu nhiệt, đặt TBGSHT, TBGNHANLX trong tủ thử, đưa nhiệt độ tủ thử về nhiệt độ phòng trong khoảng thời gian tối thiểu là 01 giờ. Sau đó để TBGSHT, TBGNHANLX ở nhiệt độ và độ ẩm môi trường phòng thử nghiệm trong khoảng thời gian tối thiểu là 3 giờ trước khi tiến hành các thử nghiệm tiếp theo.
+
+3.2.5.3. Thử nghiệm khả năng chịu ẩm (tham khảo điểm 2.4.6.3.1 của QCVN 50:2020/BTTTT)
+
+- Đặt TBGSHT, TBGNHANLX trong tủ thử có nhiệt độ và độ ẩm môi trường phòng thử nghiệm trong thời gian 3 giờ ± 0,5 giờ, nâng nhiệt độ trong tủ lên đến 40 °C ± 3 °C và độ ẩm tương đối lên đến 93 % ± 2 % sao cho tránh ngưng tụ hơi nước;
+
+- Duy trì điều kiện trên trong khoảng thời gian 10 giờ đến 16 giờ. Sau khoảng thời gian này có thể bật mọi thiết bị điều khiển nhiệt độ kèm theo TBGSHT, TBGNHANLX (nếu có);
+
+- Duy trì nhiệt độ và độ ẩm tương đối của tủ thử ở 40 °C ± 3 °C và 93 % ± 2 % trong thời gian 2,5 giờ và TBGSHT, TBGNHANLX được cấp nguồn ở chế độ làm việc;
+
+- Kết thúc việc thử nghiệm vẫn đặt TBGSHT, TBGNHANLX trong tủ thử, đưa nhiệt độ của tủ thử về nhiệt độ môi trường phòng thử nghiệm trong khoảng thời gian tối thiểu 1 giờ. Sau đó, để TBGSHT, TBGNHANLX tại nhiệt độ và độ ẩm môi trường phòng thử nghiệm trong khoảng thời gian tối thiểu 3 giờ hoặc cho đến khi hơi nước bay đi hết trước khi tiến hành các thử nghiệm tiếp theo.
+
+3.2.5.4. Thử nghiệm khả năng chịu lạnh (tham khảo điểm 2.4.6.4.1 của QCVN 50:2020/BTTTT)
+
+- Đặt TBGSHT, TBGNHANLX trong tủ thử có nhiệt độ và độ ẩm môi trường phòng thử nghiệm, sau đó giảm nhiệt độ buồng và duy trì tại - 30°C ± 3 °C trong khoảng thời gian tối thiểu 10 giờ;
+
+- Sau khoảng thời gian thử nghiệm này nâng nhiệt độ tủ lên - 20°C ± 3 °C trong thời gian 1,5 giờ.
+Trong 30 phút cuối tiến hành kiểm tra các chức năng hoạt động của TBGSHT, TBGNHANLX;
+
+- Sau khi kết thúc thử nghiệm vẫn đặt TBGSHT, TBGNHANLX trong tủ thử, đưa nhiệt độ của tủ thử về nhiệt độ môi trường phòng thử nghiệm trong thời gian tối thiểu 1 giờ. Sau đó để TBGSHT, TBGNHANLX tại nhiệt độ và độ ẩm môi trường phòng thử nghiệm trong thời gian tối thiểu 3 giờ, sau đó tiến hành các thử nghiệm tiếp theo;
+
+- Trong suốt quá trình thử nghiệm, TBGSHT, TBGNHANLX được cấp nguồn ở chế độ làm việc.
+
+Sau các thử nghiệm trong mục 3.2.5.2, 3.2.5.3 và 3.2.5.4, TBGSHT, TBGNHANLX phải hoạt động bình thường theo các yêu cầu của Quy chuẩn này.
+
+**4. QUY ĐỊNH VỀ QUẢN LÝ**
+
+**4.1. Quản lý, chứng nhận sản phẩm**
+
+4.1.1. TBGSHT và TBGNHANLX trước khi lưu thông trên thị trường phải thực hiện công bố hợp quy theo quy định tại Thông tư số 28/2012/TT-BKHCN, Thông tư số 02/2017/TT-BKHCN, Thông tư số 06/2020/TT-BKHCN và phải ghi nhãn hàng hóa theo quy định.
+
+4.1.1.1. Đối với sản phẩm TBGSHT và TBGNHANLX sản xuất, lắp ráp trong nước: thực hiện đánh giá sự phù hợp theo phương thức 4 quy định tại Phụ lục II của Thông tư số 28/2012/TT-BKHCN, Thông tư số 02/2017/TT-BKHCN.
+
+4.1.1.2. Đối với sản phẩm TBGSHT và TBGNHANLX nhập khẩu: thực hiện đánh giá sự phù hợp theo phương thức 7 quy định tại Phụ lục II của Thông tư số 28/2012/TT-BKHCN, Thông tư số 02/2017/TTBKHCN.
+
+4.1.2. Công bố hợp quy
+
+4.1.2.1. Sản phẩm TBGSHT và TBGNHANLX công bố hợp quy phải căn cứ vào kết quả chứng nhận hợp quy được thực hiện theo quy định tại Nghị định số 132/2008/NĐ-CP, Nghị định số 74/2018/NĐCP, Nghị định số 154/2018/NĐ-CP.
+
+4.1.2.2. Trình tự đăng ký công bố hợp quy được thực hiện theo quy định tại Thông tư số 28/2012/TTBKHCN, Thông tư số 02/2017/TT-BKHCN và Thông tư số 06/2020/TT-BKHCN.
+
+**4.2. Yêu cầu về sự phù hợp đối với sản phẩm công nghệ thông tin**
+
+TBGSHT, TBGNHANLX phải được chứng nhận hợp quy đối với thiết bị đầu cuối thông tin di động mặt đất GSM, W-CDMA, E-UTRA theo QCVN 117:2023/BTTTT Quy chuẩn kỹ thuật quốc gia về thiết bị đầu cuối thông tin di động mặt đất GSM, W-CDMA, E-UTRA - phần truy nhập vô tuyến và QCVN 86:2019/BTTTT Quy chuẩn kỹ thuật quốc gia về tương thích điện từ cho thiết bị đầu cuối và phụ trợ trong hệ thống thông tin di động trước khi được chứng nhận phù hợp Quy chuẩn này.
+
+**4.3. Yêu cầu về ghi nhãn hàng hóa**
+
+Việc ghi nhãn hàng hóa thực hiện theo quy định tại Nghị định số 43/2017/NĐ-CP, Thông tư số 18/2022/TT-BKHCN.
+
+**5. TỔ CHỨC THỰC HIỆN**
+
+**5.1.** Tổ chức, cá nhân liên quan đến sản xuất, lắp ráp, nhập khẩu, chứng nhận chất lượng, quản lý, sử dụng TBGSHT và TBGNHANLX tuân thủ các quy định tại Quy chuẩn này.
+
+**5.2.** Giấy chứng nhận hợp quy đã cấp cho kiểu loại/lô TBGSHT sản xuất, lắp ráp, nhập khẩu theo QCVN 31:2014/BGTVT vẫn còn giá trị đến hết thời hạn ghi trên Giấy chứng nhận.
+
+**5.3.** TBGSHT, TBGNHANLX đã lắp trên phương tiện phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật tương ứng thì được tiếp tục sử dụng; trường hợp thiết bị tương thích với yêu cầu kỹ thuật của Quy chuẩn này thì chủ phương tiện thực hiện cập nhật, bổ sung tính năng.
+
+**5.4.** Cục Khoa học, chiến lược và lịch sử Công an chịu trách nhiệm tổ chức phổ biến Quy chuẩn này cho tổ chức, cá nhân có liên quan.
+
+**5.5.** Cục Cảnh sát giao thông có trách nhiệm hướng dẫn, theo dõi việc áp dụng Quy chuẩn này./.
+
+**PHỤ LỤC A**
+
+**CẤU TRÚC KHUNG TRUYỀN DỮ LIỆU TỪ TBGSHT, TBGNHANLX VỀ MÁY TÍNH THÔNG QUA**
+
+**PHẦN MỀM PHÂN TÍCH DỮ LIỆU**
+
+**A.1. Trích xuất dữ liệu qua chuẩn RS232**
+
+A.1.1. Phương thức giao tiếp
+
+Máy tính có khả năng kết nối với TBGSHT, TBGNHANLX có sử dụng phương thức giao tiếp RS232 (DB9-Male, DTE), tốc độ truyền dữ liệu 115.200 bps, 08 bit, non parity, 01 stop để giao tiếp với máy tính. Nhà cung cấp cung cấp công cụ kết nối (bộ chuyển đổi, dây kết nối) cho đơn vị thử nghiệm phục vụ quá trình thử nghiệm và cung cấp cho lực lượng chức năng khi có yêu cầu.
+
+A.1.2. Cấu trúc truyền dữ liệu từ máy tính xuống TBGSHT, TBGNHANLX
+
+Khi muốn nhận dữ liệu từ TBGSHT, TBGNHANLX lên máy tính, phần mềm phân tích dữ liệu gửi lệnh qua cổng kết nối xuống TBGSHT, TBGNHANLX theo cú pháp sau:
+
+READxxddMMyy#
+
+Trong đó:
+
+- READ là mã lệnh đọc;
+
+- xx là mã loại dữ liệu quy định tại mục A.1.4 của Phụ lục này;
+
+- dd là ngày, MM là tháng, yy là hai số cuối của năm, # là ký tự kết thúc lệnh.
+
+**Chú ý:**
+
+Mỗi loại thông tin loại dữ liệu, ngày, tháng, năm gồm 2 ký tự.
+
+Ví dụ: Cần đọc thông tin về số lần và thời gian dừng đỗ xe ngày 10/09/2013, máy tính gửi lệnh:
+READ03100913#
+
+A.1.3. Cấu trúc khung truyền dữ liệu từ TBGSHT, TBGNHANLX lên máy tính
+
+Tất cả các bản tin truyền về máy tính theo khung dạng như sau:
+
+$GSHT, loại dữ liệu, độ dài dữ liệu, <nội dung dữ liệu>, checksum#
+
+Trong đó:
+
+- Các trường dữ liệu được ngăn cách với nhau bằng dấu “,”;
+
+- $GSHT: là khởi đầu bản tin;
+
+- Loại dữ liệu: quy định tại mục A.1.4 của Phụ lục này;
+
+- Độ dài dữ liệu: là độ dài của nội dung dữ liệu (đoạn dữ liệu nằm trong dấu <>).
+
+Chi tiết của từng loại dữ liệu được mô tả: checksum - mã kiểm tra tính từ đầu bản tin đến trước phần nội dung checksum.
+
+- Quy tắc tính checksum như sau:
+
++ Là phép lấy tổng số học của toàn bộ các ký tự (ký tự được chuyển sang kiểu byte) từ đầu bản tin đến trước phần checksum được lấy phần byte thấp nhất;
+
++ Checksum = SUM ($GSHT, loại dữ liệu, độ dài dữ liệu,<nội dung dữ liệu>,) & 255.
+
+Ví dụ: Đối với bản tin:
+
+$GSHT,2,xxx, <Nguyen Van A,AN234343,00:01:29,105.34344,21.34343, 04:02:13,
+
+105.3464433,21.32343 >, xxx#
+
+Thì checksum:
+
+xxx = SUM ($GSHT,2,080, <Nguyen Van A,AN234343,00:01:29,105.34344,
+21.34343,04:02:13,105.3464433,21.32343>,)&255 = 181
+
+xxx = SUM ($GSHT,2,80,< Nguyen Van A,AN234343,00:01:29, 105.34344,
+21.34343,04:02:13,105.3464433,21.32343>,) &255 = 133
+
+**Chú ý:** Bản tin kết thúc dữ liệu là bản tin có loại dữ liệu đang truyền và độ dài dữ liệu = 0.
+
+A.1.4. Mã dữ liệu của từng loại dữ liệu # Bảng A.1 - Mã loại dữ liệu
+
+|STT|Loại dữ liệu|Mã loại dữ liệu| |---|---|---| |1|Truyền toàn bộ số liệu|00| |2|Dữ liệu cơ bản|01| |3|Thời gian làm việc của lái xe|02| |4|Số lần và thời gian dừng, đỗ xe|03| |5|Hành trình xe chạy|04| |6|Tốc độ từng giây của xe|05|
+
+**A.2. Nội dung từng loại dữ liệu được trích xuất**
+
+A.2.1. Thông tin cơ bản của thiết bị: (loại dữ liệu 1)
+
+Nội dung: Gồm thông tin cơ bản của TBGSHT, TBGNHANLX, giá trị tương ứng theo Bảng A.2.
+# Bảng A.2 - Loại dữ liệu thông tin cơ bản của thiết bị
+
+|Loại thông tin|Giá trị|Trả về| |---|---|---| |1|Đơn vị cung cấp thiết bị|Tên đơn vị cung cấp TBGSHT, TBGNHANLX| |2|Kiểu loại TBGSHT, TBGNHANLX|Tên kiểu loại TBGSHT, TBGNHANLX| |3|Số imei/seri của TBGSHT,<br>TBGNHANLX|Tên số imei/seri của TBGSHT, TBGNHANLX| |4|Thông tin biển số xe|Tên biển số xe| |5|Phương pháp đo tốc độ|0: đo bằng xung<br> 1: đo bằng GPS<br> 2: phương pháp khác| |6|Cấu hình xung/km|Giá trị cấu hình xung/km| |7|Cấu hình tốc độ giới hạn|Giá trị tốc độ, đơn vị km/h|
+
+|8|Ngày lắp/sửa đổi thiết bị gần nhất|Thời gian: yyyy/MM/dd| |---|---|---| |9|Ngày cập nhật phần mềm thiết bị<br>gần nhất|Thời gian: yyyy/MM/dd| |10|Tình trạng GSM|0: không có sóng GSM<br>1: có sóng GSM<br>2: có sóng GSM, không kết nối được với<br>máy chủ<br>3: có sóng GSM, kết nối được với máy chủ<br>4: lỗi khác| |11|Tình trạng GPS/GNSS|0: không có sóng GPS/GNSS<br>1: có sóng GPS/GNSS<br>2: lỗi khác| |12|Tình trạng bộ nhớ|0: có lỗi<br>1: bình thường| |13|Dung lượng bộ nhớ|Tính bằng byte| |14|Thông tin lái xe hiện tại|Họ tên lái xe, số GPLX| |15|Thời gian lái xe liên tục|Thời gian lái xe liên tục của lái xe hiện tại<br>(phút)| |16|Thông tin về GPS|Kinh độ, vĩ độ| |17|Tốc độ|Tính bằng km/h| |18|Thời gian của thiết bị|Thời gian đồng hồ thời gian thực trong thiết<br>bị: yyyy/MM/dd hh:mm:ss| |19|Cấu hình thời gian được tính là<br>một lần dừng, đỗ|Giá trị cấu hình thời gian dừng, đỗ (nếu có)|
+
+Ví dụ: $GSHT, 1, xxx,<4,29N1234>,xxx#
+
+**Chú ý:** Các loại thông tin từ 1 đến 9 và 19 là thông tin lưu trong TBGSHT, TBGNHANLX, các loại thông tin từ 10 đến 18 được lấy trực tiếp từ dữ liệu của TBGSHT, TBGNHANLX ngay tại thời điểm TBGSHT, TBGNHANLX nhận lệnh, không phụ thuộc vào các tham số ngày tháng năm trong lệnh đọc.
+
+A.2.2. Thông tin thông tin từ 1 đến 9 và 19 là thông tin lưu trữ
+
+Nội dung: Họ tên lái xe, số GPLX, thời gian bắt đầu, tọa độ bắt đầu, thời gian kết thúc, tọa độ kết thúc (thời gian bắt đầu và thời gian kết thúc được gửi dạng hh:MM:ss, kiểu giờ 24 h).
+
+Thời gian bắt đầu và thời gian kết thúc là khoảng thời gian lái xe liên tục của lái xe.
+
+Ví dụ: $GSHT,2,xxx,<Nguyen Van A,AN234343,00:01:29,105.34344, 21.34343,
+
+04:02:13,105.3464433,21.32343>,xxx#
+
+Trong trường hợp lái xe qua ngày, TBGSHT, TBGNHANLX sinh ra 2 bản tin thông tin lái xe. Bản tin thứ nhất có thời gian kết thúc là 23:59:59 và bản tin thứ hai có thời gian bắt đầu là 00:00:00.
+
+A.2.3. Thông tin về số lần và thời gian gian dừng, đỗ xe: (loại dữ liệu 3)
+
+Nội dung: thời điểm, kinh độ, vĩ độ, thời gian dừng (phút).
+
+Ví dụ: $GSHT,3,xxx,<03:04:01,105.243434,21.43434,25>,xxx#
+
+A.2.4. Thông tin về hành trình chạy xe: (loại dữ liệu 4)
+
+Nội dung: Thời điểm, kinh độ, vĩ độ, tốc độ đo theo GPS, tốc độ đo theo xung chuẩn.
+
+Ví dụ: $GSHT,4,xxx,<14:05:00,105.23232,21.34343,70,72>,xxx#
+
+A.2.5. Thông tin về tốc độ từng giây của xe: (loại dữ liệu 5)
+
+Nội dung: Thời điểm, tốc độ từng giây trong 30 giây, trong đó, tốc độ mỗi giây được ngăn cách bởi dấu phẩy.
+
+Ví dụ: $GSHT,5,xxx,<14:01:00, tốc độ giây thứ 1, tốc độ giây thứ 2,... tốc độ giây thứ 30>,xxx#
+
+Từ dữ liệu tốc độ từng giây, phần mềm phân tích tính toán ra số lần quá tốc độ./.
+
+**PHỤ LỤC B**
+
+**BIỂU MẪU BÁO CÁO THỐNG KÊ DỮ LIỆU TBGSHT, TBGNHANLX TRÊN MÁY CHỦ**
+
+**B.1. Hành trình xe chạy**
+
+Từ... giờ... phút ngày... tháng... năm... đến... giờ... phút, ngày...tháng... năm…
+
+Đơn vị kinh doanh vận tải ………………..
+# Biển số xe………………………………
+
+|TT|Thời điểm<br>(giờ, phút, giây, ngày, tháng, năm)|Tọa độ|Địa điểm|Ghi chú| |---|---|---|---|---| |1||||| |2||||| |…|||||
+
+**B.2. Tốc độ vận hành của xe**
+
+B.2.1. T.2.1. cn hàn
+
+Từ…. giờ... phút ngày…. tháng…. năm….. đến…. giờ..... phút, ngày...... tháng... năm...
+
+Đơn vị kinh doanh vận tải……………… # Biển số xe……………………………….
+
+|TT|Thời điểm<br>(giờ, phút, giây, ngày, tháng, năm)|Các tốc độ (km/h)|Ghi chú| |---|---|---|---| |1|||| |2|||| |…||||
+
+**Chú ý:** Các tốc độ cách nhau bởi dấu “,”.
+
+B.2.2. Quá tốc độ cách nhau
+
+Từ...giờ...phút, ngày...tháng...năm... đến ...giờ... phút, ngày...tháng... năm…
+
+Đơn vị kinh doanh vận tải ……………… # Chọn “Tất cả” hoặc chọn “Từng biển số xe”
+
+|TT|Biển<br>số xe|Họ<br>tên<br>lái<br>xe|Số<br>GPLX|Loại<br>hình<br>hoạt<br>động|Thời<br>điểm<br>(giờ,<br>phút,<br>ngày,<br>tháng,<br>năm)|Tốc độ<br>trung<br>bình<br>khi quá<br>tốc độ<br>giới<br>hạn<br>(km/h)|Tốc độ<br>giới hạn<br>(km/h)|Tọa<br>độ<br>quá<br>tốc<br>độ<br>giới<br>hạn|Địa<br>điểm<br>quá tốc<br>độ giới<br>hạn|Ghi<br>chú| |---|---|---|---|---|---|---|---|---|---|---| |1||||||||||| |2||||||||||| |…|||||||||||
+
+**B.3. Thời gian lái xe liên tục**
+
+Từ ngày…… tháng…..... năm….... đến ngày……... tháng…… năm…….
+
+Đơn vị kinh doanh vận tải………………..
+# Chọn “Lái xe liên tục quá 04 giờ” hoặc chọn “Tất cả”
+
+**TT** **Biể** **Họ** **Số** **Loại** **Thời điểm bắt đầu** **Thời điểm kết thúc** **Thời** **Ghi**
+
+|Col1|n số<br>xe|tên<br>lái<br>xe|GPL<br>X|hình<br>hoạt<br>động|Thời<br>điểm<br>(giờ,<br>phút,<br>ngày,<br>tháng,<br>năm)|Tọa<br>độ|Địa<br>điểm|Thời<br>điểm<br>(giờ,<br>phút,<br>ngày,<br>tháng,<br>năm)|Tọa<br>độ|Địa<br>điể<br>m|gian<br>lái xe<br>(phút)|chú| |---|---|---|---|---|---|---|---|---|---|---|---|---| |1||||||||||||| |2||||||||||||| |…|||||||||||||
+
+**B.4. Dừng, đỗ**
+
+Từ ngày…….. tháng…….. năm....... đến ngày….... tháng…… năm….....
+
+Đơn vị kinh doanh vận tải……………… # Chọn “Tất cả” hoặc chọn “Từng biển số xe”
+
+|TT|Biển<br>số xe|Họ tên<br>lái xe|Số<br>GPLX|Loại<br>hình<br>hoạt<br>động|Thời<br>điểm<br>dừng, đỗ<br>(giờ,<br>phút,<br>ngày,<br>tháng,<br>năm)|Thời<br>gian<br>dừng,<br>đỗ<br>(phút)|Tọa độ<br>dừng,<br>đỗ|Địa<br>điểm<br>dừng,<br>đỗ|Ghi<br>chú| |---|---|---|---|---|---|---|---|---|---| |1|||||||||| |2|||||||||| |…|||||||||| |** Tổng**|** Tổng**|** Tổng**|** Tổng**|** Tổng**|** Tổng**|||||
+
+**B.5. Báo cáo tổng hợp**
+
+B.5.1. Báo cáo táo cáo theo xe
+
+Từ ngày……. tháng……. năm.... đến ngày…… tháng…… năm………
+
+Đơn vị kinh doanh vận tải………………….
+# Chọn “Tất cả” hoặc chọn “Từng biển số xe”
+
+|T<br>T|Biể<br>n số<br>xe|Loại<br>hình<br>hoạt<br>độn<br>g|Tổn<br>g km|Tỷ lệ km quá tốc độ giới<br>hạn/tổng km (%)|Col6|Col7|Col8|Tổng số lần quá tốc độ<br>giới hạn (lần)|Col10|Col11|Col12|Tổng<br>số<br>lần<br>dừng<br>đỗ|Ghi<br>chú| |---|---|---|---|---|---|---|---|---|---|---|---|---|---| |**T**<br>**T**|**Biể**<br>**n số**<br>**xe**|**Loại**<br>**hình**<br>**hoạt**<br>**độn**<br>**g**|**Tổn**<br>**g km**|Tỷ lệ<br>quá<br>tốc<br>độ<br>từ 5<br>km/h<br>đến<br>dưới<br>10<br>km/h|Tỷ lệ<br>quá<br>tốc<br>độ từ<br>10<br>km/h<br>đến<br>dưới<br>20<br>km/h|Tỷ lệ<br>quá<br>tốc<br>độ<br>từ<br>20<br>km/h<br>đến<br>35<br>km/h|Tỷ<br>lệ<br>quá<br>tốc<br>độ<br>trên<br>35<br>km/<br>h|Số<br>lần<br>quá<br>tốc<br>độ<br>từ 5<br>km/h<br>đến<br>dưới<br>10<br>km/h|Số<br>lần<br>quá<br>tốc<br>độ<br>từ<br>10<br>km/h<br>đến<br>dưới<br>20<br>km/h|Số<br>lần<br>quá<br>tốc<br>độ<br>từ<br>20<br>km/<br>h <br>đến<br>35<br>km/<br>h|Số<br>lần<br>quá<br>tốc<br>độ<br>trên<br>35<br>km/<br>h|Số<br>lần<br>quá<br>tốc<br>độ<br>trên<br>35<br>km/<br>h|Số<br>lần<br>quá<br>tốc<br>độ<br>trên<br>35<br>km/<br>h| |1|||||||||||||| |2|||||||||||||| |3|||||||||||||| |…||||||||||||||
+
+B.5.2. Báo cáo táo cáo theo lái xe
+
+Từ ngày….. tháng… năm…... đến ngày….. tháng….. năm…..
+
+Đơn vị kinh doanh vận tải…………… # Chọn “Tất cả” hoặc chọn “Từng lái xe”
+
+|T<br>T|Họ<br>tên<br>lái<br>xe|Số<br>GPLX|Tổng<br>km|Tỷ lệ km quá tốc độ giới<br>hạn /tổng km (%)|Col6|Col7|Col8|Tổng số lần quá tốc độ<br>giới hạn (lần)|Col10|Col11|Col12|Tổng<br>số lần<br>lái xe<br>liên<br>tục<br>quá<br>04<br>giờ|Ghi<br>chú| |---|---|---|---|---|---|---|---|---|---|---|---|---|---| |**T**<br>**T**|**Họ**<br>**tên**<br>**lái**<br>**xe**|**Số**<br>**GPLX**|**Tổng**<br>**km**|Tỷ lệ<br>quá<br>tốc<br>độ<br>từ 5<br>km/h<br>đến<br>dưới<br>10<br>km/h|Tỷ<br>lệ<br>quá<br>tốc<br>độ<br>từ<br>10<br>km/<br>h <br>đến<br>dướ<br>i 20<br>km/<br>h|Tỷ<br>lệ<br>quá<br>tốc<br>độ<br>từ<br>20<br>km/<br>h <br>đến<br>35<br>km/<br>h|Tỷ<br>lệ<br>quá<br>tốc<br>độ<br>trên<br>35<br>km/<br>h|Số<br>lần<br>quá<br>tốc<br>độ<br>từ 5<br>km/<br>h <br>đến<br>dưới<br>10<br>km/<br>h|Số<br>lần<br>quá<br>tốc<br>độ<br>từ<br>10<br>km/h<br>đến<br>dưới<br>20<br>km/h|Số<br>lần<br>quá<br>tốc<br>độ<br>từ<br>20<br>km/<br>h <br>đến<br>35<br>km/<br>h|Số<br>lần<br>quá<br>tốc<br>độ<br>trên<br>35<br>km/<br>h|Số<br>lần<br>quá<br>tốc<br>độ<br>trên<br>35<br>km/<br>h|Số<br>lần<br>quá<br>tốc<br>độ<br>trên<br>35<br>km/<br>h| |1|||||||||||||| |2|||||||||||||| |3|||||||||||||| |…||||||||||||||
+
+**Chú ý:**
+
+Đơn vị tốc độ: km/h.
+
+Các cột đơn vị là phút: Nếu ≥ 60 phút thì hiển thị định dạng hh:mm.
+
+Tọa độ: kinh độ, vĩ độ và được cách bởi dấu phẩy.
+
+Các biểu mẫu được trích xuất theo định dạng Microsoft Excel (.xls hoặc .xlsx).
+# B.6. Báo cáo hình ảnh từ TBGNHANLX
+
+|TT|Biển số xe|Thời<br>gian<br>chụp|Tọa độ<br>chụp|Vận tốc|Họ tên<br>lái xe|Số GPLX|Kênh<br>chụp|Địa điểm<br>chụp|Ảnh tĩnh<br>hoặc link<br>ảnh| |---|---|---|---|---|---|---|---|---|---| |1|||||||||| |2|||||||||| |3|||||||||| |…||||||||||
+
+**Chú ý:**
+
+Thời gian dạng ngày/tháng/năm.
+
+Ảnh tĩnh có thể xem trực tiếp khi bấm vào đường link hoặc hiển thị trực tiếp trên trang xuất báo cáo.
+
+Đối với xe có nhiều kênh camera thì báo cáo ghép theo thời gian chụp./.
+
+**PHỤ LỤC C**
+
+**YÊU CẦU KỸ THUẬT ĐỐI VỚI ĐẦU ĐỌC VÀ THẺ NHẬN DẠNG LÁI XE**
+
+**C.1. Đầu đọc thẻ lái xe**
+
+Sử dụng công nghệ RFID.
+
+Tần số hoạt động 13,56 MHz.
+
+Tuân thủ chuẩn ISO/IEC 15693.
+
+**C.2. Thẻ nhận dạng lái xe**
+
+Dung lượng bộ nhớ tối thiểu của thẻ: 64 byte.
+
+Dữ liệu ghi theo định dạng ASCII.
+
+Dữ liệu trên thẻ quy định như sau:
+
+- 16 byte đầu tiên: 15 byte đầu ghi số GPLX, byte thứ 16 ghi mã kiểm tra;
+
+- 44 byte tiếp theo: các byte đầu ghi họ tên lái xe, các byte không có dữ liệu thì ghi số 0, byte thứ 44 ghi mã kiểm tra;
+
+- Các byte còn lại ghi theo quy định của đơn vị sản xuất, lắp ráp, nhập khẩu TBGSHT, TBGNHANLX;
+
+- Quy định cách tính mã kiểm tra: tổng giá trị các byte dữ liệu cần kiểm tra và 255 lấy byte thấp.
+
+Thẻ nhận dạng lái xe phải tương thích với các loại đầu đọc thẻ đáp ứng yêu cầu quy định tại mục C.1 của Phụ lục này.
+
+Đơn vị sản xuất, lắp ráp, nhập khẩu TBGSHT, TBGNHANLX tự bảo mật việc ghi, xóa dữ liệu trên thẻ./.
+
+**QCVN 07:2024/BCA**
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ TRUNG TÂM CHỈ HUY GIAO THÔNG
+
+_National technical regulation on traffic command center_
+
+**MỤC LỤC**
+
+Lời nói đầu
+
+1. Quy định chung
+
+1.1. Phạm vi điều chỉnh
+
+1.2. Đối tượng áp dụng
+
+1.3. Tài liệu viện dẫn
+
+1.4. Giải thích từ ngữ
+
+2. Quy định về kỹ thuật
+
+2.1. Cấu trúc, thành phần của trung tâm chỉ huy giao thông
+
+2.2. Mô hình kết nối, chia sẻ dữ liệu của trung tâm chỉ huy giao thông
+
+2.3. Yêu cầu kỹ thuật đối với hệ thống
+
+2.4. Yêu cầu đối với trung tâm chỉ huy giao thông cấp 1
+
+2.5. Yêu cầu đối với trung tâm chỉ huy giao thông cấp 2
+
+3. Quy định về quản lý
+
+4. Tổ chức thực hiện
+
+**Lời nói đầu**
+
+QCVN 07:2024/BCA do Cục Cảnh sát giao thông biên soạn, Cục Khoa học, chiến lược và lịch sử Công an trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Công an ban hành theo Thông tư số 62/2024/TT-BCA ngày 12 tháng 11 năm 2024.
+
+**QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ TRUNG TÂM CHỈ HUY GIAO THÔNG**
+
+_**National technical regulation on traffic command center**_
+
+**1. QUY ĐỊNH CHUNG**
+
+**1.1. Phạm vi điều chỉnh**
+
+Quy chuẩn này quy định yêu cầu chung về kỹ thuật đối với các thành phần cấu thành trung tâm chỉ huy giao thông.
+
+**1.2. Đối tượng áp dụng**
+
+Quy chuẩn này áp dụng đối với tổ chức và cá nhân liên quan đến xây dựng công trình hạ tầng kỹ thuật, hệ thống thiết bị công nghệ và cơ sở dữ liệu của trung tâm chỉ huy giao thông.
+
+**1.3. Tài liệu viện dẫn**
+
+Tài liệu viện dẫn sau đây là cần thiết khi áp dụng Quy chuẩn này. Đối với các tài liệu viện dẫn thì áp dụng phiên bản mới nhất, bao gồm cả các văn bản sửa đổi (nếu có):
+
+1.3.1. Luật Trật tự, an toàn giao thông đường bộ.
+
+1.3.2. Luật Công nghệ thông tin.
+
+1.3.3. Luật An toàn thông tin mạng.
+
+1.3.4. Luật An ninh mạng.
+
+1.3.5. Luật Phòng cháy và chữa cháy.
+
+1.3.6. Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy.
+
+1.3.7. Nghị định số 50/2024/NĐ-CP ngày 10/5/2024 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 136/2020/NĐ-CP ngày 24/11/2020 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng cháy và chữa cháy và Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy và Nghị định số 83/2017/NĐ-CP ngày 18/7/2017 của Chính phủ quy định về công tác cứu nạn, cứu hộ của lực lượng phòng cháy và chữa cháy (sau đây viết gọn là Nghị định số 50/2024/NĐ-CP).
+
+1.3.8. Nghị định số 47/2024/NĐ-CP ngày 09/5/2024 của Chính phủ quy định về danh mục cơ sở dữ liệu quốc gia; việc xây dựng, cập nhật, duy trì, khai thác và sử dụng cơ sở dữ liệu quốc gia (sau đây viết gọn là Nghị định số 47/2024/NĐ-CP).
+
+**QCVN 07:2024/BCA**
+
+1.3.9. Nghị định số 47/2020/NĐ-CP ngày 09/4/2020 của Chính phủ quy định về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước (sau đây viết gọn là Nghị định số 47/2020/NĐ-CP).
+
+1.3.10. Nghị định số 85/2016/NĐ-CP ngày 01/7/2016 của Chính phủ quy định về bảo đảm an toàn hệ thống thông tin theo cấp độ (sau đây viết gọn là Nghị định số 85/2016/NĐ-CP).
+
+1.3.11. QCVN 110:2023/BTTTT Quy chuẩn kỹ thuật quốc gia về thiết bị trạm gốc thông tin di động EUTRA - Phần truy nhập vô tuyến.
+
+1.3.12. TCVN 8071:2009 Công trình viễn thông - Quy tắc thực hành chống sét và tiếp đất.
+
+1.3.13. Thông tư số 29/2024/TT-BCA ngày 03/7/2024 của Bộ trưởng Bộ Công an quy định về quản lý, kết nối và chia sẻ dữ liệu camera giám sát trong Công an nhân dân.
+
+1.3.14. Thông tư số 86/2021/TT-BCA ngày 01/9/2021 của Bộ trưởng Bộ Công an quy định về bảo đảm an toàn thông tin số trong Công an nhân dân.
+
+**1.4. Giải thích từ ngữ**
+
+Trong Quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
+
+1.4.1. Trung tâm chỉ huy giao thông
+
+Là trung tâm quy định tại khoản 1, khoản 2 Điều 75 Luật Trật tự, an toàn giao thông đường bộ.
+
+1.4.2. Trung tâm chỉ huy giao thông quốc gia (sau đây gọi chung là trung tâm chỉ huy giao thông cấp 1)
+
+Là trung tâm do Cục Cảnh sát giao thông xây dựng, quản lý, vận hành, kết nối với các trung tâm chỉ huy giao thông tỉnh, thành phố trực thuộc Trung ương để thống nhất lưu trữ dữ liệu về trật tự, an toàn giao thông đường bộ và được kết nối, chia sẻ dữ liệu với các bộ, ngành và các hệ thống, cơ sở dữ liệu theo quy định của pháp luật.
+
+1.4.3. Trung tâm chỉ huy giao thông tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là trung tâm chỉ huy giao thông cấp 2)
+
+Là trung tâm thuộc Phòng Cảnh sát giao thông Công an tỉnh, thành phố trực thuộc Trung ương, có nhiệm vụ kết nối, thu thập, xử lý, chia sẻ dữ liệu phục vụ việc bảo đảm trật tự, an toàn giao thông trên địa bàn thuộc phạm vi quản lý.
+
+**2. QUY ĐỊNH VỀ KỸ THUẬT**
+
+**2.1. Cấu trúc, thành phần của trung tâm chỉ huy giao thông**
+
+2.1.1. Hệ thống thông tin liên lạc gồm: hệ thống điện thoại, hệ thống bộ đàm.
+
+2.1.2. Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ quy định tại điểm a
+khoản 1 Điều 71 Luật Trật tự, an toàn giao thông đường bộ.
+
+2.1.3. Hệ thống thông tin nghiệp vụ gồm: hệ thống phần cứng, phần mềm phục vụ công tác chỉ huy, chỉ đạo, điều hành công tác bảo đảm trật tự, an toàn giao thông.
+
+2.1.4. Hệ thống cơ sở dữ liệu gồm: hệ thống phần cứng và cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ quy định tại khoản 1 Điều 7 Luật Trật tự, an toàn giao thông đường bộ.
+
+2.1.5. Hệ thống hiển thị gồm các thiết bị được sử dụng để hiển thị đầu ra kỹ thuật số của các nguồn tín hiệu dưới dạng hình ảnh.
+
+**2.2. Mô hình kết nối, chia sẻ dữ liệu của trung tâm chỉ huy giao thông**
+
+**Hình 1 - Mô hình kết nối, chia sẻ dữ liệu của trung tâm chỉ huy giao thông**
+
+Việc quản lý, kết nối và chia sẻ dữ liệu của trung tâm chỉ huy giao thông tuân thủ quy định của Nghị định số 47/2020/NĐ-CP và Nghị định số 47/2024/NĐ-CP.
+
+**2.3. Yêu cầu kỹ thuật đối với hệ thống**
+
+2.3.1. Hệ thống thông tin liên lạc phải bảo đảm duy trì kết nối tín hiệu thường xuyên giữa trung tâm chỉ huy giao thông cấp 1, trung tâm chỉ huy giao thông cấp 2 và các đơn vị liên quan; hệ thống bộ đàm phải đáp ứng khả năng chống bụi, chống nước, chống va đập, chống cháy, nổ và quy định tại QCVN 110:2023/BTTTT Quy chuẩn kỹ thuật quốc gia về thiết bị trạm gốc thông tin di động E-UTRA - Phần truy nhập vô tuyến.
+
+2.3.2. Hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ phải bảo đảm QCVN 05:2024/BCA Quy chuẩn kỹ thuật quốc gia về hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ. Việc kết nối, chia sẻ dữ liệu camera giám sát phải bảo đảm theo quy định tại Thông tư số 29/2024/TT-BCA ngày 03/7/2024 của Bộ trưởng Bộ Công an quy định về quản lý, kết nối, chia sẻ dữ liệu camera giám sát trong Công an nhân dân.
+
+2.3.3. Hệ thống thông tin nghiệp vụ phải bảo đảm các tính năng thông tin báo cáo, phân tích hình ảnh, bản đồ số và giám sát thông tin hệ thống đáp ứng yêu cầu nghiệp vụ và các yêu cầu về công nghệ thông tin theo quy định của Luật Công nghệ thông tin.
+
+2.3.4. Hệ thống hiển thị phải có màn hình hiển thị, bộ điều khiển, hiển thị hình ảnh, thông tin thu thập được từ các nguồn tín hiệu của các hệ thống thông tin liên lạc, hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ, hệ thống thông tin nghiệp vụ.
+
+2.3.5. Các hệ thống phụ trợ
+
+2.3.5.1. Trung tâm chỉ huy giao thông phải có hệ thống chống sét và các trang thiết bị phòng, chống cháy, nổ theo quy định tại TCVN 8071:2009 Công trình viễn thông - Quy tắc thực hành chống sét và tiếp đất, Luật Phòng cháy và chữa cháy, Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy, Nghị định số 50/2024/NĐ-CP.
+
+2.3.5.2. Trung tâm chỉ huy giao thông phải có nguồn điện dự phòng bảo đảm duy trì hoạt động khi mất nguồn điện lưới.
+
+2.3.5.3. Trung tâm chỉ huy giao thông phải có hệ thống bảo mật, bảo đảm an ninh, an toàn thông tin theo quy định tại Luật An toàn thông tin mạng, Luật An ninh mạng, Nghị định số 85/2016/NĐ-CP, Thông tư số 86/2021/TT-BCA ngày 01/9/2021 của Bộ trưởng Bộ Công an quy định về bảo đảm an toàn thông tin số trong Công an nhân dân và các quy định của Bộ trưởng Bộ Công an về an ninh
+
+mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia và hệ thống thông tin của cơ quan nhà nước.
+
+2.3.5.4. Trung tâm chỉ huy giao thông phải có cơ sở hạ tầng bảo đảm về chất lượng, thi công xây dựng và bảo trì hạ tầng theo quy định của pháp luật.
+
+**2.4. Yêu cầu đối với trung tâm chỉ huy giao thông cấp**
+
+12.4.1. Trung tâm chỉ huy giao thông cấp 1 phải có khả năng kết nối với trung tâm thông tin chỉ huy Bộ Công an và trung tâm chỉ huy giao thông cấp 2 để tiếp nhận, kết nối, khai thác, chia sẻ dữ liệu về trật tự, an toàn giao thông.
+
+2.4.2. Trung tâm chỉ huy giao thông cấp 1 phải có khả năng thu thập dữ liệu từ trung tâm chỉ huy giao thông cấp 2 và các nguồn dữ liệu khác để lưu trữ, phân tích, xử lý phục vụ yêu cầu nhiệm vụ.
+
+**2.5. Yêu cầu đối với trung tâm chỉ huy giao thông cấp 2**
+
+2.5.1. Trung tâm chỉ huy giao thông cấp 2 khai thác các hệ thống thông tin nghiệp vụ, hệ thống cơ sở dữ liệu phục vụ chỉ huy, chỉ đạo, điều hành công tác bảo đảm trật tự, an toàn giao thông tại địa phương; trung tâm chỉ huy giao thông cấp 2 phải có khả năng kết nối với trung tâm chỉ huy giao thông cấp 1 và trung tâm thông tin chỉ huy Công an tỉnh, thành phố trực thuộc Trung ương để chia sẻ, cập nhập dữ liệu về trật tự, an toàn giao thông.
+
+2.5.2. Trung tâm chỉ huy giao thông cấp 2 phải có khả năng kết nối, thu thập, xử lý, chia sẻ dữ liệu từ các nguồn dữ liệu khác của địa phương để lưu trữ, phân tích, xử lý phục vụ yêu cầu nhiệm vụ; có khả năng đưa ra cảnh báo các tình huống sự cố về giao thông đường bộ trên địa bàn được phân công quản lý.
+
+**3. QUY ĐỊNH VỀ QUẢN LÝ**
+
+Quản lý trung tâm chỉ huy giao thông thực hiện theo quy định của Bộ trưởng Bộ Công an về xây dựng, quản lý, hoạt động của trung tâm chỉ huy giao thông.
+
+**4. TỔ CHỨC THỰC HIỆN**
+
+**4.1.** Tổ chức, cá nhân liên quan đến xây dựng công trình hạ tầng kỹ thuật, hệ thống thiết bị công nghệ và cơ sở dữ liệu, quản lý, hoạt động của trung tâm chỉ huy giao thông tuân thủ các quy định tại Quy chuẩn này.
+
+**4.2.** Cục Khoa học, chiến lược và lịch sử Công an chịu trách nhiệm tổ chức phổ biến Quy chuẩn này cho tổ chức, cá nhân có liên quan.
+
+**4.3.** Cục Cảnh sát giao thông có trách nhiệm hướng dẫn, theo dõi việc áp dụng Quy chuẩn này./.

@@ -28,7 +28,7 @@ from neo4j.exceptions import ServiceUnavailable
 
 # ── Cấu hình ────────────────────────────────────────────────────────────────
 BASE_DIR  = Path(__file__).parent
-CHUNK_DIR = BASE_DIR / "convert_to_md" / "data" / "chunks"
+CHUNK_DIR = Path(r"C:\law_chatbot\dsp391m-traffic-law-chatbot-chatbot-anhnnhe182323\chunk")
 ENV_FILE  = BASE_DIR / ".env"
 
 load_dotenv(ENV_FILE)

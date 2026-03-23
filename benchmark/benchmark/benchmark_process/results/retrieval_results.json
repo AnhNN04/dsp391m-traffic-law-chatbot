@@ -1,0 +1,3464 @@
+{
+  "dense": {
+    "name": "Dense Search",
+    "hits": 160,
+    "total": 191,
+    "hit_rate": 0.8377,
+    "details": [
+      {
+        "question": "Xe ô tô chuyên dùng có niên hạn sử dụng bao nhiêu năm?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 104.144
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ phải bảo đảm tốc độ như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.151
+      },
+      {
+        "question": "Cấp đổi biển số xe mô tô mất bao lâu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Biển số xe bị mờ có phải cấp đổi không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.138
+      },
+      {
+        "question": "Xe ô tô không được đỗ xe tại những nơi nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Nguyên tắc bảo đảm trật tự, an toàn giao thông đường bộ là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.106
+      },
+      {
+        "question": "Nhà nước có chính sách gì về trật tự, an toàn giao thông đường bộ?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.121
+      },
+      {
+        "question": "Thời hạn cấp đổi biển số xe ô tô mất bao lâu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Cơ quan đăng ký xe và cán bộ đăng ký xe có trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Ô tô chở quá số người theo quy định có phải là hành vi bị nghiêm cấm không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.119
+      },
+      {
+        "question": "Vận chuyển hành khách bằng xe ô tô phải tuân thủ quy định gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.099
+      },
+      {
+        "question": "Cách xác định thời hạn đăng kiểm các loại xe 2026 ra sao?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.116
+      },
+      {
+        "question": "Xe máy xin vượt chỉ được vượt khi nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.087
+      },
+      {
+        "question": "Khi tham gia giao thông đường bộ, người điều khiển phương tiện giao thông không được vượt xe trong trường hợp nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Giấy phép lái xe có bao nhiêu điểm?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.305
+      },
+      {
+        "question": "Năm 2026, có mấy loại bằng lái xe máy?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Điểm bằng lái xe máy là bao nhiêu điểm?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.115
+      },
+      {
+        "question": "Sơ mi rơ moóc được kéo bởi máy kéo có phải là xe máy chuyên dùng không?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.432
+      },
+      {
+        "question": "Chủ xe cơ giới, xe máy chuyên dùng và người điều khiển xe cơ giới, xe máy chuyên dùng có trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Bán xe có phải làm giữ lại chứng nhận đăng ký xe không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.094
+      },
+      {
+        "question": "Bán xe làm thủ tục thu hồi tại đâu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.116
+      },
+      {
+        "question": "Nguyên tắc bảo đảm trật tự, an toàn giao thông đường bộ như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Người lái xe ô tô kinh doanh vận tải và vận tải nội bộ được lái xe liên tục trong bao nhiêu giờ?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.11
+      },
+      {
+        "question": "Có bao nhiêu hình thức xử phạt bổ sung trong xử phạt vi phạm giao thông đường bộ?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.11
+      },
+      {
+        "question": "Người lái xe phải tắt đèn chiếu xa, bật đèn chiếu gần trong các trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Lái xe có nồng độ cồn là hành vi bị nghiêm cấm không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Cơ quan nào quy định về xác định nồng độ cồn và nồng độ cồn nội sinh trong máu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Có những hình thức xử phạt bổ sung nào về trật tự, an toàn giao thông đường bộ theo Nghị định 168?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Theo chức năng phục vụ thì đường bộ được phân loại như thế nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.866
+      },
+      {
+        "question": "Xe máy gặp đèn vàng nhấp nháy có được đi không?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Trình tự, thủ tục trừ điểm giấy phép lái xe được quy định cụ thể ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Những lưu ý về sử dụng làn đường khi tham gia giao thông hiện nay như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.109
+      },
+      {
+        "question": "Xe máy vượt xe bên phải hay bên trái?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.086
+      },
+      {
+        "question": "Nguyên tắc lắp đặt đèn tín hiệu giao thông là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.091
+      },
+      {
+        "question": "Đỗ xe ô tô trên vỉa hè trái quy định phạt bao nhiêu 2026?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.103
+      },
+      {
+        "question": "Đỗ xe máy trên vỉa hè trái phép bị phạt bao nhiêu 2026?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.105
+      },
+      {
+        "question": "Xe đỗ trên đường dốc phải đánh lái như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.119
+      },
+      {
+        "question": "Bảo đảm trật tự an toán giao thông đường bộ là trách nhiệm của ai?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.089
+      },
+      {
+        "question": "Người đi xe máy phải quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn trong trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.09
+      },
+      {
+        "question": "Trên một chiều đường có vạch kẻ phân làn đường, người đi xe máy phải đi trên làn đường bên trái hay bên phải?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Người đi bộ phải tuân thủ quy định gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.083
+      },
+      {
+        "question": "Có nhiều hành vi vi phạm thì điểm giấy phép lái xe trừ thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.106
+      },
+      {
+        "question": "Quy tắc chung khi tham gia giao thông đường bộ như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.097
+      },
+      {
+        "question": "Xe ô tô vận tải nội bộ phải được niêm yết (dán cố định) cụm từ “XE NỘI BỘ” lên xe?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.116
+      },
+      {
+        "question": "Người đi bộ có được vượt qua dải phân cách không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.385
+      },
+      {
+        "question": "Phương tiện tham gia giao thông đường bộ di chuyển với tốc độ thấp hơn phải đi về phía nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.119
+      },
+      {
+        "question": "Xử phạt vi phạm hành chính giao thông có lập biên bản của cảnh sát giao thông như thế nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.176
+      },
+      {
+        "question": "Xe ưu tiên nào phải có tín hiệu ưu tiên?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Xe ô tô không nhường đường cho xe ưu tiên bị phạt bao nhiêu tiền?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.09
+      },
+      {
+        "question": "Các trường hợp nào nhường đường khi tránh nhau?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.09
+      },
+      {
+        "question": "Nhân viên phục vụ trên xe ô tô vận chuyển hành khách có trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Lỗi đi vào đường cấm giờ xe tải trừ bao nhiêu điểm bằng lái?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Tổ chức thẩm định an toàn giao thông có trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.107
+      },
+      {
+        "question": "Điều kiện kinh doanh dịch vụ thẩm tra an toàn giao thông đường bộ là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.107
+      },
+      {
+        "question": "Xe cơ giới tham gia giao thông đường bộ phải đáp ứng được các điều kiện nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Niên hạn sử dụng của xe cơ giới được tính như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.094
+      },
+      {
+        "question": "Biển số xe nền màu xanh, chữ và số màu trắng cấp cho xe nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.206
+      },
+      {
+        "question": "Thời hạn của giấy phép lái xe A1 là bao nhiêu năm?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Hoạt động trạm thu phí đường bộ bao gồm những hoạt động nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.097
+      },
+      {
+        "question": "Quy định về dữ liệu thu tiền sử dụng đường bộ ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Thời gian thông báo công khai, niêm yết Quy chế đấu giá, danh sách biển số xe đưa ra đấu giá ít nhất bao nhiêu ngày trước ngày tổ chức phiên đấu giá?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Các bước thực hiện một cuộc đấu giá biển số xe thực hiện thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.091
+      },
+      {
+        "question": "Việc kiểm định an toàn kỹ thuật và bảo vệ môi trường xe ô tô do ai thực hiện?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.094
+      },
+      {
+        "question": "Cơ quan nào chịu trách nhiệm về kết quả kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.115
+      },
+      {
+        "question": "Những loại xe nào được coi là xe cơ giới?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.09
+      },
+      {
+        "question": "Xe cơ giới dùng tham gia giao thông đường bộ phải đáp ứng các điều kiện nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Nguyên tắc hoạt động của cơ sở đăng kiểm là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.099
+      },
+      {
+        "question": "Cơ cấu tổ chức của cơ sở đăng kiểm cụ thể như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.094
+      },
+      {
+        "question": "Nguyên tắc hoạt động của cơ sở đăng kiểm xe cơ giới là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Cơ sở đăng kiểm xe cơ giới bị tạm đình chỉ hoạt động kiểm định khi nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Đấu giá biển số xe được quy định như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Truất quyền tham gia đấu giá biển số xe trong trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Yêu cầu đối với việc đổi giấy phép lái xe do ngành Giao thông vận tải cấp là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Xe trước có tín hiệu rẽ trái thì có được vượt về bên phải không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.148
+      },
+      {
+        "question": "Tín hiệu báo hướng rẽ trái phải sử dụng liên tục trong quá trình chuyển hướng xe đúng không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Tài xế xe taxi có quyền hạn và trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Hành khách đi xe taxi có quyền hạn và trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Xe ô tô kinh doanh vận tải có phải lắp thiết bị giám sát hành trình không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.089
+      },
+      {
+        "question": "Độ tuổi của người điều khiển phương tiện tham gia giao thông đường bộ cần đáp ứng là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.328
+      },
+      {
+        "question": "Người lái xe ô tô chớ người đến 8 chỗ phải có giấy phép lái xe ít nhất là hạng gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.198
+      },
+      {
+        "question": "Tài xế lái xe khi chuyển hướng xe phải đảm bảo quy định gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.178
+      },
+      {
+        "question": "Không được lùi xe ở đoạn đường nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Người từ bao nhiêu tuổi được thi bằng lái xe hạng B1?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.087
+      },
+      {
+        "question": "Bao nhiêu tuổi mới được cấp bằng lái xe CE?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.646
+      },
+      {
+        "question": "Bằng lái xe CE có thời hạn bao lâu kể từ ngày cấp?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Cảnh sát giao thông được dừng xe để kiểm tra, kiểm soát khi nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Cảnh sát giao thông thực hiện nhiệm vụ gì khi thực hiện tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.099
+      },
+      {
+        "question": "Hiệu lệnh của người điều khiển giao thông đường bộ có phải là báo hiệu đường bộ không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.131
+      },
+      {
+        "question": "Ai là người quy định chi tiết về khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.459
+      },
+      {
+        "question": "Thời hiệu xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ là bao lâu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Điều kiện của người lái xe gắn máy tham gia giao thông đường bộ cần đáp ứng những gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Bằng lái xe bị hỏng có được đổi, cấp lại không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.094
+      },
+      {
+        "question": "Việc đào tạo để nâng hạng bằng lái xe thực hiện đối với đối tượng nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.09
+      },
+      {
+        "question": "Khung hình phạt nồng độ cồn đối với xe máy theo Nghị định 168 được quy định ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.102
+      },
+      {
+        "question": "Xe máy phải bật đèn chiếu sáng phía trước từ mấy giờ đến mấy giờ?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.087
+      },
+      {
+        "question": "Xe máy không được sử dụng tín hiệu còi trong trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.099
+      },
+      {
+        "question": "Xử phạt vi phạm hành chính giao thông có lập biên bản của cảnh sát giao thông ra sao?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.153
+      },
+      {
+        "question": "Ghi Sổ kế hoạch và nhật ký tuần tra, kiểm soát giao thông đường bộ của cảnh sát giao thông thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Giấy phép lái xe hạng A1 có được phép điều khiển xe có dung tích xi-lanh trên 125 cm3 không?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.106
+      },
+      {
+        "question": "Giấy phép lái xe hạng A1 được điều khiển những loại xe nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Hoạt động tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ gồm những hoạt động nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.113
+      },
+      {
+        "question": "Quy tắc chung khi tham gia giao thông đường bộ là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.087
+      },
+      {
+        "question": "Người 17 tuổi điều khiển xe mô tô bị phạt bao nhiêu tiền?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Quy định độ tuổi lái xe máy hiện nay như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.089
+      },
+      {
+        "question": "Xe máy chạy hàng ngang trái quy định phạt bao nhiêu tiền?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.09
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ có trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Người điều khiển xe máy không đội mũ bảo hiểm thì bị phạt bao nhiêu tiền?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.17
+      },
+      {
+        "question": "Được sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác gồm những gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Người đi bộ qua đường không chấp hành hiệu lệnh hoặc chỉ dẫn của biển báo hiệu bị phạt bao nhiêu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Người đi bộ phải tuân thủ các quy định an toàn giao thông như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.094
+      },
+      {
+        "question": "Hành vi đá bóng, đá cầu, chơi cầu lông hoặc các hoạt động thể thao khác trái phép trên đường bộ thì bị phạt bao nhiêu tiền?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.152
+      },
+      {
+        "question": "Quy định về công tác tuyên truyền, phổ biến pháp luật về trật tự, an toàn giao thông đường bộ ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Khi người tham gia giao thông đường bộ có hành vi cản trở, chống người thi hành công vụ thì giải quyết thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Người tham gia giao thông đường bộ gồm những ai?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.086
+      },
+      {
+        "question": "Lỗi không xi nhan khi rẽ trái xe máy là bao nhiêu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.09
+      },
+      {
+        "question": "Người lái xe không được quay đầu xe trong các trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.086
+      },
+      {
+        "question": "Mức phạt vi phạm đối với người đi bộ đi sai phần đường là bao nhiêu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.094
+      },
+      {
+        "question": "Người đi bộ có được đi vào đường cao tốc không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Cơ quan nào có trách nhiệm tổ chức tuyên truyền, phổ biến pháp luật về trật tự, an toàn giao thông đường bộ trên các phương tiện truyền thông?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Hiệu lệnh của người điều khiển giao thông được quy định như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.097
+      },
+      {
+        "question": "Người đi bộ qua đường không đúng nơi quy định phạt bao nhiêu?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.116
+      },
+      {
+        "question": "Hiệu lệnh của người điều khiển giao thông tay bên phải giơ về phía trước để báo hiệu cho người đi bộ qua đường đi như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.103
+      },
+      {
+        "question": "Giáo dục kiến thức pháp luật về trật tự, an toàn giao thông đường bộ thực hiện như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Lên xuống dốc thì xe nào phải nhường đường?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Trường hợp nào phải thực hiện xác minh giấy phép lái xe?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Quy trình khai thác hệ thống thông tin đối với cấp, quản lý giấy phép lái xe quốc tế thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Các xe phải nhường đường như thế nào khi tránh xe đi ngược chiều?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Người lái xe phải dừng lại để bảo đảm an toàn trong trường hợp nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt có được vượt xe không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.099
+      },
+      {
+        "question": "Việc bảo đảm trật tự, an toàn giao thông đường bộ phải tuân thủ theo nguyên tắc nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.091
+      },
+      {
+        "question": "Người đi xe đạp, xe đạp máy được phép chở mấy người?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.761
+      },
+      {
+        "question": "Xe đạp máy có bao gồm luôn cả xe đạp điện không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.127
+      },
+      {
+        "question": "Phát triển phương tiện giao thông đường bộ đồng bộ với gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Người đi bộ phải tuân thủ các quy định gì khi tham gia giao thông?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.091
+      },
+      {
+        "question": "Người đi bộ đi sai phần đường bị phạt bao nhiêu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Phương tiện tham gia giao thông đường bộ chỉ được sử dụng tín hiệu còi trong các trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn trong các trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Quy định về bảo đảm an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Hoạt động tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ bao gồm những hoạt động nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.132
+      },
+      {
+        "question": "Nhận biết tín hiệu đèn giao thông hiện nay như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Quy tắc chung khi tham gia gia giao thông đường bộ cụ thể ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Hoạt động bảo đảm trật tự, an toàn giao thông đường bộ có phải thực hiện công khai không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Kiến nghị về trật tự, an toàn giao thông đường bộ đối với công trình đường bộ thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.365
+      },
+      {
+        "question": "Người tham gia giao thông đường bộ phải chấp hành báo hiệu đường bộ theo thứ tự nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.123
+      },
+      {
+        "question": "Xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ phải đáp ứng các điều kiện nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Chở người ngồi sau xe ô tô không thắt dây an toàn có bị trừ điểm giấy phép lái xe không?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.475
+      },
+      {
+        "question": "Người điều khiển phương tiện giao thông có được vượt xe ở phần đường dành cho người đi bộ qua đường không?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Cấp lại bằng lái xe có được khôi phục điểm trên giấy phép lái xe không?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.163
+      },
+      {
+        "question": "Bằng lái xe hạng nào có thời hạn 5 năm kể từ ngày cấp?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Người có bằng lái xe được đổi, cấp lại giấy phép lái xe trong trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.094
+      },
+      {
+        "question": "Lên xuống dốc, xe nào phải nhường đường?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.102
+      },
+      {
+        "question": "Xe máy chuyên dùng có được đi vào đường cao tốc không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.091
+      },
+      {
+        "question": "Đi xe máy chuyên dùng phải bật đèn chiếu sáng phía trước trong thời gian nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Đi xe máy trên đường cao tốc phải tuân thủ quy tắc giao thông đường bộ nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Đi xe máy trong hầm đường bộ phải tuân thủ quy tắc giao thông đường bộ nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.097
+      },
+      {
+        "question": "Xe máy vượt ô tô bên nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Xe máy không được quay đầu xe ở nơi nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Nguyên tắc bố trí vạch kẻ đường được quy định như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.413
+      },
+      {
+        "question": "Khi đang lái xe, thấy một người đi bộ đang sang đường trên vạch kẻ đường dành cho người đi bộ, người lái xe nên làm gì?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.097
+      },
+      {
+        "question": "Các trường hợp được phép rẽ phải khi gặp đèn đỏ như thế nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.087
+      },
+      {
+        "question": "Các hành vi mà người đi xe máy không được thực hiện khi tham gia giao thông?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Độ tuổi được cấp giấy phép lái xe hạng A1 là bao nhiêu tuổi?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Đổi, cấp lại giấy phép lái xe trong các trường hợp?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.163
+      },
+      {
+        "question": "Ô tô đang chạy có mở cửa xe được không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Ô tô được bấm còi xe trong trường hợp nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.151
+      },
+      {
+        "question": "Giấy phép lái xe sau khi cấp lại có được giữ nguyên số điểm của giấy phép lái xe trước khi cấp lại không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.102
+      },
+      {
+        "question": "Khi nào giấy phép lái xe được đổi, cấp lại?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.107
+      },
+      {
+        "question": "Quy định về kinh doanh vận tải hành khách bằng xe taxi như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.104
+      },
+      {
+        "question": "Người có giấy phép lái xe được đổi, cấp lại giấy phép trong trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.123
+      },
+      {
+        "question": "Hệ thống báo hiệu đường bộ gồm mấy loại?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.174
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ khi điều khiển phương tiện trong hầm đường bộ phải tuân thủ quy tắc giao thông đường bộ thế nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.102
+      },
+      {
+        "question": "Người lái xe máy không được vượt xe khác khi gặp trường hợp nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.11
+      },
+      {
+        "question": "Xe máy đi vào đường cao tốc có được không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.174
+      },
+      {
+        "question": "Thứ tự ưu tiên chấp hành báo hiệu đường bộ được xếp như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.112
+      },
+      {
+        "question": "Người điều khiển xe thô sơ phải sử dụng đèn hoặc có báo hiệu ở phía trước và phía sau xe vào khoảng thời gian nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.112
+      },
+      {
+        "question": "Chở trẻ em trên xe ô tô không có thiết bị an toàn bị phạt bao nhiêu tiền?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.172
+      },
+      {
+        "question": "Bằng B lái được xe bao nhiêu chỗ?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.136
+      },
+      {
+        "question": "Bằng B có thời hạn bao lâu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.087
+      },
+      {
+        "question": "Lỗi sử dụng điện thoại khi đi xe máy bị phạt bao nhiêu tiền?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.145
+      },
+      {
+        "question": "Chở người ngồi sau không thắt dây an toàn có tịch thu giấy phép lái xe không?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.201
+      },
+      {
+        "question": "Quy định về quy tắc chung khi tham gia giao thông đường bộ như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ có được dừng xe, đỗ xe trên cầu không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Khi tín hiệu đèn màu vàng nhấp nháy, người điều khiển phương tiện tham gia giao thông đường bộ có được phép đi không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.104
+      },
+      {
+        "question": "Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, người đi xe ô tô phải nhường đường thế nào là đúng luật?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.373
+      },
+      {
+        "question": "Người đi xe ô tô tham gia giao thông đường bộ khi dừng xe, đỗ xe trên đường phải thực hiện các quy định nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Người điều khiển xe mô tô di chuyển với tốc độ thấp hơn phải đi bên phía nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.086
+      },
+      {
+        "question": "Người điều khiển xe mô tô khi vượt các xe phải vượt bên nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ có quyền ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.097
+      },
+      {
+        "question": "Khi nào xe đạp được chở theo 2 người trên xe?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.088
+      },
+      {
+        "question": "Người được chở trên xe đạp khi tham gia giao thông đường bộ không được thực hiện các hành vi nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.104
+      },
+      {
+        "question": "Chính sách của Nhà nước về trật tự, an toàn giao thông đường bộ ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.084
+      }
+    ]
+  },
+  "graph": {
+    "name": "Graph Search",
+    "hits": 160,
+    "total": 191,
+    "hit_rate": 0.8377,
+    "details": [
+      {
+        "question": "Xe ô tô chuyên dùng có niên hạn sử dụng bao nhiêu năm?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ phải bảo đảm tốc độ như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Cấp đổi biển số xe mô tô mất bao lâu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Biển số xe bị mờ có phải cấp đổi không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.133
+      },
+      {
+        "question": "Xe ô tô không được đỗ xe tại những nơi nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.097
+      },
+      {
+        "question": "Nguyên tắc bảo đảm trật tự, an toàn giao thông đường bộ là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.104
+      },
+      {
+        "question": "Nhà nước có chính sách gì về trật tự, an toàn giao thông đường bộ?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.103
+      },
+      {
+        "question": "Thời hạn cấp đổi biển số xe ô tô mất bao lâu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.103
+      },
+      {
+        "question": "Cơ quan đăng ký xe và cán bộ đăng ký xe có trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Ô tô chở quá số người theo quy định có phải là hành vi bị nghiêm cấm không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.11
+      },
+      {
+        "question": "Vận chuyển hành khách bằng xe ô tô phải tuân thủ quy định gì?",
+        "hit": true,
+        "num_docs": 2,
+        "time_s": 0.097
+      },
+      {
+        "question": "Cách xác định thời hạn đăng kiểm các loại xe 2026 ra sao?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.099
+      },
+      {
+        "question": "Xe máy xin vượt chỉ được vượt khi nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.091
+      },
+      {
+        "question": "Khi tham gia giao thông đường bộ, người điều khiển phương tiện giao thông không được vượt xe trong trường hợp nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Giấy phép lái xe có bao nhiêu điểm?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Năm 2026, có mấy loại bằng lái xe máy?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Điểm bằng lái xe máy là bao nhiêu điểm?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Sơ mi rơ moóc được kéo bởi máy kéo có phải là xe máy chuyên dùng không?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Chủ xe cơ giới, xe máy chuyên dùng và người điều khiển xe cơ giới, xe máy chuyên dùng có trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Bán xe có phải làm giữ lại chứng nhận đăng ký xe không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Bán xe làm thủ tục thu hồi tại đâu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Nguyên tắc bảo đảm trật tự, an toàn giao thông đường bộ như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Người lái xe ô tô kinh doanh vận tải và vận tải nội bộ được lái xe liên tục trong bao nhiêu giờ?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.111
+      },
+      {
+        "question": "Có bao nhiêu hình thức xử phạt bổ sung trong xử phạt vi phạm giao thông đường bộ?",
+        "hit": true,
+        "num_docs": 2,
+        "time_s": 0.112
+      },
+      {
+        "question": "Người lái xe phải tắt đèn chiếu xa, bật đèn chiếu gần trong các trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.106
+      },
+      {
+        "question": "Lái xe có nồng độ cồn là hành vi bị nghiêm cấm không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.104
+      },
+      {
+        "question": "Cơ quan nào quy định về xác định nồng độ cồn và nồng độ cồn nội sinh trong máu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.088
+      },
+      {
+        "question": "Có những hình thức xử phạt bổ sung nào về trật tự, an toàn giao thông đường bộ theo Nghị định 168?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.365
+      },
+      {
+        "question": "Theo chức năng phục vụ thì đường bộ được phân loại như thế nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.146
+      },
+      {
+        "question": "Xe máy gặp đèn vàng nhấp nháy có được đi không?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Trình tự, thủ tục trừ điểm giấy phép lái xe được quy định cụ thể ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.103
+      },
+      {
+        "question": "Những lưu ý về sử dụng làn đường khi tham gia giao thông hiện nay như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.104
+      },
+      {
+        "question": "Xe máy vượt xe bên phải hay bên trái?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Nguyên tắc lắp đặt đèn tín hiệu giao thông là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Đỗ xe ô tô trên vỉa hè trái quy định phạt bao nhiêu 2026?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.099
+      },
+      {
+        "question": "Đỗ xe máy trên vỉa hè trái phép bị phạt bao nhiêu 2026?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.099
+      },
+      {
+        "question": "Xe đỗ trên đường dốc phải đánh lái như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Bảo đảm trật tự an toán giao thông đường bộ là trách nhiệm của ai?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.097
+      },
+      {
+        "question": "Người đi xe máy phải quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn trong trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Trên một chiều đường có vạch kẻ phân làn đường, người đi xe máy phải đi trên làn đường bên trái hay bên phải?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Người đi bộ phải tuân thủ quy định gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.088
+      },
+      {
+        "question": "Có nhiều hành vi vi phạm thì điểm giấy phép lái xe trừ thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.104
+      },
+      {
+        "question": "Quy tắc chung khi tham gia giao thông đường bộ như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.097
+      },
+      {
+        "question": "Xe ô tô vận tải nội bộ phải được niêm yết (dán cố định) cụm từ “XE NỘI BỘ” lên xe?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.106
+      },
+      {
+        "question": "Người đi bộ có được vượt qua dải phân cách không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Phương tiện tham gia giao thông đường bộ di chuyển với tốc độ thấp hơn phải đi về phía nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.108
+      },
+      {
+        "question": "Xử phạt vi phạm hành chính giao thông có lập biên bản của cảnh sát giao thông như thế nào?",
+        "hit": false,
+        "num_docs": 2,
+        "time_s": 0.152
+      },
+      {
+        "question": "Xe ưu tiên nào phải có tín hiệu ưu tiên?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Xe ô tô không nhường đường cho xe ưu tiên bị phạt bao nhiêu tiền?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Các trường hợp nào nhường đường khi tránh nhau?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Nhân viên phục vụ trên xe ô tô vận chuyển hành khách có trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Lỗi đi vào đường cấm giờ xe tải trừ bao nhiêu điểm bằng lái?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Tổ chức thẩm định an toàn giao thông có trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 1,
+        "time_s": 0.595
+      },
+      {
+        "question": "Điều kiện kinh doanh dịch vụ thẩm tra an toàn giao thông đường bộ là gì?",
+        "hit": true,
+        "num_docs": 2,
+        "time_s": 0.102
+      },
+      {
+        "question": "Xe cơ giới tham gia giao thông đường bộ phải đáp ứng được các điều kiện nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.114
+      },
+      {
+        "question": "Niên hạn sử dụng của xe cơ giới được tính như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.088
+      },
+      {
+        "question": "Biển số xe nền màu xanh, chữ và số màu trắng cấp cho xe nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.099
+      },
+      {
+        "question": "Thời hạn của giấy phép lái xe A1 là bao nhiêu năm?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.097
+      },
+      {
+        "question": "Hoạt động trạm thu phí đường bộ bao gồm những hoạt động nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.477
+      },
+      {
+        "question": "Quy định về dữ liệu thu tiền sử dụng đường bộ ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.091
+      },
+      {
+        "question": "Thời gian thông báo công khai, niêm yết Quy chế đấu giá, danh sách biển số xe đưa ra đấu giá ít nhất bao nhiêu ngày trước ngày tổ chức phiên đấu giá?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Các bước thực hiện một cuộc đấu giá biển số xe thực hiện thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.09
+      },
+      {
+        "question": "Việc kiểm định an toàn kỹ thuật và bảo vệ môi trường xe ô tô do ai thực hiện?",
+        "hit": true,
+        "num_docs": 2,
+        "time_s": 0.096
+      },
+      {
+        "question": "Cơ quan nào chịu trách nhiệm về kết quả kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.099
+      },
+      {
+        "question": "Những loại xe nào được coi là xe cơ giới?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Xe cơ giới dùng tham gia giao thông đường bộ phải đáp ứng các điều kiện nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.089
+      },
+      {
+        "question": "Nguyên tắc hoạt động của cơ sở đăng kiểm là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.082
+      },
+      {
+        "question": "Cơ cấu tổ chức của cơ sở đăng kiểm cụ thể như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Nguyên tắc hoạt động của cơ sở đăng kiểm xe cơ giới là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.086
+      },
+      {
+        "question": "Cơ sở đăng kiểm xe cơ giới bị tạm đình chỉ hoạt động kiểm định khi nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.097
+      },
+      {
+        "question": "Đấu giá biển số xe được quy định như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.102
+      },
+      {
+        "question": "Truất quyền tham gia đấu giá biển số xe trong trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Yêu cầu đối với việc đổi giấy phép lái xe do ngành Giao thông vận tải cấp là gì?",
+        "hit": true,
+        "num_docs": 2,
+        "time_s": 0.258
+      },
+      {
+        "question": "Xe trước có tín hiệu rẽ trái thì có được vượt về bên phải không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.095
+      },
+      {
+        "question": "Tín hiệu báo hướng rẽ trái phải sử dụng liên tục trong quá trình chuyển hướng xe đúng không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Tài xế xe taxi có quyền hạn và trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 2,
+        "time_s": 0.093
+      },
+      {
+        "question": "Hành khách đi xe taxi có quyền hạn và trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Xe ô tô kinh doanh vận tải có phải lắp thiết bị giám sát hành trình không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.089
+      },
+      {
+        "question": "Độ tuổi của người điều khiển phương tiện tham gia giao thông đường bộ cần đáp ứng là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.552
+      },
+      {
+        "question": "Người lái xe ô tô chớ người đến 8 chỗ phải có giấy phép lái xe ít nhất là hạng gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.173
+      },
+      {
+        "question": "Tài xế lái xe khi chuyển hướng xe phải đảm bảo quy định gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Không được lùi xe ở đoạn đường nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.137
+      },
+      {
+        "question": "Người từ bao nhiêu tuổi được thi bằng lái xe hạng B1?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Bao nhiêu tuổi mới được cấp bằng lái xe CE?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.143
+      },
+      {
+        "question": "Bằng lái xe CE có thời hạn bao lâu kể từ ngày cấp?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Cảnh sát giao thông được dừng xe để kiểm tra, kiểm soát khi nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Cảnh sát giao thông thực hiện nhiệm vụ gì khi thực hiện tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.102
+      },
+      {
+        "question": "Hiệu lệnh của người điều khiển giao thông đường bộ có phải là báo hiệu đường bộ không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.104
+      },
+      {
+        "question": "Ai là người quy định chi tiết về khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.106
+      },
+      {
+        "question": "Thời hiệu xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ là bao lâu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.102
+      },
+      {
+        "question": "Điều kiện của người lái xe gắn máy tham gia giao thông đường bộ cần đáp ứng những gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Bằng lái xe bị hỏng có được đổi, cấp lại không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.094
+      },
+      {
+        "question": "Việc đào tạo để nâng hạng bằng lái xe thực hiện đối với đối tượng nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.086
+      },
+      {
+        "question": "Khung hình phạt nồng độ cồn đối với xe máy theo Nghị định 168 được quy định ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.16
+      },
+      {
+        "question": "Xe máy phải bật đèn chiếu sáng phía trước từ mấy giờ đến mấy giờ?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Xe máy không được sử dụng tín hiệu còi trong trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Xử phạt vi phạm hành chính giao thông có lập biên bản của cảnh sát giao thông ra sao?",
+        "hit": false,
+        "num_docs": 2,
+        "time_s": 0.157
+      },
+      {
+        "question": "Ghi Sổ kế hoạch và nhật ký tuần tra, kiểm soát giao thông đường bộ của cảnh sát giao thông thế nào?",
+        "hit": true,
+        "num_docs": 1,
+        "time_s": 0.1
+      },
+      {
+        "question": "Giấy phép lái xe hạng A1 có được phép điều khiển xe có dung tích xi-lanh trên 125 cm3 không?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.11
+      },
+      {
+        "question": "Giấy phép lái xe hạng A1 được điều khiển những loại xe nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.089
+      },
+      {
+        "question": "Hoạt động tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ gồm những hoạt động nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.11
+      },
+      {
+        "question": "Quy tắc chung khi tham gia giao thông đường bộ là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.091
+      },
+      {
+        "question": "Người 17 tuổi điều khiển xe mô tô bị phạt bao nhiêu tiền?",
+        "hit": true,
+        "num_docs": 1,
+        "time_s": 0.093
+      },
+      {
+        "question": "Quy định độ tuổi lái xe máy hiện nay như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.091
+      },
+      {
+        "question": "Xe máy chạy hàng ngang trái quy định phạt bao nhiêu tiền?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.087
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ có trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 2,
+        "time_s": 0.1
+      },
+      {
+        "question": "Người điều khiển xe máy không đội mũ bảo hiểm thì bị phạt bao nhiêu tiền?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Được sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác gồm những gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Người đi bộ qua đường không chấp hành hiệu lệnh hoặc chỉ dẫn của biển báo hiệu bị phạt bao nhiêu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Người đi bộ phải tuân thủ các quy định an toàn giao thông như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.108
+      },
+      {
+        "question": "Hành vi đá bóng, đá cầu, chơi cầu lông hoặc các hoạt động thể thao khác trái phép trên đường bộ thì bị phạt bao nhiêu tiền?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.487
+      },
+      {
+        "question": "Quy định về công tác tuyên truyền, phổ biến pháp luật về trật tự, an toàn giao thông đường bộ ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.099
+      },
+      {
+        "question": "Khi người tham gia giao thông đường bộ có hành vi cản trở, chống người thi hành công vụ thì giải quyết thế nào?",
+        "hit": true,
+        "num_docs": 2,
+        "time_s": 0.097
+      },
+      {
+        "question": "Người tham gia giao thông đường bộ gồm những ai?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.094
+      },
+      {
+        "question": "Lỗi không xi nhan khi rẽ trái xe máy là bao nhiêu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Người lái xe không được quay đầu xe trong các trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.102
+      },
+      {
+        "question": "Mức phạt vi phạm đối với người đi bộ đi sai phần đường là bao nhiêu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Người đi bộ có được đi vào đường cao tốc không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Cơ quan nào có trách nhiệm tổ chức tuyên truyền, phổ biến pháp luật về trật tự, an toàn giao thông đường bộ trên các phương tiện truyền thông?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.102
+      },
+      {
+        "question": "Hiệu lệnh của người điều khiển giao thông được quy định như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Người đi bộ qua đường không đúng nơi quy định phạt bao nhiêu?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.103
+      },
+      {
+        "question": "Hiệu lệnh của người điều khiển giao thông tay bên phải giơ về phía trước để báo hiệu cho người đi bộ qua đường đi như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Giáo dục kiến thức pháp luật về trật tự, an toàn giao thông đường bộ thực hiện như thế nào?",
+        "hit": true,
+        "num_docs": 2,
+        "time_s": 0.097
+      },
+      {
+        "question": "Lên xuống dốc thì xe nào phải nhường đường?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.097
+      },
+      {
+        "question": "Trường hợp nào phải thực hiện xác minh giấy phép lái xe?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Quy trình khai thác hệ thống thông tin đối với cấp, quản lý giấy phép lái xe quốc tế thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.099
+      },
+      {
+        "question": "Các xe phải nhường đường như thế nào khi tránh xe đi ngược chiều?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.086
+      },
+      {
+        "question": "Người lái xe phải dừng lại để bảo đảm an toàn trong trường hợp nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt có được vượt xe không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.103
+      },
+      {
+        "question": "Việc bảo đảm trật tự, an toàn giao thông đường bộ phải tuân thủ theo nguyên tắc nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Người đi xe đạp, xe đạp máy được phép chở mấy người?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.522
+      },
+      {
+        "question": "Xe đạp máy có bao gồm luôn cả xe đạp điện không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.081
+      },
+      {
+        "question": "Phát triển phương tiện giao thông đường bộ đồng bộ với gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.109
+      },
+      {
+        "question": "Người đi bộ phải tuân thủ các quy định gì khi tham gia giao thông?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.089
+      },
+      {
+        "question": "Người đi bộ đi sai phần đường bị phạt bao nhiêu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.114
+      },
+      {
+        "question": "Phương tiện tham gia giao thông đường bộ chỉ được sử dụng tín hiệu còi trong các trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.116
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn trong các trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.097
+      },
+      {
+        "question": "Quy định về bảo đảm an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ thế nào?",
+        "hit": true,
+        "num_docs": 1,
+        "time_s": 0.105
+      },
+      {
+        "question": "Hoạt động tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ bao gồm những hoạt động nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.113
+      },
+      {
+        "question": "Nhận biết tín hiệu đèn giao thông hiện nay như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.087
+      },
+      {
+        "question": "Quy tắc chung khi tham gia gia giao thông đường bộ cụ thể ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Hoạt động bảo đảm trật tự, an toàn giao thông đường bộ có phải thực hiện công khai không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.098
+      },
+      {
+        "question": "Kiến nghị về trật tự, an toàn giao thông đường bộ đối với công trình đường bộ thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.088
+      },
+      {
+        "question": "Người tham gia giao thông đường bộ phải chấp hành báo hiệu đường bộ theo thứ tự nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.127
+      },
+      {
+        "question": "Xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ phải đáp ứng các điều kiện nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Chở người ngồi sau xe ô tô không thắt dây an toàn có bị trừ điểm giấy phép lái xe không?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Người điều khiển phương tiện giao thông có được vượt xe ở phần đường dành cho người đi bộ qua đường không?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.091
+      },
+      {
+        "question": "Cấp lại bằng lái xe có được khôi phục điểm trên giấy phép lái xe không?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.147
+      },
+      {
+        "question": "Bằng lái xe hạng nào có thời hạn 5 năm kể từ ngày cấp?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.103
+      },
+      {
+        "question": "Người có bằng lái xe được đổi, cấp lại giấy phép lái xe trong trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Lên xuống dốc, xe nào phải nhường đường?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Xe máy chuyên dùng có được đi vào đường cao tốc không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.091
+      },
+      {
+        "question": "Đi xe máy chuyên dùng phải bật đèn chiếu sáng phía trước trong thời gian nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.765
+      },
+      {
+        "question": "Đi xe máy trên đường cao tốc phải tuân thủ quy tắc giao thông đường bộ nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.111
+      },
+      {
+        "question": "Đi xe máy trong hầm đường bộ phải tuân thủ quy tắc giao thông đường bộ nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.102
+      },
+      {
+        "question": "Xe máy vượt ô tô bên nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.093
+      },
+      {
+        "question": "Xe máy không được quay đầu xe ở nơi nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.089
+      },
+      {
+        "question": "Nguyên tắc bố trí vạch kẻ đường được quy định như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.087
+      },
+      {
+        "question": "Khi đang lái xe, thấy một người đi bộ đang sang đường trên vạch kẻ đường dành cho người đi bộ, người lái xe nên làm gì?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Các trường hợp được phép rẽ phải khi gặp đèn đỏ như thế nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Các hành vi mà người đi xe máy không được thực hiện khi tham gia giao thông?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.12
+      },
+      {
+        "question": "Độ tuổi được cấp giấy phép lái xe hạng A1 là bao nhiêu tuổi?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.113
+      },
+      {
+        "question": "Đổi, cấp lại giấy phép lái xe trong các trường hợp?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.109
+      },
+      {
+        "question": "Ô tô đang chạy có mở cửa xe được không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.117
+      },
+      {
+        "question": "Ô tô được bấm còi xe trong trường hợp nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.097
+      },
+      {
+        "question": "Giấy phép lái xe sau khi cấp lại có được giữ nguyên số điểm của giấy phép lái xe trước khi cấp lại không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.1
+      },
+      {
+        "question": "Khi nào giấy phép lái xe được đổi, cấp lại?",
+        "hit": true,
+        "num_docs": 2,
+        "time_s": 0.115
+      },
+      {
+        "question": "Quy định về kinh doanh vận tải hành khách bằng xe taxi như thế nào?",
+        "hit": true,
+        "num_docs": 2,
+        "time_s": 0.099
+      },
+      {
+        "question": "Người có giấy phép lái xe được đổi, cấp lại giấy phép trong trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.115
+      },
+      {
+        "question": "Hệ thống báo hiệu đường bộ gồm mấy loại?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.106
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ khi điều khiển phương tiện trong hầm đường bộ phải tuân thủ quy tắc giao thông đường bộ thế nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.111
+      },
+      {
+        "question": "Người lái xe máy không được vượt xe khác khi gặp trường hợp nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.107
+      },
+      {
+        "question": "Xe máy đi vào đường cao tốc có được không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.11
+      },
+      {
+        "question": "Thứ tự ưu tiên chấp hành báo hiệu đường bộ được xếp như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.118
+      },
+      {
+        "question": "Người điều khiển xe thô sơ phải sử dụng đèn hoặc có báo hiệu ở phía trước và phía sau xe vào khoảng thời gian nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.102
+      },
+      {
+        "question": "Chở trẻ em trên xe ô tô không có thiết bị an toàn bị phạt bao nhiêu tiền?",
+        "hit": true,
+        "num_docs": 2,
+        "time_s": 0.159
+      },
+      {
+        "question": "Bằng B lái được xe bao nhiêu chỗ?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.141
+      },
+      {
+        "question": "Bằng B có thời hạn bao lâu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.114
+      },
+      {
+        "question": "Lỗi sử dụng điện thoại khi đi xe máy bị phạt bao nhiêu tiền?",
+        "hit": false,
+        "num_docs": 2,
+        "time_s": 0.407
+      },
+      {
+        "question": "Chở người ngồi sau không thắt dây an toàn có tịch thu giấy phép lái xe không?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.234
+      },
+      {
+        "question": "Quy định về quy tắc chung khi tham gia giao thông đường bộ như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ có được dừng xe, đỗ xe trên cầu không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.092
+      },
+      {
+        "question": "Khi tín hiệu đèn màu vàng nhấp nháy, người điều khiển phương tiện tham gia giao thông đường bộ có được phép đi không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.099
+      },
+      {
+        "question": "Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, người đi xe ô tô phải nhường đường thế nào là đúng luật?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.104
+      },
+      {
+        "question": "Người đi xe ô tô tham gia giao thông đường bộ khi dừng xe, đỗ xe trên đường phải thực hiện các quy định nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.091
+      },
+      {
+        "question": "Người điều khiển xe mô tô di chuyển với tốc độ thấp hơn phải đi bên phía nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      },
+      {
+        "question": "Người điều khiển xe mô tô khi vượt các xe phải vượt bên nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.117
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ có quyền ra sao?",
+        "hit": true,
+        "num_docs": 2,
+        "time_s": 0.098
+      },
+      {
+        "question": "Khi nào xe đạp được chở theo 2 người trên xe?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.097
+      },
+      {
+        "question": "Người được chở trên xe đạp khi tham gia giao thông đường bộ không được thực hiện các hành vi nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.101
+      },
+      {
+        "question": "Chính sách của Nhà nước về trật tự, an toàn giao thông đường bộ ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.096
+      }
+    ]
+  },
+  "tri_hybrid": {
+    "name": "Tri-Hybrid Search",
+    "hits": 163,
+    "total": 191,
+    "hit_rate": 0.8534,
+    "details": [
+      {
+        "question": "Xe ô tô chuyên dùng có niên hạn sử dụng bao nhiêu năm?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.572
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ phải bảo đảm tốc độ như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.278
+      },
+      {
+        "question": "Cấp đổi biển số xe mô tô mất bao lâu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.304
+      },
+      {
+        "question": "Biển số xe bị mờ có phải cấp đổi không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.268
+      },
+      {
+        "question": "Xe ô tô không được đỗ xe tại những nơi nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.368
+      },
+      {
+        "question": "Nguyên tắc bảo đảm trật tự, an toàn giao thông đường bộ là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.29
+      },
+      {
+        "question": "Nhà nước có chính sách gì về trật tự, an toàn giao thông đường bộ?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.291
+      },
+      {
+        "question": "Thời hạn cấp đổi biển số xe ô tô mất bao lâu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.806
+      },
+      {
+        "question": "Cơ quan đăng ký xe và cán bộ đăng ký xe có trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.262
+      },
+      {
+        "question": "Ô tô chở quá số người theo quy định có phải là hành vi bị nghiêm cấm không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.695
+      },
+      {
+        "question": "Vận chuyển hành khách bằng xe ô tô phải tuân thủ quy định gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.282
+      },
+      {
+        "question": "Cách xác định thời hạn đăng kiểm các loại xe 2026 ra sao?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.259
+      },
+      {
+        "question": "Xe máy xin vượt chỉ được vượt khi nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.241
+      },
+      {
+        "question": "Khi tham gia giao thông đường bộ, người điều khiển phương tiện giao thông không được vượt xe trong trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.261
+      },
+      {
+        "question": "Giấy phép lái xe có bao nhiêu điểm?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.316
+      },
+      {
+        "question": "Năm 2026, có mấy loại bằng lái xe máy?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.294
+      },
+      {
+        "question": "Điểm bằng lái xe máy là bao nhiêu điểm?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.308
+      },
+      {
+        "question": "Sơ mi rơ moóc được kéo bởi máy kéo có phải là xe máy chuyên dùng không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.28
+      },
+      {
+        "question": "Chủ xe cơ giới, xe máy chuyên dùng và người điều khiển xe cơ giới, xe máy chuyên dùng có trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.29
+      },
+      {
+        "question": "Bán xe có phải làm giữ lại chứng nhận đăng ký xe không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.376
+      },
+      {
+        "question": "Bán xe làm thủ tục thu hồi tại đâu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.51
+      },
+      {
+        "question": "Nguyên tắc bảo đảm trật tự, an toàn giao thông đường bộ như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.238
+      },
+      {
+        "question": "Người lái xe ô tô kinh doanh vận tải và vận tải nội bộ được lái xe liên tục trong bao nhiêu giờ?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.802
+      },
+      {
+        "question": "Có bao nhiêu hình thức xử phạt bổ sung trong xử phạt vi phạm giao thông đường bộ?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.467
+      },
+      {
+        "question": "Người lái xe phải tắt đèn chiếu xa, bật đèn chiếu gần trong các trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.438
+      },
+      {
+        "question": "Lái xe có nồng độ cồn là hành vi bị nghiêm cấm không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.659
+      },
+      {
+        "question": "Cơ quan nào quy định về xác định nồng độ cồn và nồng độ cồn nội sinh trong máu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.512
+      },
+      {
+        "question": "Có những hình thức xử phạt bổ sung nào về trật tự, an toàn giao thông đường bộ theo Nghị định 168?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.51
+      },
+      {
+        "question": "Theo chức năng phục vụ thì đường bộ được phân loại như thế nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.393
+      },
+      {
+        "question": "Xe máy gặp đèn vàng nhấp nháy có được đi không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.398
+      },
+      {
+        "question": "Trình tự, thủ tục trừ điểm giấy phép lái xe được quy định cụ thể ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.73
+      },
+      {
+        "question": "Những lưu ý về sử dụng làn đường khi tham gia giao thông hiện nay như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.413
+      },
+      {
+        "question": "Xe máy vượt xe bên phải hay bên trái?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.38
+      },
+      {
+        "question": "Nguyên tắc lắp đặt đèn tín hiệu giao thông là gì?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.329
+      },
+      {
+        "question": "Đỗ xe ô tô trên vỉa hè trái quy định phạt bao nhiêu 2026?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 1.25
+      },
+      {
+        "question": "Đỗ xe máy trên vỉa hè trái phép bị phạt bao nhiêu 2026?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.541
+      },
+      {
+        "question": "Xe đỗ trên đường dốc phải đánh lái như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.734
+      },
+      {
+        "question": "Bảo đảm trật tự an toán giao thông đường bộ là trách nhiệm của ai?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.23
+      },
+      {
+        "question": "Người đi xe máy phải quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn trong trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.887
+      },
+      {
+        "question": "Trên một chiều đường có vạch kẻ phân làn đường, người đi xe máy phải đi trên làn đường bên trái hay bên phải?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.483
+      },
+      {
+        "question": "Người đi bộ phải tuân thủ quy định gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.359
+      },
+      {
+        "question": "Có nhiều hành vi vi phạm thì điểm giấy phép lái xe trừ thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.536
+      },
+      {
+        "question": "Quy tắc chung khi tham gia giao thông đường bộ như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.643
+      },
+      {
+        "question": "Xe ô tô vận tải nội bộ phải được niêm yết (dán cố định) cụm từ “XE NỘI BỘ” lên xe?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.522
+      },
+      {
+        "question": "Người đi bộ có được vượt qua dải phân cách không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.545
+      },
+      {
+        "question": "Phương tiện tham gia giao thông đường bộ di chuyển với tốc độ thấp hơn phải đi về phía nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.384
+      },
+      {
+        "question": "Xử phạt vi phạm hành chính giao thông có lập biên bản của cảnh sát giao thông như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.623
+      },
+      {
+        "question": "Xe ưu tiên nào phải có tín hiệu ưu tiên?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.942
+      },
+      {
+        "question": "Xe ô tô không nhường đường cho xe ưu tiên bị phạt bao nhiêu tiền?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.617
+      },
+      {
+        "question": "Các trường hợp nào nhường đường khi tránh nhau?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.463
+      },
+      {
+        "question": "Nhân viên phục vụ trên xe ô tô vận chuyển hành khách có trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.306
+      },
+      {
+        "question": "Lỗi đi vào đường cấm giờ xe tải trừ bao nhiêu điểm bằng lái?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.569
+      },
+      {
+        "question": "Tổ chức thẩm định an toàn giao thông có trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.386
+      },
+      {
+        "question": "Điều kiện kinh doanh dịch vụ thẩm tra an toàn giao thông đường bộ là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.273
+      },
+      {
+        "question": "Xe cơ giới tham gia giao thông đường bộ phải đáp ứng được các điều kiện nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.263
+      },
+      {
+        "question": "Niên hạn sử dụng của xe cơ giới được tính như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.295
+      },
+      {
+        "question": "Biển số xe nền màu xanh, chữ và số màu trắng cấp cho xe nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.424
+      },
+      {
+        "question": "Thời hạn của giấy phép lái xe A1 là bao nhiêu năm?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.351
+      },
+      {
+        "question": "Hoạt động trạm thu phí đường bộ bao gồm những hoạt động nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.264
+      },
+      {
+        "question": "Quy định về dữ liệu thu tiền sử dụng đường bộ ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.234
+      },
+      {
+        "question": "Thời gian thông báo công khai, niêm yết Quy chế đấu giá, danh sách biển số xe đưa ra đấu giá ít nhất bao nhiêu ngày trước ngày tổ chức phiên đấu giá?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.357
+      },
+      {
+        "question": "Các bước thực hiện một cuộc đấu giá biển số xe thực hiện thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.228
+      },
+      {
+        "question": "Việc kiểm định an toàn kỹ thuật và bảo vệ môi trường xe ô tô do ai thực hiện?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.324
+      },
+      {
+        "question": "Cơ quan nào chịu trách nhiệm về kết quả kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.28
+      },
+      {
+        "question": "Những loại xe nào được coi là xe cơ giới?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.253
+      },
+      {
+        "question": "Xe cơ giới dùng tham gia giao thông đường bộ phải đáp ứng các điều kiện nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.257
+      },
+      {
+        "question": "Nguyên tắc hoạt động của cơ sở đăng kiểm là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.232
+      },
+      {
+        "question": "Cơ cấu tổ chức của cơ sở đăng kiểm cụ thể như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.242
+      },
+      {
+        "question": "Nguyên tắc hoạt động của cơ sở đăng kiểm xe cơ giới là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.284
+      },
+      {
+        "question": "Cơ sở đăng kiểm xe cơ giới bị tạm đình chỉ hoạt động kiểm định khi nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.225
+      },
+      {
+        "question": "Đấu giá biển số xe được quy định như thế nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.223
+      },
+      {
+        "question": "Truất quyền tham gia đấu giá biển số xe trong trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.254
+      },
+      {
+        "question": "Yêu cầu đối với việc đổi giấy phép lái xe do ngành Giao thông vận tải cấp là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.544
+      },
+      {
+        "question": "Xe trước có tín hiệu rẽ trái thì có được vượt về bên phải không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.704
+      },
+      {
+        "question": "Tín hiệu báo hướng rẽ trái phải sử dụng liên tục trong quá trình chuyển hướng xe đúng không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.894
+      },
+      {
+        "question": "Tài xế xe taxi có quyền hạn và trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.279
+      },
+      {
+        "question": "Hành khách đi xe taxi có quyền hạn và trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.906
+      },
+      {
+        "question": "Xe ô tô kinh doanh vận tải có phải lắp thiết bị giám sát hành trình không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.54
+      },
+      {
+        "question": "Độ tuổi của người điều khiển phương tiện tham gia giao thông đường bộ cần đáp ứng là gì?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.685
+      },
+      {
+        "question": "Người lái xe ô tô chớ người đến 8 chỗ phải có giấy phép lái xe ít nhất là hạng gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.823
+      },
+      {
+        "question": "Tài xế lái xe khi chuyển hướng xe phải đảm bảo quy định gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.624
+      },
+      {
+        "question": "Không được lùi xe ở đoạn đường nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.683
+      },
+      {
+        "question": "Người từ bao nhiêu tuổi được thi bằng lái xe hạng B1?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.456
+      },
+      {
+        "question": "Bao nhiêu tuổi mới được cấp bằng lái xe CE?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.444
+      },
+      {
+        "question": "Bằng lái xe CE có thời hạn bao lâu kể từ ngày cấp?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.572
+      },
+      {
+        "question": "Cảnh sát giao thông được dừng xe để kiểm tra, kiểm soát khi nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.388
+      },
+      {
+        "question": "Cảnh sát giao thông thực hiện nhiệm vụ gì khi thực hiện tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.46
+      },
+      {
+        "question": "Hiệu lệnh của người điều khiển giao thông đường bộ có phải là báo hiệu đường bộ không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.415
+      },
+      {
+        "question": "Ai là người quy định chi tiết về khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.329
+      },
+      {
+        "question": "Thời hiệu xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ là bao lâu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.466
+      },
+      {
+        "question": "Điều kiện của người lái xe gắn máy tham gia giao thông đường bộ cần đáp ứng những gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.353
+      },
+      {
+        "question": "Bằng lái xe bị hỏng có được đổi, cấp lại không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.384
+      },
+      {
+        "question": "Việc đào tạo để nâng hạng bằng lái xe thực hiện đối với đối tượng nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.301
+      },
+      {
+        "question": "Khung hình phạt nồng độ cồn đối với xe máy theo Nghị định 168 được quy định ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.697
+      },
+      {
+        "question": "Xe máy phải bật đèn chiếu sáng phía trước từ mấy giờ đến mấy giờ?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.347
+      },
+      {
+        "question": "Xe máy không được sử dụng tín hiệu còi trong trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.227
+      },
+      {
+        "question": "Xử phạt vi phạm hành chính giao thông có lập biên bản của cảnh sát giao thông ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.501
+      },
+      {
+        "question": "Ghi Sổ kế hoạch và nhật ký tuần tra, kiểm soát giao thông đường bộ của cảnh sát giao thông thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.241
+      },
+      {
+        "question": "Giấy phép lái xe hạng A1 có được phép điều khiển xe có dung tích xi-lanh trên 125 cm3 không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.427
+      },
+      {
+        "question": "Giấy phép lái xe hạng A1 được điều khiển những loại xe nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.405
+      },
+      {
+        "question": "Hoạt động tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ gồm những hoạt động nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.259
+      },
+      {
+        "question": "Quy tắc chung khi tham gia giao thông đường bộ là gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.222
+      },
+      {
+        "question": "Người 17 tuổi điều khiển xe mô tô bị phạt bao nhiêu tiền?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.431
+      },
+      {
+        "question": "Quy định độ tuổi lái xe máy hiện nay như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.232
+      },
+      {
+        "question": "Xe máy chạy hàng ngang trái quy định phạt bao nhiêu tiền?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.414
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ có trách nhiệm gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.608
+      },
+      {
+        "question": "Người điều khiển xe máy không đội mũ bảo hiểm thì bị phạt bao nhiêu tiền?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 1.039
+      },
+      {
+        "question": "Được sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác gồm những gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.475
+      },
+      {
+        "question": "Người đi bộ qua đường không chấp hành hiệu lệnh hoặc chỉ dẫn của biển báo hiệu bị phạt bao nhiêu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.547
+      },
+      {
+        "question": "Người đi bộ phải tuân thủ các quy định an toàn giao thông như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.33
+      },
+      {
+        "question": "Hành vi đá bóng, đá cầu, chơi cầu lông hoặc các hoạt động thể thao khác trái phép trên đường bộ thì bị phạt bao nhiêu tiền?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.667
+      },
+      {
+        "question": "Quy định về công tác tuyên truyền, phổ biến pháp luật về trật tự, an toàn giao thông đường bộ ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.382
+      },
+      {
+        "question": "Khi người tham gia giao thông đường bộ có hành vi cản trở, chống người thi hành công vụ thì giải quyết thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.503
+      },
+      {
+        "question": "Người tham gia giao thông đường bộ gồm những ai?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.394
+      },
+      {
+        "question": "Lỗi không xi nhan khi rẽ trái xe máy là bao nhiêu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.683
+      },
+      {
+        "question": "Người lái xe không được quay đầu xe trong các trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.578
+      },
+      {
+        "question": "Mức phạt vi phạm đối với người đi bộ đi sai phần đường là bao nhiêu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.693
+      },
+      {
+        "question": "Người đi bộ có được đi vào đường cao tốc không?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.444
+      },
+      {
+        "question": "Cơ quan nào có trách nhiệm tổ chức tuyên truyền, phổ biến pháp luật về trật tự, an toàn giao thông đường bộ trên các phương tiện truyền thông?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.589
+      },
+      {
+        "question": "Hiệu lệnh của người điều khiển giao thông được quy định như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.785
+      },
+      {
+        "question": "Người đi bộ qua đường không đúng nơi quy định phạt bao nhiêu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.579
+      },
+      {
+        "question": "Hiệu lệnh của người điều khiển giao thông tay bên phải giơ về phía trước để báo hiệu cho người đi bộ qua đường đi như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.414
+      },
+      {
+        "question": "Giáo dục kiến thức pháp luật về trật tự, an toàn giao thông đường bộ thực hiện như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.254
+      },
+      {
+        "question": "Lên xuống dốc thì xe nào phải nhường đường?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.219
+      },
+      {
+        "question": "Trường hợp nào phải thực hiện xác minh giấy phép lái xe?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.408
+      },
+      {
+        "question": "Quy trình khai thác hệ thống thông tin đối với cấp, quản lý giấy phép lái xe quốc tế thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.569
+      },
+      {
+        "question": "Các xe phải nhường đường như thế nào khi tránh xe đi ngược chiều?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.852
+      },
+      {
+        "question": "Người lái xe phải dừng lại để bảo đảm an toàn trong trường hợp nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 1.017
+      },
+      {
+        "question": "Nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt có được vượt xe không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 1.451
+      },
+      {
+        "question": "Việc bảo đảm trật tự, an toàn giao thông đường bộ phải tuân thủ theo nguyên tắc nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.465
+      },
+      {
+        "question": "Người đi xe đạp, xe đạp máy được phép chở mấy người?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.616
+      },
+      {
+        "question": "Xe đạp máy có bao gồm luôn cả xe đạp điện không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.396
+      },
+      {
+        "question": "Phát triển phương tiện giao thông đường bộ đồng bộ với gì?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.417
+      },
+      {
+        "question": "Người đi bộ phải tuân thủ các quy định gì khi tham gia giao thông?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.348
+      },
+      {
+        "question": "Người đi bộ đi sai phần đường bị phạt bao nhiêu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.391
+      },
+      {
+        "question": "Phương tiện tham gia giao thông đường bộ chỉ được sử dụng tín hiệu còi trong các trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.368
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn trong các trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.318
+      },
+      {
+        "question": "Quy định về bảo đảm an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.34
+      },
+      {
+        "question": "Hoạt động tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ bao gồm những hoạt động nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.712
+      },
+      {
+        "question": "Nhận biết tín hiệu đèn giao thông hiện nay như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.342
+      },
+      {
+        "question": "Quy tắc chung khi tham gia gia giao thông đường bộ cụ thể ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.673
+      },
+      {
+        "question": "Hoạt động bảo đảm trật tự, an toàn giao thông đường bộ có phải thực hiện công khai không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.334
+      },
+      {
+        "question": "Kiến nghị về trật tự, an toàn giao thông đường bộ đối với công trình đường bộ thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.401
+      },
+      {
+        "question": "Người tham gia giao thông đường bộ phải chấp hành báo hiệu đường bộ theo thứ tự nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.64
+      },
+      {
+        "question": "Xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ phải đáp ứng các điều kiện nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.437
+      },
+      {
+        "question": "Chở người ngồi sau xe ô tô không thắt dây an toàn có bị trừ điểm giấy phép lái xe không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 1.053
+      },
+      {
+        "question": "Người điều khiển phương tiện giao thông có được vượt xe ở phần đường dành cho người đi bộ qua đường không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.693
+      },
+      {
+        "question": "Cấp lại bằng lái xe có được khôi phục điểm trên giấy phép lái xe không?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.93
+      },
+      {
+        "question": "Bằng lái xe hạng nào có thời hạn 5 năm kể từ ngày cấp?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.583
+      },
+      {
+        "question": "Người có bằng lái xe được đổi, cấp lại giấy phép lái xe trong trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.711
+      },
+      {
+        "question": "Lên xuống dốc, xe nào phải nhường đường?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.319
+      },
+      {
+        "question": "Xe máy chuyên dùng có được đi vào đường cao tốc không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.633
+      },
+      {
+        "question": "Đi xe máy chuyên dùng phải bật đèn chiếu sáng phía trước trong thời gian nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.541
+      },
+      {
+        "question": "Đi xe máy trên đường cao tốc phải tuân thủ quy tắc giao thông đường bộ nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.532
+      },
+      {
+        "question": "Đi xe máy trong hầm đường bộ phải tuân thủ quy tắc giao thông đường bộ nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.319
+      },
+      {
+        "question": "Xe máy vượt ô tô bên nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.341
+      },
+      {
+        "question": "Xe máy không được quay đầu xe ở nơi nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.458
+      },
+      {
+        "question": "Nguyên tắc bố trí vạch kẻ đường được quy định như thế nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.413
+      },
+      {
+        "question": "Khi đang lái xe, thấy một người đi bộ đang sang đường trên vạch kẻ đường dành cho người đi bộ, người lái xe nên làm gì?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.441
+      },
+      {
+        "question": "Các trường hợp được phép rẽ phải khi gặp đèn đỏ như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.412
+      },
+      {
+        "question": "Các hành vi mà người đi xe máy không được thực hiện khi tham gia giao thông?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.527
+      },
+      {
+        "question": "Độ tuổi được cấp giấy phép lái xe hạng A1 là bao nhiêu tuổi?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.428
+      },
+      {
+        "question": "Đổi, cấp lại giấy phép lái xe trong các trường hợp?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.403
+      },
+      {
+        "question": "Ô tô đang chạy có mở cửa xe được không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.521
+      },
+      {
+        "question": "Ô tô được bấm còi xe trong trường hợp nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.361
+      },
+      {
+        "question": "Giấy phép lái xe sau khi cấp lại có được giữ nguyên số điểm của giấy phép lái xe trước khi cấp lại không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.434
+      },
+      {
+        "question": "Khi nào giấy phép lái xe được đổi, cấp lại?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.422
+      },
+      {
+        "question": "Quy định về kinh doanh vận tải hành khách bằng xe taxi như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.361
+      },
+      {
+        "question": "Người có giấy phép lái xe được đổi, cấp lại giấy phép trong trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.376
+      },
+      {
+        "question": "Hệ thống báo hiệu đường bộ gồm mấy loại?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.421
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ khi điều khiển phương tiện trong hầm đường bộ phải tuân thủ quy tắc giao thông đường bộ thế nào?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.338
+      },
+      {
+        "question": "Người lái xe máy không được vượt xe khác khi gặp trường hợp nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.37
+      },
+      {
+        "question": "Xe máy đi vào đường cao tốc có được không?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 1.043
+      },
+      {
+        "question": "Thứ tự ưu tiên chấp hành báo hiệu đường bộ được xếp như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.908
+      },
+      {
+        "question": "Người điều khiển xe thô sơ phải sử dụng đèn hoặc có báo hiệu ở phía trước và phía sau xe vào khoảng thời gian nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 1.019
+      },
+      {
+        "question": "Chở trẻ em trên xe ô tô không có thiết bị an toàn bị phạt bao nhiêu tiền?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 1.371
+      },
+      {
+        "question": "Bằng B lái được xe bao nhiêu chỗ?",
+        "hit": false,
+        "num_docs": 3,
+        "time_s": 0.491
+      },
+      {
+        "question": "Bằng B có thời hạn bao lâu?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.453
+      },
+      {
+        "question": "Lỗi sử dụng điện thoại khi đi xe máy bị phạt bao nhiêu tiền?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.82
+      },
+      {
+        "question": "Chở người ngồi sau không thắt dây an toàn có tịch thu giấy phép lái xe không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.649
+      },
+      {
+        "question": "Quy định về quy tắc chung khi tham gia giao thông đường bộ như thế nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.326
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ có được dừng xe, đỗ xe trên cầu không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.402
+      },
+      {
+        "question": "Khi tín hiệu đèn màu vàng nhấp nháy, người điều khiển phương tiện tham gia giao thông đường bộ có được phép đi không?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.327
+      },
+      {
+        "question": "Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, người đi xe ô tô phải nhường đường thế nào là đúng luật?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.746
+      },
+      {
+        "question": "Người đi xe ô tô tham gia giao thông đường bộ khi dừng xe, đỗ xe trên đường phải thực hiện các quy định nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.688
+      },
+      {
+        "question": "Người điều khiển xe mô tô di chuyển với tốc độ thấp hơn phải đi bên phía nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.627
+      },
+      {
+        "question": "Người điều khiển xe mô tô khi vượt các xe phải vượt bên nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.465
+      },
+      {
+        "question": "Người điều khiển phương tiện tham gia giao thông đường bộ có quyền ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.262
+      },
+      {
+        "question": "Khi nào xe đạp được chở theo 2 người trên xe?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.347
+      },
+      {
+        "question": "Người được chở trên xe đạp khi tham gia giao thông đường bộ không được thực hiện các hành vi nào?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.355
+      },
+      {
+        "question": "Chính sách của Nhà nước về trật tự, an toàn giao thông đường bộ ra sao?",
+        "hit": true,
+        "num_docs": 3,
+        "time_s": 0.269
+      }
+    ]
+  }
+}

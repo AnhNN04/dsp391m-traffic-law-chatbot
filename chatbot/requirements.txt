@@ -3,7 +3,7 @@ langchain                # The core engine for everything
 langchain-openai         # Talking to GPT models
 langchain-groq           # Super fast inference with Groq
 langchain-community      # Extra tools from the community
-langchain-google-genai   # Using Google's Gemini models
+langchain-huggingface
 
 # Agents & Workflow 
 langgraph                # Building smart agents with loops

@@ -2,7 +2,7 @@
 ChromaDB Vector Store Implementation
 
 Concrete implementation of IVectorStore using ChromaDB for vector similarity search.
-Uses Google's embedding model for high-quality semantic search.
+Uses HuggingFace's multilingual-e5-small model for semantic search.
 
 Author: AnhNN217-FHN
 """
@@ -11,7 +11,7 @@ from typing import List, Optional
 import os
 
 from langchain_chroma import Chroma
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_core.documents import Document
 
 from app.domain.interfaces import IVectorStore
@@ -26,12 +26,12 @@ class ChromaRepo(IVectorStore):
     """
     ChromaDB implementation of IVectorStore.
     
-    Uses Google's text-embedding-004 model for semantic search.
+    Uses HuggingFace's intfloat/multilingual-e5-small model for semantic search.
     Stores embeddings locally in ./data/chroma_db directory.
     
     Attributes:
         client: Chroma vector store instance
-        embeddings: Google embedding function
+        embeddings: HuggingFace embedding function
         collection_name: Name of the Chroma collection
         persist_directory: Local path for persistence
     
@@ -46,8 +46,7 @@ class ChromaRepo(IVectorStore):
         self,
         persist_directory: str = "./data/chroma_db",
         collection_name: str = "legal_documents",
-        google_api_key: str = None,
-        embedding_model: str = "models/embedding-004"
+        embedding_model: str = "intfloat/multilingual-e5-small"
     ):
         """
         Initialize ChromaDB repository.
@@ -64,17 +63,9 @@ class ChromaRepo(IVectorStore):
         try:
             os.makedirs(persist_directory, exist_ok=True)
             
-            # Initialize embeddings — use Google if key available, else use simple
-            if google_api_key:
-                logger.info("Initializing Google embeddings", model=embedding_model)
-                self.embeddings = GoogleGenerativeAIEmbeddings(
-                    google_api_key=google_api_key,
-                    model=embedding_model
-                )
-            else:
-                # Fallback: sử dụng embedding đơn giản (không cần API key)
-                logger.warning("No GOOGLE_API_KEY — using default Chroma embedding (no semantic search)")
-                self.embeddings = None
+            # Initialize embeddings using HuggingFace
+            logger.info(f"Initializing HuggingFace embeddings: {embedding_model}")
+            self.embeddings = HuggingFaceEmbeddings(model_name=embedding_model)
             
             logger.info(
                 "Initializing ChromaDB client",
@@ -348,7 +339,6 @@ class ChromaRepo(IVectorStore):
             >>> repo = ChromaRepo.from_settings()
         """
         return cls(
-            google_api_key=settings.GOOGLE_API_KEY,
             persist_directory=settings.CHROMA_PERSIST_DIR,
             collection_name=settings.CHROMA_COLLECTION_NAME,
             embedding_model=settings.EMBEDDING_MODEL

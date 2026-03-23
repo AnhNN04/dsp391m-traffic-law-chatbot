@@ -49,6 +49,7 @@ class Container:
         self._openai_service: Optional[Any] = None
         self._groq_service: Optional[Any] = None
         self._neo4j_repo: Optional[Any] = None
+        self._chroma_repo: Optional[Any] = None
         self._tavily_service: Optional[Any] = None
         
         # --- Application Nodes Cache ---
@@ -103,6 +104,20 @@ class Container:
         return self._neo4j_repo
 
     @property
+    def chroma_repo(self) -> Optional["ChromaRepo"]:
+        """Khởi tạo Vector Store (ChromaDB)."""
+        if self._chroma_repo is None:
+            logger.info("🔧 Initializing ChromaDB repository...")
+            try:
+                from app.infrastructure.persistence.chroma_repo import ChromaRepo
+                self._chroma_repo = ChromaRepo.from_settings()
+                logger.info("✅ ChromaDB ready.")
+            except Exception as e:
+                logger.error(f"⚠️ ChromaDB failed to start: {e}. Vector search is disabled.")
+                self._chroma_repo = None
+        return self._chroma_repo
+
+    @property
     def tavily_service(self) -> Optional["TavilyService"]:
         """Khởi tạo Web Search Service (Tavily)."""
         if self._tavily_service is None and self.settings.has_web_search():
@@ -140,7 +155,8 @@ class Container:
         if self._retrieval_node is None:
             from app.application.nodes.retrieval_node import RetrievalNode
             self._retrieval_node = RetrievalNode(
-                graph_store=self.neo4j_repo,  # Only Neo4j
+                graph_store=self.neo4j_repo,
+                vector_store=self.chroma_repo,
                 smart_llm=self.groq_service
             )
         return self._retrieval_node

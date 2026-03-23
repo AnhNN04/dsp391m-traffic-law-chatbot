@@ -1,0 +1,440 @@
+**BỘ CÔNG AN**
+
+Số: 81/2024/TT-BCA _Hà Nội, ngày 15 tháng 11 năm 2024_
+
+**THÔNG TƯ**
+
+BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BIỂN SỐ XE
+
+_Căn cứ Luật Trật tự, an toàn giao thông đường bộ ngày 27 tháng 6 năm 2024;_
+
+_Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006 và Luật sửa đổi, bổ sung một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 20 tháng 11 năm 2018;_
+
+_Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật và Nghị định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật;_
+
+_Căn cứ Nghị định số 01/2018/NĐ-CP ngày 06 tháng 8 năm 2018 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công an;_
+
+_Theo đề nghị của Cục trưởng Cục Cảnh sát giao thông;_
+
+_Bộ trưởng Bộ Công an ban hành Quy chuẩn kỹ thuật quốc gia về biển số xe._
+
+**Điều 1. Quy chuẩn kỹ thuật quốc gia về biển số xe**
+
+Ban hành kèm theo Thông tư này Quy chuẩn kỹ thuật quốc gia về biển số xe.
+
+**Điều 2. Hiệu lực thi hành**
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2025.
+
+2. Bãi bỏ Quyết định số 6368/QĐ-BCA ngày 18 tháng 9 năm 2023 của Bộ trưởng Bộ Công an về việc ban hành Tiêu chuẩn cơ sở của Bộ Công an.
+
+**Điều 3. Trách nhiệm thi hành**
+
+1. Cục trưởng Cục Cảnh sát giao thông có trách nhiệm theo dõi, hướng dẫn, kiểm tra, đôn đốc việc thực hiện Thông tư này.
+
+2. Thủ trưởng đơn vị thuộc cơ quan Bộ, Giám đốc Công an tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.
+
+Trong quá trình thực hiện Thông tư này, nếu có khó khăn, vướng mắc, Công an các đơn vị, địa phương, tổ chức, cá nhân có liên quan báo cáo về Bộ Công an (qua Cục Cảnh sát giao thông) để kịp thời hướng dẫn./.
+
+**BỘ TRƯỞNG**
+
+_**Nơi nhận:**_
+
+- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
+
+- UBND các tỉnh, thành phố trực thuộc Trung ương;
+
+- Các đồng chí Thứ trưởng Bộ Công an;
+
+- Công an các đơn vị, địa phương;
+
+- Cục Kiểm tra văn bản QPPL - Bộ Tư pháp;
+
+- Công báo;
+
+- Cổng thông tin điện tử: Chính phủ, Bộ Công an;
+
+- Lưu: VT, C08, V03, V04.
+
+**Đại tướng Lương Tam Quang**
+
+**QCVN 08: 2024/BCA**
+
+QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BIỂN SỐ XE
+
+_National technical regulation on vehice license plates_
+
+**MỤC LỤC**
+
+**Lời nói đầu**
+
+I. QUY ĐỊNH CHUNG
+
+1. Phạm vi điều chỉnh
+
+2. Đối tượng áp dụng
+
+3. Tài liệu viện dẫn
+
+4. Giải thích từ ngữ
+
+II. QUY ĐỊNH VỀ KỸ THUẬT
+
+1. Cấu tạo và đặc điểm
+
+1.1. Quy định chung
+
+1.2. Biển số xe ô tô
+
+1.3. Biển số xe mô tô
+
+1.4. Màu sắc biển số xe
+
+2. Yêu cầu về vật liệu hợp kim nhôm tấm
+
+3. Yêu cầu về màng phản quang
+
+3.1. Các ký tự đặc biệt trên màng phản quang
+
+3.2. Yêu cầu về hệ số phản quang
+
+3.3. Yêu cầu về độ đồng nhất phản quang
+
+3.4. Yêu cầu về màu sắc
+
+3.5. Yêu cầu về độ bám dính
+
+3.6. Yêu cầu về độ bền va đập
+
+3.7. Yêu cầu kỹ thuật khác
+
+4. Yêu cầu về mực (hoặc sơn)
+
+5. Thử nghiệm
+
+5.1. Chuẩn bị mẫu thử
+
+5.2. Đo hệ số phản quang
+
+5.3. Đo màu sắc ban ngày
+
+5.4. Đo màu sắc ban đêm
+
+5.5. Đo độ bám dính với nền
+
+5.6. Đo độ bền va đập
+
+5.7. Các thử nghiệm khác
+
+III. QUY ĐỊNH VỀ QUẢN LÝ
+
+1. Quy định về sản xuất, cung ứng biển số xe
+
+2. Lưu mẫu và bảo quản
+
+3. Quy định về công nhận kết quả thử nghiệm
+
+4. Quy định về kiểm tra
+
+IV. TỔ CHỨC THỰC HIỆN
+
+**PHỤ LỤC**
+
+**Lời nói đầu**
+
+QCVN 08: 2024/BCA do Cục Cảnh sát giao thông biên soạn, Bộ Khoa học và công nghệ thẩm định, Bộ trưởng Bộ Công an ban hành kèm theo Thông tư số 81/2024/TT-BCA ngày 15 tháng 11 năm 2024
+
+**QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ BIỂN SỐ XE**
+
+**I. QUY ĐỊNH CHUNG**
+
+**1. Phạm vi điều chỉnh**
+
+Quy chuẩn này quy định về cấu tạo, quy cách, yêu cầu kỹ thuật, thử nghiệm, lưu mẫu, bảo quản, sản xuất biển số xe; công nhận kết quả thử nghiệm và tổ chức thực hiện đối với biển số xe cơ giới, xe máy chuyên dùng.
+
+**2. Đối tượng áp dụng**
+
+Quy chuẩn này áp dụng đối với cơ quan, tổ chức, cá nhân trong nước và cơ quan, tổ chức, cá nhân nước ngoài có trụ sở hoặc cư trú hợp pháp trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam liên quan đến sản xuất, cung ứng, đặt hàng sản xuất, sử dụng biển số xe thuộc phạm vi quản lý của Bộ Công an.
+
+**3. Tài liệu viện dẫn**
+
+Các tài liệu viện dẫn sau đây là cần thiết khi áp dụng Quy chuẩn này. Đối với các tài liệu viện dẫn thì áp dụng phiên bản mới nhất, bao gồm cả các văn bản sửa đổi (nếu có):
+
+- ISO 7591: 1982 Phương tiện đường bộ - Biển số xe phản quang đối với phương tiện có động cơ và xe đầu kéo - Yêu cầu kỹ thuật (ISO 7591: 1982 Road vehicles - Retro reflective registration plates for motor vehicles and trailers - Specification).
+
+- TCVN 7887: 2018 Màng phản quang dùng cho báo hiệu đường bộ.
+
+- TCVN 13065: 2020 (ISO 6361: 2011) Nhôm và hợp kim nhôm gia công áp lực - tấm mỏng, băng và tấm.
+
+**4. Giải thích từ ngữ**
+
+Trong Quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
+
+4.1. _Biển số xe_ gồm biển số xe ô tô, rơ moóc, sơ mi rơ moóc, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ, xe máy chuyên dùng (sau đây gọi chung là biển số xe ô tô); biển số xe mô tô, xe gắn máy (sau đây gọi chung là biển số xe mô tô).
+
+4.2. _Màng phản quang_ là tấm nhựa mỏng, phẳng, mềm, trong suốt, có các hạt thủy tinh dạng thấu kính hoặc vi lăng kính có tính năng phản quang đồng đều trên toàn bộ bề mặt. Mặt sau của màng phản quang được phủ sẵn lớp kết dính để gắn kết với tấm kim loại sạch làm biển số xe.
+
+4.3. _Phản quang_ là hiện tượng phản xạ ánh sáng, trong đó các tia phản xạ có hướng gần trùng với hướng chiếu của tia sáng gốc, đặc tính này luôn được duy trì khi thay đổi hướng chiếu của tia sáng gốc.
+
+4.4. _Hệ số phản quang_ là tỷ số giữa hệ số cường độ sáng của một mặt phản xạ ánh sáng trên diện tích của chính mặt đó. Hệ số phản quang có đơn vị là Candelas trên lux trên mét vuông (cd.lx [-1] .m [-2] ).
+
+4.5. _Góc tới_ là góc giữa trục chiếu sáng và trục của bề mặt phát sáng.
+
+4.6. _Góc quan sát_ là góc giữa trục chiếu sáng và trục quan sát.
+
+4.7. _Trục chiếu sáng_ là trục nối giữa vật phát sáng và tâm của bề mặt tấm thí nghiệm.
+
+4.8. _Trục quan sát_ là trục nối giữa điểm quan sát và tâm của bề mặt tấm thí nghiệm.
+
+4.9. _Hệ số cường độ sáng_ là tỷ số của độ sáng của bề mặt được nhìn từ một vị trí cụ thể (được chiếu sáng theo một cách nhất định) và độ sáng của bề mặt màu trắng phản xạ khuếch tán (được nhìn từ một vị trí tương tự).
+
+4.10. _Phôi biển số xe_ là tấm nhôm đã được dán màng phản quang, cắt góc và bo tròn 4 cạnh theo kích thước quy định tại Quy chuẩn này nhưng chưa dập số và lăn mực (hoặc lăn sơn).
+
+4.11. _Mẫu biển số xe ban đầu_ là biển số xe được lấy ngẫu nhiên trong lô sản phẩm đầu tiên của cơ sở sản xuất biển số xe sau khi được cơ quan có thẩm quyền kiểm tra, nghiệm thu và cho phép sản xuất, cung cấp cho cơ quan đăng ký xe hoặc sau khi cơ sở sản xuất biển số xe thay thế ký hiệu bảo mật Công an hiệu trong quá trình sản xuất biển số xe.
+
+**II. QUY ĐỊNH VỀ KỸ THUẬT**
+
+**1. Cấu tạo và đặc điểm**
+
+1.1. Quy định chung
+
+- Biển số xe được sản xuất bằng hợp kim nhôm; có màng, mực (hoặc sơn) phản quang; ký hiệu bảo mật Công an hiệu đóng chìm rõ nét; các chữ, số và ký hiệu được dập nổi có chiều cao: (1,7 ±0,1) mm.
+
+- Biển số xe đảm bảo đúng kích thước, chất lượng và bảo mật; nét chữ và số sắc gọn, không nhòe mực, dễ dàng nhận biết thông tin; màng phản quang được dán vào tấm hợp kim nhôm không có vết rỗ khí.
+
+- Toàn bộ các dãy chữ, số được bố trí cân đối trên biển số xe.
+
+1.2. Biển số xe ô tô
+
+1.2.1. Biển số ngắn: kích thước (330 x 165) mm, bốn góc được bo tròn như Hình 1.
+
+1.2.2. Biển số dài: kích thước (520 x 110) mm, bốn góc được bo tròn như Hình 1.
+
+**Hình 1: Biển số xe ô tô**
+
+1.2.3. Vị trí ký hiệu bảo mật Công an hiệu
+
+- Đối với biển số dài: Công an hiệu dập phía trên của nét gạch ngang, mép trên Công an hiệu thẳng hàng với mép trên của dãy chữ và số.
+
+- Đối với biển số ngắn: Công an hiệu được dập ở vị trí giữa 2 hàng chữ, số trên và dưới, cách mép trái 5 mm.
+
+1.2.4. Vị trí chữ, số, ký hiệu trên biển số xe ô tô được quy định tại mục 1.1 và 1.2 Phụ lục ban hành kèm theo Quy chuẩn này.
+
+1.2.5. Kích thước chữ, số và ký hiệu trên biển số xe ô tô được quy định tại mục 1.3 Phụ lục ban hành kèm Quy chuẩn này.
+
+1.3. Biển số xe mô tô
+
+1.3.1. Kích thước biển số xe mô tô: (190 x 140) mm, bốn góc được bo tròn như Hình 2.
+
+**Hình 2: Biển số xe mô tô**
+
+1.3.2. Ký hiệu bảo mật Công an hiệu được dập ở vị trí phía trên nét gạch ngang hàng trên của biển số xe mô tô, cách mép trên của biển số xe mô tô 5 mm.
+
+1.3.3. Vị trí chữ, số, ký hiệu trên biển số xe mô tô được quy định tại mục 2.1 và 2.2 Phụ lục ban hành kèm theo Quy chuẩn này.
+
+1.3.4. Quy định về kích thước chữ, số và ký hiệu trên biển số xe mô tô được quy định tại mục 2.3 Phụ lục ban hành kèm theo Quy chuẩn này.
+
+1.4. Màu sắc biển số xe
+
+1.4.1. Biển số xe nền màu trắng; viền ngoài, chữ, số và ký tự màu đen.
+
+1.4.2. Biển số xe nền màu vàng; viền ngoài, chữ, số và ký tự màu đen.
+
+1.4.3. Biển số xe nền màu xanh; viền ngoài, chữ, số, các ký tự màu trắng.
+
+1.4.4. Biển số xe nền màu trắng; chữ màu đỏ; viền ngoài, số và ký tự màu đen.
+
+**2. Yêu cầu về vật liệu hợp kim nhôm tấm**
+
+2.1. Chiều dày của vật liệu hợp kim nhôm tấm: (1 ± 0,05) mm.
+
+2.2. Thành phần hóa học và cơ tính: đáp ứng yêu cầu về thành phần hóa học và cơ tính đối với nhôm A1100H14 theo quy định tại TCVN 13065: 2020 (ISO 6361:2011) Nhôm và hợp kim nhôm gia công áp lực - tấm mỏng, băng và tấm.
+
+**3. Yêu cầu về màng phản quang**
+
+3.1. Các ký tự đặc biệt trên màng phản quang
+
+- Màng phản quang có in đường vân và có in cụm ký tự “CSGT” và “TRAFFIC POLICE” bằng công nghệ ẩn chữ, nhìn rõ ở góc 30°.
+
+- Quy cách đường vân và cụm ký tự “CSGT” và “TRAFFIC POLICE” phải đáp ứng yêu cầu tại Hình 3, Hình 4, Hình 5 như sau:
+
+**Hình 3: Quy cách đường vân trên màng phản quang**
+
+**Hình 4: Quy cách cụm ký tự “CSGT” và “TRAFFIC POLICE”**
+
+**Hình 5: Vị trí, khoảng cách giữa các đường vân, ký tự đặc biệt**
+
+- Trường hợp cụm ký tự “CSGT” và “TRAFFIC POLICE” sử dụng phông chữ, kích thước chữ khác với quy định tại Hình 4 nhưng không thay đổi vị trí và cách sắp xếp của đường vân như quy định tại Hình 5 thì phải báo cáo và được Cục Cảnh sát giao thông, Bộ Công an phê duyệt.
+
+3.2. Yêu cầu về hệ số phản quang
+
+Hệ số phản quang của màng phản quang phải đạt yêu cầu quy định tại Bảng 1:
+
+**Bảng 1: Hệ số phản quang tối thiểu (Ra) cho màng phản quang (cd.lx** **[-1]** **.m** **[-2]** **).**
+
+|STT|Màu|Góc quan sát|Góc tới|Col5|Col6|Col7| |---|---|---|---|---|---|---| |**STT**|**Màu**|**Góc quan sát**|5°|30°|40°|Tối đa| |1|Trắng|0°12’|45|18|8|250| |1|Trắng|0°20’|30|12|6|6| |1|Trắng|1°30’|3,5|2|0,7|0,7|
+
+|2|Vàng|0°12’|30|12|5|250| |---|---|---|---|---|---|---| |2|Vàng|0°20’|20|8|4|4| |2|Vàng|1°30’|2,3|0,8|0,4|0,4| |3|Xanh|0°12’|2,8|2,1|1,6|| |3|Xanh|0°20’|2,6|2,0|1,7|1,7| |3|Xanh|1°30’|0,5|0,6|0,5|0,5|
+
+3.3. Yêu cầu về độ đồng nhất phản quang
+
+Nếu có sự thay đổi cục bộ về độ chói được thấy rõ trong điều kiện quan sát phản quang thì phép đo quang phải được thực hiện ở góc quan sát 0°20’ và ở góc tới 5° để kiểm tra. Các phép đo phải được thực hiện tại các vùng lân cận nhau, mỗi vùng có kích thước (5x5) cm. Tỷ lệ giữa hệ số phản quang cao nhất và hệ số phản quang thấp nhất đo được phải nhỏ hơn hoặc bằng 2.
+
+3.4. Yêu cầu về màu sắc
+
+Yêu cầu về màu sắc ban ngày và màu sắc ban đêm của màng phản quang phải phù hợp với quy định tại Bảng 2 và Bảng 3.
+
+**Bảng 2: Giới hạn màu chuẩn ban ngày**
+
+|Màu sắc|Tọa độ|1|2|3|4|Hệ số độ sáng| |---|---|---|---|---|---|---| |Trắng|x|0,355|0,305|0,285|0,335|> 0,35| |Trắng|y|0,355|0,305|0,325|0,375|0,375| |Vàng|x|0,465|0,427|0,487|0,545|> 0,27| |Vàng|y|0,534|0,483|0,423|0,454|0,454| |Xanh|x|0,140|0,244|0,190|0,065|| |Xanh|y|0,035|0,210|0,255|0,216|0,216|
+
+**Bảng 3: Giới hạn màu chuẩn ban đêm**
+
+|Màu sắc|Tọa độ|1|2|3|4| |---|---|---|---|---|---| |Trắng|x|0,450|0,548|0,417|0,372| |Trắng|y|0,513|0,404|0,359|0,405| |Vàng|x|0,585|0,610|0,520|0,505| |Vàng|y|0,385|0,390|0,480|0,465| |Xanh|x|0,033|0,180|0,230|0,091| |Xanh|y|0,370|0,370|0,240|0,133|
+
+3.5. Yêu cầu về độ bám dính
+
+Lớp kết dính mặt sau của màng phản quang cần có độ bám dính cần thiết sau khi thử nghiệm. Màng phản quang không bị bóc tách một khoảng chiều dài lớn hơn 05 mm.
+
+3.6. Yêu cầu về độ bền va đập
+
+Sau khi thử nghiệm va đập, vật liệu phản quang không xuất hiện vết nứt hoặc bong tróc khỏi nền ngoài 05 mm từ tâm vùng chịu va đập.
+
+3.7. Yêu cầu kỹ thuật khác
+
+Các yêu cầu về khả năng chịu nhiệt, chống uốn, chống nước, làm sạch, chống sương muối, chống ăn mòn và yêu cầu về độ bền áp dụng theo ISO 7591:1982 Phương tiện đường bộ - Biển số xe phản quang đối với phương tiện có động cơ và xe đầu kéo - Yêu cầu kỹ thuật.
+
+**4. Yêu cầu về mực (hoặc sơn)**
+
+Mực (hoặc sơn) phải đảm bảo phù hợp với màng phản quang và phải đảm bảo yêu cầu về ngoại quan đối với sản phẩm thành phẩm.
+
+**5. Thử nghiệm**
+
+5.1. Chuẩn bị mẫu thử
+
+- Chuẩn bị tấm nền: Tấm nền để dán màng phản quang dùng để thử nghiệm là tấm hợp kim nhôm, có bề mặt nhẵn. Tấm hợp kim nhôm có độ dày (1±0,05) mm và kích thước tối thiểu (200 x 200) mm hoặc
+
+có ít nhất 100 cm [2] bề mặt phẳng liên tục để tạo điều kiện cho các phép đo quang và các thử nghiệm khác. Làm sạch các chất bẩn trên mặt tấm nhôm và dán màng lên tấm nhôm theo hướng dẫn của nhà chế tạo màng phản quang.
+
+- Bảo quản mẫu: Bảo quản vật mẫu bao gồm mẫu đã dán và chưa dán ở nhiệt độ (23 ± 5)° C và tại độ ẩm tương đối (50 ± 10) % trong 24 giờ trước khi thử nghiệm.
+
+5.2. Đo hệ số phản quang
+
+Đo hệ số phản quang áp dụng một trong hai phương pháp đo sau:
+
+- Phương pháp đo quy định tại Phụ lục B, TCVN 7887:2018 Màng phản quang dùng cho báo hiệu đường bộ;
+
+- Phương pháp đo quy định tại ISO 7591:1982 Phương tiện đường bộ - Biển số xe phản quang đối với phương tiện có động cơ và xe đầu kéo - Yêu cầu kỹ thuật.
+
+5.3. Đo màu sắc ban ngày
+
+5.3.1. Đối với biển số xe sử dụng màng phản quang màu trắng và màu vàng: phương pháp đo màu sắc ban ngày thực hiện theo quy định tại mục 7.1 ISO 7591:1982 Phương tiện đường bộ - Biển số xe phản quang đối với phương tiện có động cơ và xe đầu kéo - Yêu cầu kỹ thuật.
+
+5.3.2. Đối với biển số sử dụng màng phản quang màu xanh: phương pháp đo màu sắc ban ngày thực hiện theo quy định tại mục 7.4. Xác định hệ số độ sáng ban ngày TCVN 7887:2018 Màng phản quang dùng cho báo hiệu đường bộ.
+
+5.4. Đo màu sắc ban đêm
+
+5.4.1. Đối với biển số xe sử dụng màng phản quang màu trắng và màu vàng: phương pháp đo màu ban đêm thực hiện theo quy định tại mục 7.2 ISO 7591:1982 Phương tiện đường bộ - Biển số xe phản quang đối với phương tiện có động cơ và xe đầu kéo - Yêu cầu kỹ thuật.
+
+5.4.2. Đối với biển số sử dụng màng phản quang màu xanh: phương pháp đo màu sắc ban đêm thực hiện theo quy định tại mục 7.11. Xác định màu sắc ban đêm TCVN 7887:2018 Màng phản quang dùng cho báo hiệu đường bộ.
+
+5.5. Đo độ bám dính với nền
+
+Phương pháp đo độ bám dính với nền thực hiện theo quy định tại mục 7.9. Xác định độ bám dính TCVN 7887:2018 Màng phản quang dùng cho báo hiệu đường bộ. Sau khi thử nghiệm, xác định độ dài mà màng bị bóc tách khỏi bề mặt tấm mẫu.
+
+5.6. Đo độ bền va đập
+
+Đưa mẫu thử vào phòng lạnh có nhiệt độ (-20±2) °C trong một giờ. Ngay sau khi đưa mẫu ra khỏi phòng lạnh, đặt mẫu lên một bề mặt chắc chắn với bề mặt phản quang hướng lên trên và tiến hành thử nghiệm: thả một viên bi thép đường kính 25 mm từ độ cao 2 m. Kết thúc thử nghiệm, kiểm tra các dấu hiệu hư hỏng (vết nứt hoặc bong tróc) của mẫu.
+
+5.7. Các thử nghiệm khác
+
+Các thử nghiệm khác theo yêu cầu tại mục 3.7. Yêu cầu kỹ thuật khác sử dụng phương pháp thử nghiệm theo ISO 7591:1982 Phương tiện đường bộ - Biển số xe phản quang đối với phương tiện có động cơ và xe đầu kéo - Yêu cầu kỹ thuật.
+
+**III. QUY ĐỊNH VỀ QUẢN LÝ**
+
+**1. Quy định về sản xuất, cung ứng biển số xe**
+
+1.1. Biển số xe phải được sản xuất tại cơ sở công nghiệp an ninh nòng cốt. Việc sản xuất, cung ứng biển số xe phải theo yêu cầu của cơ quan đăng ký xe.
+
+1.2. Cơ sở sản xuất biển số xe phải xây dựng cơ sở dữ liệu về sản xuất biển số xe và nhập các thông tin liên quan đến quá trình sản xuất biển số xe để phục vụ công tác quản lý sản xuất, cung ứng biển số xe.
+
+1.3. Định kỳ 3 tháng, cơ sở sản xuất biển số xe phải báo cáo kết quả sản xuất, cung ứng biển số xe và công tác quản lý dữ liệu sản xuất biển số xe về Cục Cảnh sát giao thông, Bộ Công an.
+
+**2. Lưu mẫu và bảo quản**
+
+2.1. Định kỳ 3 tháng, cơ sở sản xuất biển số xe phải lấy mẫu ngẫu nhiên 3 phôi biển số xe (sau đây gọi chung là phôi biển số xe lưu mẫu) và lưu mẫu tại cơ sở sản xuất biển số xe để phục vụ kiểm tra khi có yêu cầu của đơn vị quản lý. Thời gian lưu phôi biển số xe lưu mẫu là 5 năm, kể từ ngày lấy mẫu.
+
+2.2. Mẫu biển số xe ban đầu được lưu, bảo quản lâu dài tại cơ sở sản xuất biển số xe để phục vụ công tác giám định biển số xe.
+
+**3. Quy định về công nhận kết quả thử nghiệm**
+
+3.1. Kết quả thử nghiệm của nguyên liệu sản xuất biển số xe do cơ quan, tổ chức có thẩm quyền cấp được sử dụng để công nhận chất lượng sản phẩm biển số xe.
+
+3.2. Kết quả thử nghiệm, cam kết về mực (hoặc sơn) do nhà sản xuất hoặc nhà cung cấp màng phản quang cung cấp được chấp nhận.
+
+**4. Quy định về kiểm tra**
+
+4.1. Cơ sở sản xuất biển số xe phải được kiểm tra, đánh giá việc sản xuất, cung ứng biển số xe định kỳ 2 năm/lần (kiểm tra, đánh giá định kỳ).
+
+4.2. Phôi biển số xe lưu mẫu phải được thử nghiệm theo quy định tại Quy chuẩn này khi thực hiện kiểm tra, đánh giá định kỳ. số lượng phôi biển số xe và khối lượng kiểm tra, thử nghiệm do Cục Cảnh sát giao thông, Bộ Công an quyết định.
+
+4.3. Cục Cảnh sát giao thông, Bộ Công an chủ trì phối hợp với Cục Công nghiệp an ninh, Bộ Công an thực hiện việc kiểm tra, đánh giá định kỳ các cơ sở sản xuất biển số xe theo quy định tại Quy chuẩn này.
+
+**IV. TỔ CHỨC THỰC HIỆN**
+
+1. Bộ Công an chỉ định tổ chức đánh giá sự phù hợp thực hiện đánh giá sản phẩm biển số xe theo quy định tại Quy chuẩn này.
+
+2. Tổ chức, cá nhân liên quan đến sản xuất, cung ứng, đặt hàng sản xuất, sử dụng biển số xe thuộc phạm vi quản lý của Bộ Công an tuân thủ các quy định tại Quy chuẩn này.
+
+3. Cục Khoa học, Chiến lược và Lịch sử Công an, Bộ Công an chủ trì, phối hợp với các đơn vị có liên quan phổ biến Quy chuẩn này cho các đối tượng có liên quan.
+
+4. Cục Cảnh sát giao thông, Bộ Công an chủ trì phối hợp các đơn vị có liên quan hướng dẫn, kiểm tra việc áp dụng Quy chuẩn này cho các đối tượng có liên quan.
+
+5. Trong quá trình thực hiện Quy chuẩn này, nếu có khó khăn, vướng mắc, tổ chức, cá nhân thông báo về Bộ Công an (qua Cục Cảnh sát giao thông) để kịp thời hướng dẫn./.
+
+PHỤ LỤC 1
+
+QUY ĐỊNH KÍCH THƯỚC CỦA BIỂN SỐ, CHỮ, SỐ VÀ KÝ HIỆU TRÊN BIỂN SỐ XE
+
+_(Ban hành kèm theo QCVN 08: 2024/BCA)_
+
+1. BIỂN SỐ XE Ô TÔ
+
+1.1. Biển số xe ô tô của cơ quan, tổ chức, cá nhân trong nước
+
+1.1.1. Biển số ngắn
+
+1.1.2. Biển số dài
+
+1.2. Biển số xe ô tô của cơ quan, tổ chức, cá nhân nước ngoài
+
+1.2.1. Biển số ngắn
+
+1.2.2. Biển số dài
+
+1.3. Khoảng cách giữa các chữ và số trên biển số xe ô tô là 10mm Trường hợp trên biển số xe ô tô có chứa số 1 thì khoảng cách giữa số 1 và số bên cạnh là 19mm; khoảng cách giữa 2 số 1 cạnh nhau là 28mm (2 nét chính cách nhau 38mm)
+
+1.4. Quy cách chữ và sô trên biên sô xe ô tô
+
+1.4.1. Quy cách chữ trên biển số xe ô tô
+
+1.4.2. Quy cách số trên biển số xe ô tô
+
+2. BIỂN SỐ XE MÔ TÔ
+
+2.1. Biển số xe mô tô của cơ quan, tổ chức, cá nhân trong nước
+
+2.1.2. Biển số xe mô tô của cơ quan, tổ chức, cá nhân nước ngoài
+
+2.3. Khoảng cách giữa các chữ và số trên biển số xe mô tô
+
+- Ở hàng trên: khoảng cách giữa các chữ và số là 5mm: trường hợp ở hàng trên có chứa số 1 thì
+khoảng cách giữa số 1 và chữ, số bên cạnh là 9mm, khoảng cách giữa 2 số 1 cạnh nhau là 13mm (khoảng cách giữa 2 nét chính là 20mm)
+
+- Ở hàng dưới khoảng cách giữ các chữ và số là 10mm; trường hợp hàng dưới biển số xe mô tô có chứa số 1 thì khoảng cách giữa số 1 và chữ, số bên cạnh là 14mm; khoảng cách giữa 2 số 1 là 18mm (khoảng cách 2 nét chính là 25mm)
+
+2.4. Quy cách chữ và số trên biển số xe mô tô
+
+2.4.1. Quy cách chữ trên biển số xe mô tô
+
+2.4.2 Quy cách số trên biển số xe mô tô

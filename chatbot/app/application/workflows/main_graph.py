@@ -27,14 +27,14 @@ def route_guardrails(state: AgentState) -> Literal["rewrite", "end_unsafe"]:
         return "end_unsafe"
     return "rewrite"
 
-def route_router(state: AgentState) -> Literal["retrieval", "end_chitchat"]:
+def route_router(state: AgentState) -> Literal["retrieval", "generate"]:
     """Điều hướng sau khi phân loại ý định."""
     intent = state.get("intent", "chitchat")
     if intent in ["legal", "procedure"]:
         return "retrieval"
-    return "end_chitchat"
+    return "generate"
 
-def route_grade(state: AgentState) -> Literal["generate", "web_search", "ask_human"]:
+def route_grade(state: AgentState) -> Literal["generate", "ask_human"]:
     """Điều hướng sau khi đánh giá tài liệu."""
     return state.get("next_action", "generate")
 
@@ -52,7 +52,8 @@ def build_traffic_law_graph():
     workflow.add_node("router", container.router_node)
     workflow.add_node("retrieval", container.retrieval_node)
     workflow.add_node("grade", container.grade_node)
-    workflow.add_node("web_search", container.web_search_node)
+    # Bỏ qua web_search node
+    # workflow.add_node("web_search", container.web_search_node)
     workflow.add_node("generate", container.generate_node)
     workflow.add_node("ask_human", container.ask_human_node)
 
@@ -74,32 +75,30 @@ def build_traffic_law_graph():
     # 3. Rewrite -> Router
     workflow.add_edge("rewrite", "router")
 
-    # 4. Router -> Retrieval (Legal) OR End (Chitchat)
+    # 4. Router -> Retrieval (Legal) OR Generate (Chitchat)
     workflow.add_conditional_edges(
         "router",
         route_router,
         {
             "retrieval": "retrieval",
-            "end_chitchat": END
+            "generate": "generate",   # Chitchat đi thẳng vào Generate để sinh response
         }
     )
 
     # 5. Retrieval -> Grade
     workflow.add_edge("retrieval", "grade")
 
-    # 6. Grade -> Generate / Web Search / Ask Human
+    # 6. Grade -> Generate / Ask Human
     workflow.add_conditional_edges(
         "grade",
         route_grade,
         {
             "generate": "generate",
-            "web_search": "web_search",
             "ask_human": "ask_human"
         }
     )
 
-    # 7. Web Search -> Generate
-    workflow.add_edge("web_search", "generate")
+    # 7. (Đã xóa Web Search -> Generate)
     
     # 8. Generate -> End
     workflow.add_edge("generate", END)

@@ -63,8 +63,12 @@ class Settings(BaseSettings):
         description="Groq model name"
         )
     EMBEDDING_MODEL: str = Field(
-        default="models/text-embedding-004", 
+        default="intfloat/multilingual-e5-small", 
         description="Embedding model for vector store"
+        )
+    EMBEDDING_DIMENSIONS: int = Field(
+        default=384, 
+        description="Dimensions of the embedding model"
         )
     
     # ==================== DATABASES CONNECTIONS ====================
